@@ -1,0 +1,530 @@
+[
+  {
+    "question_id": 0,
+    "answer": 0.330322265625,
+    "prompt": "A Samoyed  (A fluffy, white-coated canine with a perpetually smiling expression and dark, almond-shaped eyes.)dog and a British Shorthair cat (A feline with a muscular build, round face, and dense, plush fur, often seen in a variety of solid colors.) enjoy a cozy afternoon in a warm, sunlit living room, with soft rugs and plush pillows.",
+    "image_name": "0.jpg"
+  },
+  {
+    "question_id": 1,
+    "answer": 0.3974609375,
+    "prompt": "In a cozy suburban backyard, a leonberger  (A large, muscular canine with a thick, water-resistant coat and a black facial mask.)and a black miniature pinscher (A small, sleek dog with a shiny black coat and alert, expressive eyes.) play together, surrounded by lush green grass and colorful flowers.",
+    "image_name": "1.jpg"
+  },
+  {
+    "question_id": 2,
+    "answer": 0.308837890625,
+    "prompt": "A boxer  (This muscular canine has a strong, square jaw and a smooth coat, often with a fawn or brindle color and a distinctive black mask.)dog and a British Shorthair cat (A feline with a muscular build, round face, and dense, plush fur, often seen in a variety of solid colors.) rest peacefully on a cozy living room sofa, bathed in the warm glow of afternoon sunlight filtering through the window.",
+    "image_name": "2.jpg"
+  },
+  {
+    "question_id": 3,
+    "answer": 0.341796875,
+    "prompt": "An American Pit Bull Terrier  (With a muscular build, a broad head, and a short, glossy coat, this dog exudes strength and agility.)and a white Chihuahua  (A small, sleek canine with a short, smooth coat and distinctive white fur.)play together in a grassy backyard, surrounded by colorful toys and blooming flowers.",
+    "image_name": "3.jpg"
+  },
+  {
+    "question_id": 4,
+    "answer": 0.366455078125,
+    "prompt": "A Great Pyrenees  (A large, majestic canine with a thick, white double coat and a calm, regal expression.)dog lounges peacefully by a cozy fireplace while a Bombay cat (Sleek and black with a muscular build and striking copper or gold eyes.) playfully bats at a hanging ornament, both in a warm and inviting living room setting.",
+    "image_name": "4.jpg"
+  },
+  {
+    "question_id": 5,
+    "answer": 0.357421875,
+    "prompt": "A Siberian husky  (A majestic canine with striking blue eyes, a thick double coat, and distinct black-and-white markings.)and a British Shorthair cat (A feline with a muscular build, round face, and dense, plush fur, often seen in a variety of solid colors.) lounge together near a cozy fireplace in a rustic cottage, surrounded by warm, wooden interiors.",
+    "image_name": "5.jpg"
+  },
+  {
+    "question_id": 6,
+    "answer": 0.349365234375,
+    "prompt": "A Keeshond  (A furry companion with a thick, silvery-grey coat and distinctive facial markings resembling spectacles.)and a White Wheaten Terrier  (A small, fluffy dog with a wavy, cream-colored coat and a friendly expression.)play together in a spacious backyard during a sunny day, surrounded by lush green trees and blooming flowers, showcasing their lively spirits.",
+    "image_name": "6.jpg"
+  },
+  {
+    "question_id": 7,
+    "answer": 0.332275390625,
+    "prompt": "A Great Pyrenees  (A large, majestic canine with a thick, white double coat and a calm, regal expression.)dog lounges peacefully in a sunlit garden, while an Abyssinian cat (With sleek, slender bodies, large almond-shaped eyes, and a warm, ticked coat of fur, these elegant felines exude grace and curiosity.) playfully explores the nearby flowers.",
+    "image_name": "7.jpg"
+  },
+  {
+    "question_id": 8,
+    "answer": 0.36328125,
+    "prompt": "A Newfoundland  (A large, muscular canine with a thick, water-resistant coat, often black, brown, or gray in color, and a gentle expression.)dog and a Beagle  (A small, muscular canine with a tricolored coat and long ears, known for its keen sense of smell.)play together in a lush suburban backyard, surrounded by vibrant flowers and a small pond reflecting the afternoon sun.",
+    "image_name": "8.jpg"
+  },
+  {
+    "question_id": 9,
+    "answer": 0.30810546875,
+    "prompt": "A keeshond  (A furry companion with a thick, silvery-grey coat and distinctive facial markings resembling spectacles.)dog and a Birman cat (With striking blue eyes and silky fur adorned with color point patterns, this elegant feline exudes a graceful presence.) relax together on a cozy living room rug, basking in the warm sunlight streaming through the window.",
+    "image_name": "9.jpg"
+  },
+  {
+    "question_id": 10,
+    "answer": 0.351806640625,
+    "prompt": "In a cozy suburban home, a Newfoundland  (A large, muscular canine with a thick, water-resistant coat, often black, brown, or gray in color, and a gentle expression.)dog lounges by the fireplace, while an Abyssinian cat (With sleek, slender bodies, large almond-shaped eyes, and a warm, ticked coat of fur, these elegant felines exude grace and curiosity.) curiously explores the shelves and nooks, both basking in the warmth and comfort of their shared environment.",
+    "image_name": "10.jpg"
+  },
+  {
+    "question_id": 11,
+    "answer": 0.335693359375,
+    "prompt": "A keeshond  (A furry companion with a thick, silvery-grey coat and distinctive facial markings resembling spectacles.)and a havanese  (With a silky coat, expressive eyes, and a compact, sturdy frame, this small canine exudes charm and elegance.)play gracefully in a cozy living room, surrounded by plush sofas and toys, basking in the warmth of their shared home environment.",
+    "image_name": "11.jpg"
+  },
+  {
+    "question_id": 12,
+    "answer": 0.330810546875,
+    "prompt": "A Siberian husky  (A majestic canine with striking blue eyes, a thick double coat, and distinct black-and-white markings.)and a Shiba inu  (A small, agile canine with a fox-like face, erect ears, and a curled tail.)play together in a snowy forest, their fur blending with the wintery landscape as they chase each other through the fresh powder.",
+    "image_name": "12.jpg"
+  },
+  {
+    "question_id": 13,
+    "answer": 0.36181640625,
+    "prompt": "An English Setter  (A large, elegant dog with a silky white coat adorned with black or brown speckles and long feathered ears.)and a Black Miniature Pinscher (A small, sleek dog with a shiny black coat and alert, expressive eyes.) are playfully exploring a spacious backyard garden, with the English Setter\u2019s feathered coat fluttering in the breeze and the Miniature Pinscher energetically darting around, both surrounded by blooming flowers and swaying trees.",
+    "image_name": "13.jpg"
+  },
+  {
+    "question_id": 14,
+    "answer": 0.348388671875,
+    "prompt": "In a cozy living room, a german shorthaired  (With a sleek, athletic build and a short, dense coat usually featuring liver or liver-and-white coloring, this canine is known for its keen, alert expression.)dog lounges near the fireplace while a sphynx cat (This hairless feline features large ears, prominent cheekbones, and wrinkled skin.) perches on a windowsill, both basking in the warmth and comfort of the home environment.",
+    "image_name": "14.jpg"
+  },
+  {
+    "question_id": 15,
+    "answer": 0.3427734375,
+    "prompt": "An English Setter  (A large, elegant dog with a silky white coat adorned with black or brown speckles and long feathered ears.)dog and a Sphynx cat (This hairless feline features large ears, prominent cheekbones, and wrinkled skin.) relax together in a cozy living room, with the dog lounging on a plush rug and the cat perched on a cushioned window seat, both basking in the warm afternoon sunlight streaming through the windows.",
+    "image_name": "15.jpg"
+  },
+  {
+    "question_id": 16,
+    "answer": 0.26318359375,
+    "prompt": "An American Bull (A muscular dog with a strong jaw, broad chest, and a short, sleek coat.)dog and a British Shorthair cat (A feline with a muscular build, round face, and dense, plush fur, often seen in a variety of solid colors.) peacefully coexist in a cozy living room, lounging together on a soft, plush rug near a warm fireplace.",
+    "image_name": "16.jpg"
+  },
+  {
+    "question_id": 17,
+    "answer": 0.36572265625,
+    "prompt": "A Samoyed  (A fluffy, white-coated canine with a perpetually smiling expression and dark, almond-shaped eyes.)dog and a white chihuahua  (A small, sleek canine with a short, smooth coat and distinctive white fur.)dog play together in a cozy, well-furnished living room, with a backdrop of soft blankets and a warm fireplace.",
+    "image_name": "17.jpg"
+  },
+  {
+    "question_id": 18,
+    "answer": 0.330078125,
+    "prompt": "A German shorthaired  (With a sleek, athletic build and a short, dense coat usually featuring liver or liver-and-white coloring, this canine is known for its keen, alert expression.)dog and an Abyssinian cat (With sleek, slender bodies, large almond-shaped eyes, and a warm, ticked coat of fur, these elegant felines exude grace and curiosity.) play together in a spacious, grassy backyard, exploring and chasing each other under the dappled sunlight filtering through the trees.",
+    "image_name": "18.jpg"
+  },
+  {
+    "question_id": 19,
+    "answer": 0.35791015625,
+    "prompt": "A cheerful Siberian husky  (A majestic canine with striking blue eyes, a thick double coat, and distinct black-and-white markings.)and a curious Abyssinian cat (With sleek, slender bodies, large almond-shaped eyes, and a warm, ticked coat of fur, these elegant felines exude grace and curiosity.) play together in a cozy living room, surrounded by soft furniture and warm natural light filtering through the windows.",
+    "image_name": "19.jpg"
+  },
+  {
+    "question_id": 20,
+    "answer": 0.321044921875,
+    "prompt": "A leonberger  (A large, muscular canine with a thick, water-resistant coat and a black facial mask.)dog and a sphynx cat (This hairless feline features large ears, prominent cheekbones, and wrinkled skin.) lounge together in a cozy living room, the dog resting on a plush carpet while the cat perches on a nearby windowsill, both basking in the warm sunlight streaming through the window.",
+    "image_name": "20.jpg"
+  },
+  {
+    "question_id": 21,
+    "answer": 0.35888671875,
+    "prompt": "A Siberian husky  (A majestic canine with striking blue eyes, a thick double coat, and distinct black-and-white markings.)and a white chihuahua  (A small, sleek canine with a short, smooth coat and distinctive white fur.)play together in a sunny suburban backyard, with a cozy doghouse and green grass, showing an endearing bond despite their size difference.",
+    "image_name": "21.jpg"
+  },
+  {
+    "question_id": 22,
+    "answer": 0.331787109375,
+    "prompt": "An American Pit Bull Terrier  (With a muscular build, a broad head, and a short, glossy coat, this dog exudes strength and agility.)and a Birman cat (With striking blue eyes and silky fur adorned with color point patterns, this elegant feline exudes a graceful presence.) lounge comfortably together on a cozy living room sofa, bathed in warm afternoon sunlight filtering through sheer curtains.",
+    "image_name": "22.jpg"
+  },
+  {
+    "question_id": 23,
+    "answer": 0.294921875,
+    "prompt": "An American Pit Bull Terrier  (With a muscular build, a broad head, and a short, glossy coat, this dog exudes strength and agility.)and a Bengal cat (The feline sports a sleek, muscular body adorned with a striking coat of golden fur decorated with rosette patterns and bold, dark stripes.) play together in a cozy living room filled with colorful furniture and climbing structures, sunlight streaming through a large window.",
+    "image_name": "23.jpg"
+  },
+  {
+    "question_id": 24,
+    "answer": 0.320068359375,
+    "prompt": "An American Bull (A muscular dog with a strong jaw, broad chest, and a short, sleek coat.)dog and a Shiba Inu  (A small, agile canine with a fox-like face, erect ears, and a curled tail.)play together in a suburban backyard, surrounded by lush greenery and a white picket fence.",
+    "image_name": "24.jpg"
+  },
+  {
+    "question_id": 25,
+    "answer": 0.33740234375,
+    "prompt": "A leonberger  (A large, muscular canine with a thick, water-resistant coat and a black facial mask.)dog and an Abyssinian cat (With sleek, slender bodies, large almond-shaped eyes, and a warm, ticked coat of fur, these elegant felines exude grace and curiosity.) play together in a cozy living room, sunlight streaming in through large windows, the cat perched on a high shelf while the dog lounges on a plush rug below.",
+    "image_name": "25.jpg"
+  },
+  {
+    "question_id": 26,
+    "answer": 0.349365234375,
+    "prompt": "An American bull (A muscular dog with a strong jaw, broad chest, and a short, sleek coat.)dog and a Sphynx cat (This hairless feline features large ears, prominent cheekbones, and wrinkled skin.) are lounging together in a cozy living room, the dog on a soft rug while the cat perches on a windowsill soaking up the sunlight.",
+    "image_name": "26.jpg"
+  },
+  {
+    "question_id": 27,
+    "answer": 0.32373046875,
+    "prompt": "A samoyed  (A fluffy, white-coated canine with a perpetually smiling expression and dark, almond-shaped eyes.)dog and a birman cat (With striking blue eyes and silky fur adorned with color point patterns, this elegant feline exudes a graceful presence.) relax together in a cozy living room, sunlight streaming through the window and illuminating their fluffy white fur as they enjoy the comforts of their shared home.",
+    "image_name": "27.jpg"
+  },
+  {
+    "question_id": 28,
+    "answer": 0.33984375,
+    "prompt": "An American Bull (A muscular dog with a strong jaw, broad chest, and a short, sleek coat.)dog lies contently on a sunny patio while an Abyssinian cat (With sleek, slender bodies, large almond-shaped eyes, and a warm, ticked coat of fur, these elegant felines exude grace and curiosity.) gracefully explores the garden, their calm presence and playful energy harmonizing perfectly in a cozy suburban backyard.",
+    "image_name": "28.jpg"
+  },
+  {
+    "question_id": 29,
+    "answer": 0.33935546875,
+    "prompt": "A large Newfoundland  (A large, muscular canine with a thick, water-resistant coat, often black, brown, or gray in color, and a gentle expression.)dog and a small white chihuahua  (A small, sleek canine with a short, smooth coat and distinctive white fur.)enjoy the warmth of a cozy suburban living room, with the Newfoundland lounging on the carpet while the chihuahua curls up on a plush chair nearby.",
+    "image_name": "29.jpg"
+  },
+  {
+    "question_id": 30,
+    "answer": 0.329345703125,
+    "prompt": "An American Pit Bull Terrier  (With a muscular build, a broad head, and a short, glossy coat, this dog exudes strength and agility.)and a Havanese  (With a silky coat, expressive eyes, and a compact, sturdy frame, this small canine exudes charm and elegance.)play together in a suburban backyard, their tails wagging as they chase each other around a lush green lawn with a cozy house in the background.",
+    "image_name": "30.jpg"
+  },
+  {
+    "question_id": 31,
+    "answer": 0.330322265625,
+    "prompt": "A Siberian Husky  (A majestic canine with striking blue eyes, a thick double coat, and distinct black-and-white markings.)and a Bengal cat (The feline sports a sleek, muscular body adorned with a striking coat of golden fur decorated with rosette patterns and bold, dark stripes.) playfully chase each other through a snowy forest, their vibrant coats creating a striking contrast against the white backdrop.",
+    "image_name": "31.jpg"
+  },
+  {
+    "question_id": 32,
+    "answer": 0.364990234375,
+    "prompt": "An american bull (A muscular dog with a strong jaw, broad chest, and a short, sleek coat.)dog and a white chihuahua  (A small, sleek canine with a short, smooth coat and distinctive white fur.)dog play together in a sunny suburban backyard, with green grass and blooming flowers all around.",
+    "image_name": "32.jpg"
+  },
+  {
+    "question_id": 33,
+    "answer": 0.392578125,
+    "prompt": "A Great Pyrenees  (A large, majestic canine with a thick, white double coat and a calm, regal expression.)dog and an Egyptian Mau cat (This sleek feline boasts a muscular build with a striking silver coat adorned with distinctive dark spots.) lounging together in a picturesque countryside farmhouse, surrounded by rolling fields and blooming wildflowers.",
+    "image_name": "33.jpg"
+  },
+  {
+    "question_id": 34,
+    "answer": 0.315673828125,
+    "prompt": "A great pyrenees  (A large, majestic canine with a thick, white double coat and a calm, regal expression.)dog and a Bengal cat (The feline sports a sleek, muscular body adorned with a striking coat of golden fur decorated with rosette patterns and bold, dark stripes.) relax in a spacious, lush backyard garden, the dog lying protectively under a tree while the cat playfully chases butterflies among the vibrant flowers.",
+    "image_name": "34.jpg"
+  },
+  {
+    "question_id": 35,
+    "answer": 0.3505859375,
+    "prompt": "A Newfoundland  (A large, muscular canine with a thick, water-resistant coat, often black, brown, or gray in color, and a gentle expression.)dog and a Birman cat (With striking blue eyes and silky fur adorned with color point patterns, this elegant feline exudes a graceful presence.) lounge together by a cozy fireplace in a warmly lit living room, showcasing their harmonious and friendly relationship in a homey environment.",
+    "image_name": "35.jpg"
+  },
+  {
+    "question_id": 36,
+    "answer": 0.339111328125,
+    "prompt": "A great Pyrenees  (A large, majestic canine with a thick, white double coat and a calm, regal expression.)dog and a black Maine Coon cat (A regal feline with a luxurious, long black coat and tufted ears.) relax together in a cozy rustic farmhouse living room, the dog comfortably sprawled on a large rug while the cat perches gracefully on a windowsill, both basking in the warm sunlight streaming through the windows.",
+    "image_name": "36.jpg"
+  },
+  {
+    "question_id": 37,
+    "answer": 0.35400390625,
+    "prompt": "A keeshond  (A furry companion with a thick, silvery-grey coat and distinctive facial markings resembling spectacles.)and a Shiba Inu  (A small, agile canine with a fox-like face, erect ears, and a curled tail.)playfully share a cozy suburban backyard, their fur contrasting beautifully against the lush green grass and blooming flowers.",
+    "image_name": "37.jpg"
+  },
+  {
+    "question_id": 38,
+    "answer": 0.33935546875,
+    "prompt": "A samoyed  (A fluffy, white-coated canine with a perpetually smiling expression and dark, almond-shaped eyes.)dog and a sphynx cat (This hairless feline features large ears, prominent cheekbones, and wrinkled skin.) lounge on a cozy living room sofa, basking in the warm sunlight streaming through the window, surrounded by houseplants and soft cushions.",
+    "image_name": "38.jpg"
+  },
+  {
+    "question_id": 39,
+    "answer": 0.333740234375,
+    "prompt": "A German shorthaired  (With a sleek, athletic build and a short, dense coat usually featuring liver or liver-and-white coloring, this canine is known for its keen, alert expression.)dog and a Birman cat (With striking blue eyes and silky fur adorned with color point patterns, this elegant feline exudes a graceful presence.) relax together in a cozy living room, with the dog lying on a rug by the fireplace and the cat perched gracefully on a nearby armchair.",
+    "image_name": "39.jpg"
+  },
+  {
+    "question_id": 40,
+    "answer": 0.35791015625,
+    "prompt": "A Great Pyrenees  (A large, majestic canine with a thick, white double coat and a calm, regal expression.)and a White Wheaten Terrier  (A small, fluffy dog with a wavy, cream-colored coat and a friendly expression.)play together in a spacious, green pasture surrounded by rolling hills, with a few sheep grazing peacefully in the background.",
+    "image_name": "40.jpg"
+  },
+  {
+    "question_id": 41,
+    "answer": 0.375,
+    "prompt": "A Newfoundland  (A large, muscular canine with a thick, water-resistant coat, often black, brown, or gray in color, and a gentle expression.)dog and a Ragdoll cat (A fluffy feline with striking blue eyes and a silky, semi-long coat that often sports a color-point pattern.) relax together in a cozy living room, with the dog sprawled out on a soft rug and the cat perched contentedly on a nearby windowsill, sunlight streaming in.",
+    "image_name": "41.jpg"
+  },
+  {
+    "question_id": 42,
+    "answer": 0.27490234375,
+    "prompt": "A boxer  (This muscular canine has a strong, square jaw and a smooth coat, often with a fawn or brindle color and a distinctive black mask.)dog and a sphynx cat (This hairless feline features large ears, prominent cheekbones, and wrinkled skin.) lounge together in a cozy living room, with the dog playfully nudging a toy and the cat basking in a sunbeam streaming through the window.",
+    "image_name": "42.jpg"
+  },
+  {
+    "question_id": 43,
+    "answer": 0.307373046875,
+    "prompt": "A Samoyed  (A fluffy, white-coated canine with a perpetually smiling expression and dark, almond-shaped eyes.)dog and a Bengal cat (The feline sports a sleek, muscular body adorned with a striking coat of golden fur decorated with rosette patterns and bold, dark stripes.) playfully interact in a cozy living room adorned with warm lighting and comfortable furniture, toys scattered around them, reflecting their energetic and friendly personalities.",
+    "image_name": "43.jpg"
+  },
+  {
+    "question_id": 44,
+    "answer": 0.318359375,
+    "prompt": "A Leonberger  (A large, muscular canine with a thick, water-resistant coat and a black facial mask.)dog and an Egyptian Mau cat (This sleek feline boasts a muscular build with a striking silver coat adorned with distinctive dark spots.) relax together in a cozy living room, with the cat perched on the back of a sofa and the dog lying contentedly by a roaring fireplace.",
+    "image_name": "44.jpg"
+  },
+  {
+    "question_id": 45,
+    "answer": 0.33740234375,
+    "prompt": "A black English Cocker Spaniel  (This medium-sized dog features a shiny black coat, long floppy ears, and expressive dark eyes.)dog and an Egyptian Mau cat (This sleek feline boasts a muscular build with a striking silver coat adorned with distinctive dark spots.) play together in a spacious, sunlit living room, filled with cozy furniture and warm, welcoming ambiance.",
+    "image_name": "45.jpg"
+  },
+  {
+    "question_id": 46,
+    "answer": 0.38720703125,
+    "prompt": "A Samoyed  (A fluffy, white-coated canine with a perpetually smiling expression and dark, almond-shaped eyes.)and a White Wheaten Terrier  (A small, fluffy dog with a wavy, cream-colored coat and a friendly expression.)playfully chase each other in a suburban backyard on a sunny day, surrounded by green grass and blooming flowers.",
+    "image_name": "46.jpg"
+  },
+  {
+    "question_id": 47,
+    "answer": 0.2919921875,
+    "prompt": "A black English Cocker Spaniel  (This medium-sized dog features a shiny black coat, long floppy ears, and expressive dark eyes.)dog and an Abyssinian cat (With sleek, slender bodies, large almond-shaped eyes, and a warm, ticked coat of fur, these elegant felines exude grace and curiosity.) peacefully cohabit in a cozy, sunlit living room, surrounded by soft furniture and scattered toys, both lounging contentedly on a plush carpet.",
+    "image_name": "47.jpg"
+  },
+  {
+    "question_id": 48,
+    "answer": 0.33935546875,
+    "prompt": "An American Pit Bull Terrier  (With a muscular build, a broad head, and a short, glossy coat, this dog exudes strength and agility.)and a Shiba Inu  (A small, agile canine with a fox-like face, erect ears, and a curled tail.)play together in a suburban backyard, their tails wagging as they chase each other around a well-kept garden full of blooming flowers and a wooden fence.",
+    "image_name": "48.jpg"
+  },
+  {
+    "question_id": 49,
+    "answer": 0.348876953125,
+    "prompt": "An American Bull (A muscular dog with a strong jaw, broad chest, and a short, sleek coat.)dog and an Egyptian Mau cat (This sleek feline boasts a muscular build with a striking silver coat adorned with distinctive dark spots.) lounge comfortably in a cozy suburban home, basking in the warm afternoon sunlight streaming through the window.",
+    "image_name": "49.jpg"
+  },
+  {
+    "question_id": 50,
+    "answer": 0.34765625,
+    "prompt": "An American Bull (A muscular dog with a strong jaw, broad chest, and a short, sleek coat.)dog and a Bombay cat (Sleek and black with a muscular build and striking copper or gold eyes.) relax together in a cozy living room, lit by the soft glow of a fireplace, reflecting the familial warmth and harmony of their shared home.",
+    "image_name": "50.jpg"
+  },
+  {
+    "question_id": 51,
+    "answer": 0.33056640625,
+    "prompt": "A black English Cocker Spaniel  (This medium-sized dog features a shiny black coat, long floppy ears, and expressive dark eyes.)and a white Chihuahua  (A small, sleek canine with a short, smooth coat and distinctive white fur.)playfully chase each other in a suburban backyard, surrounded by lush green grass and blooming flowers under a bright blue sky.",
+    "image_name": "51.jpg"
+  },
+  {
+    "question_id": 52,
+    "answer": 0.362060546875,
+    "prompt": "A keeshond  (A furry companion with a thick, silvery-grey coat and distinctive facial markings resembling spectacles.)dog and a Bombay cat (Sleek and black with a muscular build and striking copper or gold eyes.) lounge together on a cozy living room couch, the dog\u2019s fluffy grey coat contrasting with the cat\u2019s shiny black fur, both basking in the warm afternoon sunlight streaming through the window.",
+    "image_name": "52.jpg"
+  },
+  {
+    "question_id": 53,
+    "answer": 0.353271484375,
+    "prompt": "A Black English Cocker Spaniel  (This medium-sized dog features a shiny black coat, long floppy ears, and expressive dark eyes.)and a Havanese  (With a silky coat, expressive eyes, and a compact, sturdy frame, this small canine exudes charm and elegance.)dog playfully chase each other around a well-tended suburban garden filled with blooming flowers and lush green grass, under the bright afternoon sun.",
+    "image_name": "53.jpg"
+  },
+  {
+    "question_id": 54,
+    "answer": 0.283447265625,
+    "prompt": "An American bison (A massive, shaggy creature with a large hump over its shoulders and curved horns.) grazes peacefully in a sprawling prairie, while a red fox (With a bushy tail and vibrant reddish-orange fur, this creature often has a white underbelly and black \"socks\" on its feet.) stealthily moves through the tall grasses, keeping an eye out for small prey.",
+    "image_name": "54.jpg"
+  },
+  {
+    "question_id": 55,
+    "answer": 0.33544921875,
+    "prompt": "A Hippopotamus (A massive, barrel-shaped creature with tough, greyish skin and a large mouth boasting impressive tusks.) wades in a river while nearby, a pack of African Wild Dog (A slender canine with large, rounded ears, mottled fur patterns of black, brown, white, and yellow, and a lean, muscular build.)s cautiously approach the water's edge, under the dappled shade of savanna trees, in the golden light of the setting sun.",
+    "image_name": "55.jpg"
+  },
+  {
+    "question_id": 56,
+    "answer": 0.319091796875,
+    "prompt": "An American bison (A massive, shaggy creature with a large hump over its shoulders and curved horns.) grazes calmly in a wide open prairie, while a striped skunk (With a distinctive black coat accented by bold white stripes running from head to tail, this creature is instantly recognizable.) forages nearby amongst tall grasses, both reveling in the serenity of their shared natural environment.",
+    "image_name": "56.jpg"
+  },
+  {
+    "question_id": 57,
+    "answer": 0.352783203125,
+    "prompt": "A Baird's tapir (A large mammal with a prehensile snout, dark brown body, and lighter cheeks, often found in Central American forests.) and a group of capybara (A large, gentle rodent with a barrel-shaped body, slightly webbed feet, and coarse brown fur.)s roam through the lush, dense rainforest, pausing by a riverbank where the capybaras take a dip in the cool water while the tapir forages for vegetation.",
+    "image_name": "57.jpg"
+  },
+  {
+    "question_id": 58,
+    "answer": 0.315185546875,
+    "prompt": "A Himalayan Brown Bear (Massive and shaggy, with a thick fur coat of varying shades of brown, often tinged with a lighter color around the face and chest.) and a red fox (With a bushy tail and vibrant reddish-orange fur, this creature often has a white underbelly and black \"socks\" on its feet.) traverse the dense, misty forests of the Himalayan mountains, the bear foraging for berries while the fox deftly hunts small rodents amidst the underbrush.",
+    "image_name": "58.jpg"
+  },
+  {
+    "question_id": 59,
+    "answer": 0.341552734375,
+    "prompt": "A majestic moose (A large, long-legged mammal with broad, palmate antlers and a distinctive overhanging snout.) grazes near a dense forest edge while a striped skunk (With a distinctive black coat accented by bold white stripes running from head to tail, this creature is instantly recognizable.) ambles through the underbrush, both coexisting peacefully in the tranquil woodland setting.",
+    "image_name": "59.jpg"
+  },
+  {
+    "question_id": 60,
+    "answer": 0.3505859375,
+    "prompt": "A hippopotamus (A massive, barrel-shaped creature with tough, greyish skin and a large mouth boasting impressive tusks.) lounges in a river while a Damaliscus lunatus (Sporting a sleek, reddish-brown coat with striking facial markings and slightly curved, lyre-shaped horns.) grazes nearby on the savanna, both enjoying the lush and vibrant landscape of sub-Saharan Africa.",
+    "image_name": "60.jpg"
+  },
+  {
+    "question_id": 61,
+    "answer": 0.324462890625,
+    "prompt": "A moose (A large, long-legged mammal with broad, palmate antlers and a distinctive overhanging snout.) and a wild boar (This robust creature has coarse fur, sharp tusks, and a bristled back, often roaming forested areas.) wander through a dense forest, with the moose browsing on willow shoots while the boar sniffs the ground for acorns and roots.",
+    "image_name": "61.jpg"
+  },
+  {
+    "question_id": 62,
+    "answer": 0.302978515625,
+    "prompt": "An American bison (A massive, shaggy creature with a large hump over its shoulders and curved horns.) grazes peacefully on the open prairie while a Sciurus niger (With its bushy tail and reddish fur, this tree-dwelling rodent is often found scampering through the forests of North America.) scurries up a nearby tree, storing acorns and observing the vast landscape.",
+    "image_name": "62.jpg"
+  },
+  {
+    "question_id": 63,
+    "answer": 0.27099609375,
+    "prompt": "A Himalayan Brown Bear (Massive and shaggy, with a thick fur coat of varying shades of brown, often tinged with a lighter color around the face and chest.) and a group of Rhesus Macaque (With a pink face accented by expressive eyes and a sleek coat that ranges from sandy brown to reddish-brown, this agile primate is known for its high intelligence and social behavior.)s share a tranquil mountain meadow, surrounded by dense forests and majestic peaks, foraging peacefully under the dappled sunlight.",
+    "image_name": "63.jpg"
+  },
+  {
+    "question_id": 64,
+    "answer": 0.37890625,
+    "prompt": "A water buffalo (An Asian buffalo that is often domesticated for use as a draft animal) wades through a flooded rice field, while a rice rat (Hardy agile rat of grassy marshes of Mexico and the southeastern United States) scurries along the muddy banks, both creatures thriving in the lush, watery environment.",
+    "image_name": "64.jpg"
+  },
+  {
+    "question_id": 65,
+    "answer": 0.31591796875,
+    "prompt": "A musk ox (Large shaggy-coated bovid mammal of Canada and Greenland; intermediate in size and anatomy between an ox and a sheep) and an Arctic fox (Thickly-furred fox of Arctic regions; brownish in summer and white in winter) traverse the snowy Arctic tundra, with the musk ox grazing on sparse vegetation and the Arctic fox curiously investigating its surroundings.",
+    "image_name": "65.jpg"
+  },
+  {
+    "question_id": 66,
+    "answer": 0.33984375,
+    "prompt": "An orangutan (Large long-armed ape of Borneo and Sumatra having arboreal habits) and a flying lemur (Arboreal nocturnal mammal of southeast Asia and the Philippines resembling a lemur and having a fold of skin on each side from neck to tail that is used for long gliding leaps) navigate the dense tropical rainforests, the orangutan swinging from tree to tree while the flying lemur glides gracefully through the air.",
+    "image_name": "66.jpg"
+  },
+  {
+    "question_id": 67,
+    "answer": 0.348876953125,
+    "prompt": "A mountain goat (Sure-footed mammal of mountainous northwestern North America) carefully navigates the rocky cliffs while a pika (Small short-eared burrowing mammal of rocky uplands of Asia and western North America) gathers wildflowers and grasses, both residing in a high-altitude, alpine landscape with breathtaking views of snow-capped mountains in the background.",
+    "image_name": "67.jpg"
+  },
+  {
+    "question_id": 68,
+    "answer": 0.359375,
+    "prompt": "In a dense forest, a wild boar (This robust creature has coarse fur, sharp tusks, and a bristled back, often roaming forested areas.) rummages through the underbrush while a hedgehog (Small nocturnal Old World mammal covered with both hair and protective spines), curled into a ball, hides beneath a leaf pile, both animals sharing the serene, twilight setting.",
+    "image_name": "68.jpg"
+  },
+  {
+    "question_id": 69,
+    "answer": 0.345703125,
+    "prompt": "A cheetah (Long-legged spotted cat of Africa and southwestern Asia having nonretractile claws; the swiftest mammal; can be trained to run down game) and an aardwolf (Striped hyena of southeast Africa that feeds chiefly on insects) move stealthily through the African savanna, the cheetah scanning the horizon while the aardwolf searches the ground for termites under the cover of twilight.",
+    "image_name": "69.jpg"
+  },
+  {
+    "question_id": 70,
+    "answer": 0.3349609375,
+    "prompt": "ambulance bus (An ambulance bus is a type of ambulance with the capacity to transport and treat multiple patients.) and white Porsche 911 (A sleek, sporty white Porsche 911 with curvaceous lines, aerodynamic design, and iconic front headlights.), placed side by side in a large garage.",
+    "image_name": "70.jpg"
+  },
+  {
+    "question_id": 71,
+    "answer": 0.278076171875,
+    "prompt": "ambulance bus (An ambulance bus is a type of ambulance with the capacity to transport and treat multiple patients.) and blue Lamborghini Aventador Coupe (A sleek blue Lamborghini Aventador Coupe with sharp, aerodynamic lines and a low, aggressive stance.), parked next to each other on a city street.",
+    "image_name": "71.jpg"
+  },
+  {
+    "question_id": 72,
+    "answer": 0.297607421875,
+    "prompt": "ambulance bus (An ambulance bus is a type of ambulance with the capacity to transport and treat multiple patients.) and white Bugatti Veyron 16.4 Convertible (A sleek, luxurious white Bugatti Veyron 16.4 Convertible with a streamlined body and an open top.), displayed together in a showroom.",
+    "image_name": "72.jpg"
+  },
+  {
+    "question_id": 73,
+    "answer": 0.358642578125,
+    "prompt": "ambulance bus (An ambulance bus is a type of ambulance with the capacity to transport and treat multiple patients.) and black Tesla Model 3 (A sleek black Tesla Model 3 with a minimalist design and aerodynamic curves, exuding sophistication and modernity.), displayed together in a showroom.",
+    "image_name": "73.jpg"
+  },
+  {
+    "question_id": 74,
+    "answer": 0.247314453125,
+    "prompt": "ambulance bus (An ambulance bus is a type of ambulance with the capacity to transport and treat multiple patients.) and black Rolls-Royce Phantom Drophead Coupe Convertible (A sleek black Rolls-Royce Phantom Drophead Coupe Convertible with an iconic grille and luxurious design.), parked next to each other on a city street.",
+    "image_name": "74.jpg"
+  },
+  {
+    "question_id": 75,
+    "answer": 0.34033203125,
+    "prompt": "red Double-decker Bus (A vibrant red double-decker bus with two levels of seating and large windows for sightseeing.) and white Porsche 911 (A sleek, sporty white Porsche 911 with curvaceous lines, aerodynamic design, and iconic front headlights.), placed side by side in a large garage.",
+    "image_name": "75.jpg"
+  },
+  {
+    "question_id": 76,
+    "answer": 0.314697265625,
+    "prompt": "red Double-decker Bus (A vibrant red double-decker bus with two levels of seating and large windows for sightseeing.) and blue Lamborghini Aventador Coupe (A sleek blue Lamborghini Aventador Coupe with sharp, aerodynamic lines and a low, aggressive stance.), placed side by side in a large garage.",
+    "image_name": "76.jpg"
+  },
+  {
+    "question_id": 77,
+    "answer": 0.34814453125,
+    "prompt": "red Double-decker Bus (A vibrant red double-decker bus with two levels of seating and large windows for sightseeing.) and white Bugatti Veyron 16.4 Convertible (A sleek, luxurious white Bugatti Veyron 16.4 Convertible with a streamlined body and an open top.), parked next to each other on a city street.",
+    "image_name": "77.jpg"
+  },
+  {
+    "question_id": 78,
+    "answer": 0.313720703125,
+    "prompt": "red Double-decker Bus (A vibrant red double-decker bus with two levels of seating and large windows for sightseeing.) and black Tesla Model 3 (A sleek black Tesla Model 3 with a minimalist design and aerodynamic curves, exuding sophistication and modernity.), parked next to each other on a city street.",
+    "image_name": "78.jpg"
+  },
+  {
+    "question_id": 79,
+    "answer": 0.3642578125,
+    "prompt": "red Double-decker Bus (A vibrant red double-decker bus with two levels of seating and large windows for sightseeing.) and black Rolls-Royce Phantom Drophead Coupe Convertible (A sleek black Rolls-Royce Phantom Drophead Coupe Convertible with an iconic grille and luxurious design.), driving side by side on a wide, open highway.",
+    "image_name": "79.jpg"
+  },
+  {
+    "question_id": 80,
+    "answer": 0.3095703125,
+    "prompt": "white Recreational Vehicle (A white recreational vehicle featuring smooth, glossy sides with large windows and a sturdy frame designed for travel and comfort.) and white Porsche 911 (A sleek, sporty white Porsche 911 with curvaceous lines, aerodynamic design, and iconic front headlights.), cruising alongside each other on a scenic country road.",
+    "image_name": "80.jpg"
+  },
+  {
+    "question_id": 81,
+    "answer": 0.32421875,
+    "prompt": "white Recreational Vehicle (A white recreational vehicle featuring smooth, glossy sides with large windows and a sturdy frame designed for travel and comfort.) and blue Lamborghini Aventador Coupe (A sleek blue Lamborghini Aventador Coupe with sharp, aerodynamic lines and a low, aggressive stance.), parked next to each other on a city street.",
+    "image_name": "81.jpg"
+  },
+  {
+    "question_id": 82,
+    "answer": 0.331298828125,
+    "prompt": "white Recreational Vehicle (A white recreational vehicle featuring smooth, glossy sides with large windows and a sturdy frame designed for travel and comfort.) and white Bugatti Veyron 16.4 Convertible (A sleek, luxurious white Bugatti Veyron 16.4 Convertible with a streamlined body and an open top.), parked next to each other on a city street.",
+    "image_name": "82.jpg"
+  },
+  {
+    "question_id": 83,
+    "answer": 0.33154296875,
+    "prompt": "white Recreational Vehicle (A white recreational vehicle featuring smooth, glossy sides with large windows and a sturdy frame designed for travel and comfort.) and black Tesla Model 3 (A sleek black Tesla Model 3 with a minimalist design and aerodynamic curves, exuding sophistication and modernity.), cruising alongside each other on a scenic country road.",
+    "image_name": "83.jpg"
+  },
+  {
+    "question_id": 84,
+    "answer": 0.336181640625,
+    "prompt": "white Recreational Vehicle (A white recreational vehicle featuring smooth, glossy sides with large windows and a sturdy frame designed for travel and comfort.) and black Rolls-Royce Phantom Drophead Coupe Convertible (A sleek black Rolls-Royce Phantom Drophead Coupe Convertible with an iconic grille and luxurious design.), placed side by side in a large garage.",
+    "image_name": "84.jpg"
+  },
+  {
+    "question_id": 85,
+    "answer": 0.3095703125,
+    "prompt": "white Ford Transit (A white Ford Transit is a spacious, boxy van with a sleek white exterior, prominent front grille, and large side panels.) and white Porsche 911 (A sleek, sporty white Porsche 911 with curvaceous lines, aerodynamic design, and iconic front headlights.), placed side by side in a large garage.",
+    "image_name": "85.jpg"
+  },
+  {
+    "question_id": 86,
+    "answer": 0.3349609375,
+    "prompt": "white Ford Transit (A white Ford Transit is a spacious, boxy van with a sleek white exterior, prominent front grille, and large side panels.) and blue Lamborghini Aventador Coupe (A sleek blue Lamborghini Aventador Coupe with sharp, aerodynamic lines and a low, aggressive stance.), cruising alongside each other on a scenic country road.",
+    "image_name": "86.jpg"
+  },
+  {
+    "question_id": 87,
+    "answer": 0.2379150390625,
+    "prompt": "white Ford Transit (A white Ford Transit is a spacious, boxy van with a sleek white exterior, prominent front grille, and large side panels.) and white Bugatti Veyron 16.4 Convertible (A sleek, luxurious white Bugatti Veyron 16.4 Convertible with a streamlined body and an open top.), placed side by side in a large garage.",
+    "image_name": "87.jpg"
+  }
+]
