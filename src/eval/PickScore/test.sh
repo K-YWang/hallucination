@@ -1,4 +1,6 @@
+#!/bin/bash
+
 data="SKCI"
 outpath="examples/${data}"
 HF_ENDPOINT=https://hf-mirror.com \
-python src/eval/CLIPScore_eval/CLIP_similarity.py --outpath="${outpath}"
+python src/eval/PickScore/PickScore.py --outpath="${outpath}"

@@ -99,7 +99,7 @@ def main():
             'question_id': i,
             'answer': similarity,
             'prompt': prompt,
-            'image_name': f"{i}.jpg"
+            'image_name': f"{i}.png"
         })
 
         if (i + 1) % 100 == 0:

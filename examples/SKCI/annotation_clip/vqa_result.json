@@ -1,0 +1,476 @@
+[
+  {
+    "question_id": 0,
+    "answer": 0.3271484375,
+    "prompt": "An athlete wearing a clap skate(The clap skate is a type of ice skate used in speed skating.) is racing on ice in a competitive speed skating event.",
+    "image_name": "0.png"
+  },
+  {
+    "question_id": 1,
+    "answer": 0.3583984375,
+    "prompt": "A Hyundai Veloster Hatchback 2012(A sleek, modern hatchback with a distinctive asymmetrical door design and a bold, sporty look typical of the 2012 Hyundai Veloster.) cruising along a scenic coastal road with the ocean in the background.",
+    "image_name": "1.png"
+  },
+  {
+    "question_id": 2,
+    "answer": 0.370361328125,
+    "prompt": "A Camargue horse(The Camargue horse is an ancient breed of horse indigenous to the Camargue area in southern France.) wading in marshy waters, its white coat shimmering under the sun.",
+    "image_name": "2.png"
+  },
+  {
+    "question_id": 3,
+    "answer": 0.302490234375,
+    "prompt": "A musician is playing the heckelphone(An oboe pitched an octave below the ordinary oboe) in a spacious concert hall, surrounded by the warm glow of stage lights.",
+    "image_name": "3.png"
+  },
+  {
+    "question_id": 4,
+    "answer": 0.3359375,
+    "prompt": "A musician is striking a cowbell (The cowbell is an idiophone hand percussion instrument used in various styles of music, such as Latin and rock.)(instrument) in a lively street performance.",
+    "image_name": "4.png"
+  },
+  {
+    "question_id": 5,
+    "answer": 0.387451171875,
+    "prompt": "A Samoyed (A fluffy, white-coated canine with a perpetually smiling expression and dark, almond-shaped eyes.)dog cuddling with a child on a cozy winter afternoon.",
+    "image_name": "5.png"
+  },
+  {
+    "question_id": 6,
+    "answer": 0.337158203125,
+    "prompt": "A bearded seal(Medium-sized greyish to yellow seal with bristles each side of muzzle; of the Arctic Ocean) lounging on ice, showing its distinctive long whiskers and blubbery body against an Arctic backdrop.",
+    "image_name": "6.png"
+  },
+  {
+    "question_id": 7,
+    "answer": 0.40625,
+    "prompt": "An English Setter (A large, elegant dog with a silky white coat adorned with black or brown speckles and long feathered ears.)dog running through a field with its feathered coat flowing in the wind.",
+    "image_name": "7.png"
+  },
+  {
+    "question_id": 8,
+    "answer": 0.36767578125,
+    "prompt": "A person is carefully adding tuna salad to a freshly toasted tuna fish sandwich(A tuna fish sandwich, known outside the United States as a tuna salad sandwich or a tuna sandwich, is a sandwich made from canned tuna\u2014usually made into a tuna salad by adding mayonnaise, and sometimes other ingredients such as celery or onion\u2014as well as other common fruits and vegetables used to flavor sandwiches.).",
+    "image_name": "8.png"
+  },
+  {
+    "question_id": 9,
+    "answer": 0.261962890625,
+    "prompt": "Cristiano Ronaldo(Cristiano Ronaldo dos Santos Aveiro is a Portuguese professional footballer who plays as a forward for and captains both Saudi Pro League club Al Nassr and the Portugal national team.) scoring a goal in a high-stakes football match, with the crowd cheering in the background.",
+    "image_name": "9.png"
+  },
+  {
+    "question_id": 10,
+    "answer": 0.37548828125,
+    "prompt": "A climber is carefully positioning a bouldering mat(A bouldering mat or crash pad is a foam pad used for protection when bouldering.) under a rocky overhang in preparation for a bouldering session.",
+    "image_name": "10.png"
+  },
+  {
+    "question_id": 11,
+    "answer": 0.339111328125,
+    "prompt": "A European rabbit(Common greyish-brown burrowing animal native to southern Europe and northern Africa but introduced elsewhere; widely domesticated and developed in various colors and for various needs; young are born naked and helpless) is hopping across a field, its sleek grey-brown fur glistening in the sunlight.",
+    "image_name": "11.png"
+  },
+  {
+    "question_id": 12,
+    "answer": 0.344482421875,
+    "prompt": "Deke Slayton(Donald Kent \"Deke\" Slayton was a United States Air Force pilot, aeronautical engineer, and test pilot who was selected as one of the original NASA Mercury Seven astronauts.) piloting an aircraft, soaring through a clear blue sky with the NASA logo visible on his uniform.",
+    "image_name": "12.png"
+  },
+  {
+    "question_id": 13,
+    "answer": 0.3349609375,
+    "prompt": "A baseball player reaches out with his baseball glove(The handwear used by fielders in playing baseball), expertly catching a fly ball under the clear blue sky.",
+    "image_name": "13.png"
+  },
+  {
+    "question_id": 14,
+    "answer": 0.378662109375,
+    "prompt": "An Arctic fox(Thickly-furred fox of Arctic regions; brownish in summer and white in winter) running across snow with its white fur blending into the icy landscape.",
+    "image_name": "14.png"
+  },
+  {
+    "question_id": 15,
+    "answer": 0.2841796875,
+    "prompt": "A Silver Dodge Ram Pickup 3500 Quad Cab 2009(A large, powerful 2009 Dodge Ram 3500 Quad Cab pickup truck in a sleek silver color with robust features and extended cabin space.) towing a trailer through a mountainous region.",
+    "image_name": "15.png"
+  },
+  {
+    "question_id": 16,
+    "answer": 0.345458984375,
+    "prompt": "Hitchcock(English film director noted for his skill in creating suspense (1899-1980)) is in a dimly lit studio, meticulously reviewing a film reel for his next suspenseful thriller.",
+    "image_name": "16.png"
+  },
+  {
+    "question_id": 17,
+    "answer": 0.35302734375,
+    "prompt": "A musician is performing a solo with the tuba(The tuba is a large brass musical instrument with a wide bell and coiled tubing that produces deep, rich tones.) on stage under spotlight.",
+    "image_name": "17.png"
+  },
+  {
+    "question_id": 18,
+    "answer": 0.310302734375,
+    "prompt": "A cyclist is fastening their bicycle helmet(A bicycle helmet is a protective headgear featuring a hard outer shell and cushioned interior, often with ventilation holes and an adjustable strap system.) securely before a ride.",
+    "image_name": "18.png"
+  },
+  {
+    "question_id": 19,
+    "answer": 0.35986328125,
+    "prompt": "A Havanese (With a silky coat, expressive eyes, and a compact, sturdy frame, this small canine exudes charm and elegance.)dog is sitting on a cozy couch, looking content with its silky coat shining under the indoor lights.",
+    "image_name": "19.png"
+  },
+  {
+    "question_id": 20,
+    "answer": 0.364013671875,
+    "prompt": "A ragdoll cat(A fluffy feline with striking blue eyes and a silky, semi-long coat that often sports a color-point pattern.) sleeping in a cozy bed, its blue eyes closed and its fluffy fur spread out peacefully.",
+    "image_name": "20.png"
+  },
+  {
+    "question_id": 21,
+    "answer": 0.36181640625,
+    "prompt": "A black miniature pinscher(A small, sleek dog with a shiny black coat and alert, expressive eyes.) is jumping with excitement in the backyard.",
+    "image_name": "21.png"
+  },
+  {
+    "question_id": 22,
+    "answer": 0.32958984375,
+    "prompt": "An Arabian camel(One-humped camel of the hot deserts of northern Africa and southwestern Asia) carrying goods across the desert sands with the sun setting in the background.",
+    "image_name": "22.png"
+  },
+  {
+    "question_id": 23,
+    "answer": 0.331298828125,
+    "prompt": "Edison(United States inventor; inventions included the phonograph and incandescent electric light and the microphone and the Kinetoscope (1847-1931)) working in his laboratory surrounded by various early 20th-century inventions and tools.",
+    "image_name": "23.png"
+  },
+  {
+    "question_id": 24,
+    "answer": 0.342529296875,
+    "prompt": "Jimmy Carter(39th President of the United States (1924-)) is planting trees in a community garden, surrounded by volunteers on a sunny day.",
+    "image_name": "24.png"
+  },
+  {
+    "question_id": 25,
+    "answer": 0.339599609375,
+    "prompt": "A Bactrian camel(Two-humped camel of the cold deserts of central Asia) drinking water from an oasis in a vast desert landscape.",
+    "image_name": "25.png"
+  },
+  {
+    "question_id": 26,
+    "answer": 0.34912109375,
+    "prompt": "An Old World beaver(A European variety of beaver) is busy constructing a lodge with branches and mud along the riverbank.",
+    "image_name": "26.png"
+  },
+  {
+    "question_id": 27,
+    "answer": 0.366943359375,
+    "prompt": "An artist strumming a viola caipira(The viola caipira, often simply viola or brazilian viola, is a Brazilian ten-string guitar with five courses of strings arranged in pairs.) in a rustic countryside setting.",
+    "image_name": "27.png"
+  },
+  {
+    "question_id": 28,
+    "answer": 0.29248046875,
+    "prompt": "A Heliamphora(Genus of pitcher plants of the Guiana Highlands in South America) trapping insects with its tubular leaves in a misty, highland region.",
+    "image_name": "28.png"
+  },
+  {
+    "question_id": 29,
+    "answer": 0.306884765625,
+    "prompt": "Gretzky(High-scoring Canadian ice-hockey player (born in 1961)) skating on the ice with a look of determination and the crowd cheering in the background.",
+    "image_name": "29.png"
+  },
+  {
+    "question_id": 30,
+    "answer": 0.373046875,
+    "prompt": "A basset hound (With its long ears, droopy eyes, and stout, elongated body, this breed showcases an adorable yet solemn demeanor.)dog is walking in a park with its characteristic droopy ears and short legs.",
+    "image_name": "30.png"
+  },
+  {
+    "question_id": 31,
+    "answer": 0.349853515625,
+    "prompt": "A white wheaten terrier (A small, fluffy dog with a wavy, cream-colored coat and a friendly expression.)dog is happily chasing a ball in a lush green park.",
+    "image_name": "31.png"
+  },
+  {
+    "question_id": 32,
+    "answer": 0.35546875,
+    "prompt": "A badminton player confidently holding a badminton racket(A badminton racket typically has a lightweight frame with a tightly strung web of strings forming the face, and a long, slender handle wrapped for grip.) and serving the shuttlecock in a sunny outdoor court.",
+    "image_name": "32.png"
+  },
+  {
+    "question_id": 33,
+    "answer": 0.296142578125,
+    "prompt": "A Lampris(Type genus of the Lampridae), with its vibrant colors and round body, gliding through the ocean's depths.",
+    "image_name": "33.png"
+  },
+  {
+    "question_id": 34,
+    "answer": 0.318359375,
+    "prompt": "A Podilymbus(A genus of Podicipedidae) diving gracefully underwater in a crystal-clear lake.",
+    "image_name": "34.png"
+  },
+  {
+    "question_id": 35,
+    "answer": 0.323974609375,
+    "prompt": "A Crocodylus(Type genus of the Crocodylidae) swimming in the river with its eyes just above the water surface, blending seamlessly into its natural surroundings.",
+    "image_name": "35.png"
+  },
+  {
+    "question_id": 36,
+    "answer": 0.34423828125,
+    "prompt": "A New World beaver(A variety of beaver found in almost all areas of North America except Florida) is diligently building a dam in a serene forested river.",
+    "image_name": "36.png"
+  },
+  {
+    "question_id": 37,
+    "answer": 0.319091796875,
+    "prompt": "A boxer is punching a heavy punching bag(An inflated ball or bag that is suspended and punched for training in boxing) in a dimly lit gym.",
+    "image_name": "37.png"
+  },
+  {
+    "question_id": 38,
+    "answer": 0.334228515625,
+    "prompt": "Harrison Ford(Harrison Ford is an American actor.) exploring an ancient temple, surrounded by mysterious relics and illuminated by the soft glow of torches.",
+    "image_name": "38.png"
+  },
+  {
+    "question_id": 39,
+    "answer": 0.3701171875,
+    "prompt": "A farmer is harvesting the fruits from an American oil palm(Palm of Central and South America) under the vibrant tropical sun.",
+    "image_name": "39.png"
+  },
+  {
+    "question_id": 40,
+    "answer": 0.398193359375,
+    "prompt": "A boxer (This muscular canine has a strong, square jaw and a smooth coat, often with a fawn or brindle color and a distinctive black mask.)dog playing fetch in a sunny park with a frisbee in its mouth.",
+    "image_name": "40.png"
+  },
+  {
+    "question_id": 41,
+    "answer": 0.31494140625,
+    "prompt": "A boxer is biting down on the mouthpiece((especially boxing) equipment that protects an athlete's mouth) during an intense moment in the ring.",
+    "image_name": "41.png"
+  },
+  {
+    "question_id": 42,
+    "answer": 0.280517578125,
+    "prompt": "A brush-tailed phalanger(Bushy-tailed phalanger) eating leaves high in a eucalyptus tree.",
+    "image_name": "42.png"
+  },
+  {
+    "question_id": 43,
+    "answer": 0.31689453125,
+    "prompt": "Diane Keaton(Diane Keaton is an American actress.), dressed in her signature menswear-inspired outfit, attends a fashion show, exuding her quirky charm and elegance.",
+    "image_name": "43.png"
+  },
+  {
+    "question_id": 44,
+    "answer": 0.358154296875,
+    "prompt": "A fashionable woman is wearing the LV M43986 Cannes handbag(A luxurious Louis Vuitton handbag with the monogram canvas, featuring golden hardware and a structured silhouette.) over her shoulder while walking down a sunlit street.",
+    "image_name": "44.png"
+  },
+  {
+    "question_id": 45,
+    "answer": 0.360107421875,
+    "prompt": "Hayao Miyazaki(Hayao Miyazaki is a Japanese animator, filmmaker, and manga artist.) walking through a lush forest gathering inspiration.",
+    "image_name": "45.png"
+  },
+  {
+    "question_id": 46,
+    "answer": 0.3369140625,
+    "prompt": "Aretha Franklin(Aretha Louise Franklin was an American singer, songwriter and pianist.) singing on stage at a concert, wearing a glamorous dress and captivating the audience with her powerful voice.",
+    "image_name": "46.png"
+  },
+  {
+    "question_id": 47,
+    "answer": 0.37109375,
+    "prompt": "A black English Cocker Spaniel (This medium-sized dog features a shiny black coat, long floppy ears, and expressive dark eyes.)dog is playing fetch in a grassy park.",
+    "image_name": "47.png"
+  },
+  {
+    "question_id": 48,
+    "answer": 0.31982421875,
+    "prompt": "A bonnet macaque(Indian macaque with a bonnet-like tuft of hair) foraging for food among the lush greenery of a tropical forest.",
+    "image_name": "48.png"
+  },
+  {
+    "question_id": 49,
+    "answer": 0.37939453125,
+    "prompt": "A Newfoundland (A large, muscular canine with a thick, water-resistant coat, often black, brown, or gray in color, and a gentle expression.)dog swimming in a lake on a sunny day.",
+    "image_name": "49.png"
+  },
+  {
+    "question_id": 50,
+    "answer": 0.3564453125,
+    "prompt": "Marcel Duchamp(French artist who immigrated to the United States; a leader in the dada movement in New York City; was first to exhibit commonplace objects as art (1887-1968)) is in his studio, thoughtfully creating a readymade, turning a common object into a provocative piece of art.",
+    "image_name": "50.png"
+  },
+  {
+    "question_id": 51,
+    "answer": 0.3828125,
+    "prompt": "A musician is playing a euphonium(A bass horn (brass wind instrument) that is the tenor of the tuba family) in a park with the sun setting in the background.",
+    "image_name": "51.png"
+  },
+  {
+    "question_id": 52,
+    "answer": 0.359375,
+    "prompt": "A great pyrenees (A large, majestic canine with a thick, white double coat and a calm, regal expression.)dog playing in the snow, its thick white coat blending perfectly with the winter landscape.",
+    "image_name": "52.png"
+  },
+  {
+    "question_id": 53,
+    "answer": 0.35791015625,
+    "prompt": "A Trichosurus(A genus of Phalangeridae), with its bushy tail and large eyes, is adeptly climbing a tree in a moonlit Australian forest.",
+    "image_name": "53.png"
+  },
+  {
+    "question_id": 54,
+    "answer": 0.2978515625,
+    "prompt": "Don Rosa(Keno Don Hugo Rosa, known as Don Rosa, is an American comic book writer and illustrator known for his Disney comics stories about Scrooge McDuck, Donald Duck, and other characters which Carl Barks created for Disney-licensed comic books, first published in America by Dell Comics.), the renowned comic book artist, is signing autographs for fans at a bustling comic convention.",
+    "image_name": "54.png"
+  },
+  {
+    "question_id": 55,
+    "answer": 0.37109375,
+    "prompt": "A carancha(South American caracara) is soaring in the sky against a backdrop of mountains.",
+    "image_name": "55.png"
+  },
+  {
+    "question_id": 56,
+    "answer": 0.357421875,
+    "prompt": "A Bombay cat(Sleek and black with a muscular build and striking copper or gold eyes.) climbing a cat tree with its shiny black coat and striking copper eyes reflecting the sunlight.",
+    "image_name": "56.png"
+  },
+  {
+    "question_id": 57,
+    "answer": 0.3212890625,
+    "prompt": "An Oryzomys(Rice rats) is swimming in a river surrounded by lush vegetation.",
+    "image_name": "57.png"
+  },
+  {
+    "question_id": 58,
+    "answer": 0.341552734375,
+    "prompt": "A black widow(Venomous New World spider; the female is black with an hourglass-shaped red mark on the underside of the abdomen) spider is meticulously building a web in a dark, secluded corner.",
+    "image_name": "58.png"
+  },
+  {
+    "question_id": 59,
+    "answer": 0.31494140625,
+    "prompt": "A player focusing intensely on sinking the 8-ball on a green-felt pool table(Game equipment consisting of a heavy table on which pool is played).",
+    "image_name": "59.png"
+  },
+  {
+    "question_id": 60,
+    "answer": 0.347900390625,
+    "prompt": "A Surnia(Surnia is a genus of owl that contains a single living species, the northern hawk-owl.) is hunting for prey in the snow-covered forest, showcasing its keen vision and sharp talons.",
+    "image_name": "60.png"
+  },
+  {
+    "question_id": 61,
+    "answer": 0.336669921875,
+    "prompt": "A worker wearing a hard hat(A lightweight protective helmet (plastic or metal) worn by construction workers) is inspecting a construction site, ensuring all safety protocols are followed.",
+    "image_name": "61.png"
+  },
+  {
+    "question_id": 62,
+    "answer": 0.345947265625,
+    "prompt": "An American Pit Bull Terrier (With a muscular build, a broad head, and a short, glossy coat, this dog exudes strength and agility.)dog is running in the park on a sunny day.",
+    "image_name": "62.png"
+  },
+  {
+    "question_id": 63,
+    "answer": 0.356201171875,
+    "prompt": "A golfer is driving a golf cart through the lush green golfcart(A small motor vehicle in which golfers can ride between shots), with trees and sand traps in the background.",
+    "image_name": "63.png"
+  },
+  {
+    "question_id": 64,
+    "answer": 0.36669921875,
+    "prompt": "A yellow Acura Integra Type R 2001(A bright yellow 2001 Acura Integra Type R with a sleek, sporty design and iconic rear spoiler.) drifting around a corner on a mountain road.",
+    "image_name": "64.png"
+  },
+  {
+    "question_id": 65,
+    "answer": 0.32421875,
+    "prompt": "A professional businessman carrying a sleek leather briefcase(A case with a handle; for carrying papers or files or books) while walking down a busy city street.",
+    "image_name": "65.png"
+  },
+  {
+    "question_id": 66,
+    "answer": 0.292724609375,
+    "prompt": "Fermi(Italian nuclear physicist (in the United States after 1939) who worked on artificial radioactivity caused by neutron bombardment and who headed the group that in 1942 produced the first controlled nuclear reaction (1901-1954)) intensely studying a chalkboard full of complex equations in a vintage physics lab.",
+    "image_name": "66.png"
+  },
+  {
+    "question_id": 67,
+    "answer": 0.3427734375,
+    "prompt": "A musician intensely plucking the strings of a qanun (The qanun, kanun, ganoun or kanoon is an Arabic string instrument played either solo, or more often as part of an ensemble, in much of the Arab East, and Arab Maghreb region aka North Africa, later it reached West Africa, Central Asia due to Arab migration.)(instrument) under soft, ambient lighting.",
+    "image_name": "67.png"
+  },
+  {
+    "question_id": 68,
+    "answer": 0.3623046875,
+    "prompt": "A gardener is arranging a bouquet of Dianthus(Carnations and pinks), showcasing the vibrant pink and white flowers against a backdrop of lush green foliage.",
+    "image_name": "68.png"
+  },
+  {
+    "question_id": 69,
+    "answer": 0.341796875,
+    "prompt": "A person on roller skates(A pair of roller skates consists of comfortable boots attached to a flat sole housing four wheeled casters in a square arrangement, often adorned with bright colors or sporty designs.) performing tricks at a skate park, capturing the excitement and dynamic movement in the colorful surroundings.",
+    "image_name": "69.png"
+  },
+  {
+    "question_id": 70,
+    "answer": 0.351806640625,
+    "prompt": "A keeshond (A furry companion with a thick, silvery-grey coat and distinctive facial markings resembling spectacles.)dog posing for a picture with its fluffy coat gleaming in the sunlight.",
+    "image_name": "70.png"
+  },
+  {
+    "question_id": 71,
+    "answer": 0.327392578125,
+    "prompt": "A figure skater performs a spinning move on ice skate(An ice skate is a sleek, white or black boot with a metal blade attached to the bottom for gliding on ice.)s under bright arena lights.",
+    "image_name": "71.png"
+  },
+  {
+    "question_id": 72,
+    "answer": 0.382568359375,
+    "prompt": "A blackbuck(Common Indian antelope with a dark back and spiral horns) leaping gracefully in a grassy field with its slender horns pointing skyward.",
+    "image_name": "72.png"
+  },
+  {
+    "question_id": 73,
+    "answer": 0.33056640625,
+    "prompt": "A piece of waffle(A piece of waffles is a golden-brown, grid-patterned breakfast treat with a crispy exterior and soft, fluffy interior.) being freshly drizzled with syrup, showcasing its crispy, golden-brown texture with a grid-like pattern.",
+    "image_name": "73.png"
+  },
+  {
+    "question_id": 74,
+    "answer": 0.35693359375,
+    "prompt": "Eric Clapton(Eric Patrick Clapton is an English rock and blues guitarist, singer, and songwriter.) playing guitar on a dimly lit stage with a spotlight highlighting his intense performance.",
+    "image_name": "74.png"
+  },
+  {
+    "question_id": 75,
+    "answer": 0.361572265625,
+    "prompt": "A Shiba Inu (A small, agile canine with a fox-like face, erect ears, and a curled tail.)dog is playing with a ball in a grassy park with vibrant greenery.",
+    "image_name": "75.png"
+  },
+  {
+    "question_id": 76,
+    "answer": 0.273681640625,
+    "prompt": "A person performing curls with a pair of heavy dumbbell(An exercising weight; two spheres connected by a short bar that serves as a handle)s in a modern gym.",
+    "image_name": "76.png"
+  },
+  {
+    "question_id": 77,
+    "answer": 0.3515625,
+    "prompt": "Clemens(United States writer and humorist best known for his novels about Tom Sawyer and Huckleberry Finn (1835-1910)) is walking through a park, surrounded by the vibrant colors of autumn leaves.",
+    "image_name": "77.png"
+  },
+  {
+    "question_id": 78,
+    "answer": 0.389404296875,
+    "prompt": "A Leonberger (A large, muscular canine with a thick, water-resistant coat and a black facial mask.)dog swimming in a lake, surrounded by lush greenery and reflecting its golden-brown coat in the water.",
+    "image_name": "78.png"
+  }
+]

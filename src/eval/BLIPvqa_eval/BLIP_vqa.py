@@ -17,35 +17,35 @@ def Create_annotation_for_BLIP(image_folder, outpath, np_index=None):
     nlp = spacy.load("en_core_web_sm")
 
     annotations = []
-    file_names = os.listdir(image_folder)
-    file_names.sort(key=lambda x: int(x.split("_")[-1].split('.')[0]))#sort
+    # === 修改开始：按照 image_index.png 和 sentences.txt 匹配读取 ===
+    sentence_file = os.path.join(os.path.dirname(image_folder), 'sentences.txt')
+    with open(sentence_file, 'r') as f:
+        sentences = [line.strip() for line in f.readlines()]
 
+    for i, sentence in enumerate(sentences):
+        file_name = f"{i}.png"
+        image_path = os.path.join(image_folder, file_name)
+        if not os.path.exists(image_path):
+            print(f"Image not found: {image_path}")
+            continue
 
-    cnt=0
+        image_dict = {
+            'image': image_path,
+            'question_id': i,
+            'dataset': "color"
+        }
 
-    #output annotation.json
-    for file_name in file_names:
-        image_dict={}
-        image_dict['image'] = image_folder+file_name
-        image_dict['question_id']= cnt
-        f = file_name.split('_')[0]
-        doc = nlp(f)
-        
-        noun_phrases = []
-        for chunk in doc.noun_chunks:
-            if chunk.text not in ['top', 'the side', 'the left', 'the right']:  # todo remove some phrases
-                noun_phrases.append(chunk.text)
-        if(len(noun_phrases)>np_index):
+        doc = nlp(sentence)
+        noun_phrases = [chunk.text for chunk in doc.noun_chunks if chunk.text not in ['top', 'the side', 'the left', 'the right']]
+
+        if np_index is not None and len(noun_phrases) > np_index:
             q_tmp = noun_phrases[np_index]
-            image_dict['question']=f'{q_tmp}?'
+            image_dict['question'] = f'{q_tmp}?'
         else:
             image_dict['question'] = ''
-            
-
-        image_dict['dataset']="color"
-        cnt+=1
 
         annotations.append(image_dict)
+
 
     print('Number of Processed Images:', len(annotations))
 
@@ -87,7 +87,7 @@ def main():
         os.makedirs(f"{out_dir}/blipvqa/annotation{i + 1}{order}", exist_ok=True)
         os.makedirs(f"{out_dir}/blipvqa/annotation{i + 1}{order}/VQA/", exist_ok=True)
         Create_annotation_for_BLIP(
-            f"{out_dir}/prompt_images/",
+            f"{out_dir}/prompt_images",
             f"{out_dir}/blipvqa/annotation{i + 1}{order}",
             np_index=i,
         )
