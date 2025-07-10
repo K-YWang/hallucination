@@ -31,7 +31,7 @@
   },
   {
     "question_id": 5,
-    "answer": 0.387451171875,
+    "answer": 0.3876953125,
     "prompt": "A Samoyed (A fluffy, white-coated canine with a perpetually smiling expression and dark, almond-shaped eyes.)dog cuddling with a child on a cozy winter afternoon.",
     "image_name": "5.png"
   },
@@ -49,7 +49,7 @@
   },
   {
     "question_id": 8,
-    "answer": 0.36767578125,
+    "answer": 0.367919921875,
     "prompt": "A person is carefully adding tuna salad to a freshly toasted tuna fish sandwich(A tuna fish sandwich, known outside the United States as a tuna salad sandwich or a tuna sandwich, is a sandwich made from canned tuna\u2014usually made into a tuna salad by adding mayonnaise, and sometimes other ingredients such as celery or onion\u2014as well as other common fruits and vegetables used to flavor sandwiches.).",
     "image_name": "8.png"
   },
@@ -85,7 +85,7 @@
   },
   {
     "question_id": 14,
-    "answer": 0.378662109375,
+    "answer": 0.37841796875,
     "prompt": "An Arctic fox(Thickly-furred fox of Arctic regions; brownish in summer and white in winter) running across snow with its white fur blending into the icy landscape.",
     "image_name": "14.png"
   },
@@ -97,7 +97,7 @@
   },
   {
     "question_id": 16,
-    "answer": 0.345458984375,
+    "answer": 0.34521484375,
     "prompt": "Hitchcock(English film director noted for his skill in creating suspense (1899-1980)) is in a dimly lit studio, meticulously reviewing a film reel for his next suspenseful thriller.",
     "image_name": "16.png"
   },
@@ -109,7 +109,7 @@
   },
   {
     "question_id": 18,
-    "answer": 0.310302734375,
+    "answer": 0.31005859375,
     "prompt": "A cyclist is fastening their bicycle helmet(A bicycle helmet is a protective headgear featuring a hard outer shell and cushioned interior, often with ventilation holes and an adjustable strap system.) securely before a ride.",
     "image_name": "18.png"
   },
@@ -121,13 +121,13 @@
   },
   {
     "question_id": 20,
-    "answer": 0.364013671875,
+    "answer": 0.36376953125,
     "prompt": "A ragdoll cat(A fluffy feline with striking blue eyes and a silky, semi-long coat that often sports a color-point pattern.) sleeping in a cozy bed, its blue eyes closed and its fluffy fur spread out peacefully.",
     "image_name": "20.png"
   },
   {
     "question_id": 21,
-    "answer": 0.36181640625,
+    "answer": 0.361572265625,
     "prompt": "A black miniature pinscher(A small, sleek dog with a shiny black coat and alert, expressive eyes.) is jumping with excitement in the backyard.",
     "image_name": "21.png"
   },
@@ -163,7 +163,7 @@
   },
   {
     "question_id": 27,
-    "answer": 0.366943359375,
+    "answer": 0.3671875,
     "prompt": "An artist strumming a viola caipira(The viola caipira, often simply viola or brazilian viola, is a Brazilian ten-string guitar with five courses of strings arranged in pairs.) in a rustic countryside setting.",
     "image_name": "27.png"
   },
@@ -175,13 +175,13 @@
   },
   {
     "question_id": 29,
-    "answer": 0.306884765625,
+    "answer": 0.30712890625,
     "prompt": "Gretzky(High-scoring Canadian ice-hockey player (born in 1961)) skating on the ice with a look of determination and the crowd cheering in the background.",
     "image_name": "29.png"
   },
   {
     "question_id": 30,
-    "answer": 0.373046875,
+    "answer": 0.373291015625,
     "prompt": "A basset hound (With its long ears, droopy eyes, and stout, elongated body, this breed showcases an adorable yet solemn demeanor.)dog is walking in a park with its characteristic droopy ears and short legs.",
     "image_name": "30.png"
   },
@@ -193,13 +193,13 @@
   },
   {
     "question_id": 32,
-    "answer": 0.35546875,
+    "answer": 0.355224609375,
     "prompt": "A badminton player confidently holding a badminton racket(A badminton racket typically has a lightweight frame with a tightly strung web of strings forming the face, and a long, slender handle wrapped for grip.) and serving the shuttlecock in a sunny outdoor court.",
     "image_name": "32.png"
   },
   {
     "question_id": 33,
-    "answer": 0.296142578125,
+    "answer": 0.29638671875,
     "prompt": "A Lampris(Type genus of the Lampridae), with its vibrant colors and round body, gliding through the ocean's depths.",
     "image_name": "33.png"
   },
@@ -211,7 +211,7 @@
   },
   {
     "question_id": 35,
-    "answer": 0.323974609375,
+    "answer": 0.32421875,
     "prompt": "A Crocodylus(Type genus of the Crocodylidae) swimming in the river with its eyes just above the water surface, blending seamlessly into its natural surroundings.",
     "image_name": "35.png"
   },
@@ -229,7 +229,7 @@
   },
   {
     "question_id": 38,
-    "answer": 0.334228515625,
+    "answer": 0.33447265625,
     "prompt": "Harrison Ford(Harrison Ford is an American actor.) exploring an ancient temple, surrounded by mysterious relics and illuminated by the soft glow of torches.",
     "image_name": "38.png"
   },
@@ -241,7 +241,7 @@
   },
   {
     "question_id": 40,
-    "answer": 0.398193359375,
+    "answer": 0.3984375,
     "prompt": "A boxer (This muscular canine has a strong, square jaw and a smooth coat, often with a fawn or brindle color and a distinctive black mask.)dog playing fetch in a sunny park with a frisbee in its mouth.",
     "image_name": "40.png"
   },
@@ -253,7 +253,7 @@
   },
   {
     "question_id": 42,
-    "answer": 0.280517578125,
+    "answer": 0.28076171875,
     "prompt": "A brush-tailed phalanger(Bushy-tailed phalanger) eating leaves high in a eucalyptus tree.",
     "image_name": "42.png"
   },
@@ -265,13 +265,13 @@
   },
   {
     "question_id": 44,
-    "answer": 0.358154296875,
+    "answer": 0.35791015625,
     "prompt": "A fashionable woman is wearing the LV M43986 Cannes handbag(A luxurious Louis Vuitton handbag with the monogram canvas, featuring golden hardware and a structured silhouette.) over her shoulder while walking down a sunlit street.",
     "image_name": "44.png"
   },
   {
     "question_id": 45,
-    "answer": 0.360107421875,
+    "answer": 0.35986328125,
     "prompt": "Hayao Miyazaki(Hayao Miyazaki is a Japanese animator, filmmaker, and manga artist.) walking through a lush forest gathering inspiration.",
     "image_name": "45.png"
   },
@@ -283,7 +283,7 @@
   },
   {
     "question_id": 47,
-    "answer": 0.37109375,
+    "answer": 0.370849609375,
     "prompt": "A black English Cocker Spaniel (This medium-sized dog features a shiny black coat, long floppy ears, and expressive dark eyes.)dog is playing fetch in a grassy park.",
     "image_name": "47.png"
   },
@@ -307,7 +307,7 @@
   },
   {
     "question_id": 51,
-    "answer": 0.3828125,
+    "answer": 0.383056640625,
     "prompt": "A musician is playing a euphonium(A bass horn (brass wind instrument) that is the tenor of the tuba family) in a park with the sun setting in the background.",
     "image_name": "51.png"
   },
@@ -343,7 +343,7 @@
   },
   {
     "question_id": 57,
-    "answer": 0.3212890625,
+    "answer": 0.321044921875,
     "prompt": "An Oryzomys(Rice rats) is swimming in a river surrounded by lush vegetation.",
     "image_name": "57.png"
   },
@@ -355,7 +355,7 @@
   },
   {
     "question_id": 59,
-    "answer": 0.31494140625,
+    "answer": 0.315185546875,
     "prompt": "A player focusing intensely on sinking the 8-ball on a green-felt pool table(Game equipment consisting of a heavy table on which pool is played).",
     "image_name": "59.png"
   },
@@ -379,7 +379,7 @@
   },
   {
     "question_id": 63,
-    "answer": 0.356201171875,
+    "answer": 0.35595703125,
     "prompt": "A golfer is driving a golf cart through the lush green golfcart(A small motor vehicle in which golfers can ride between shots), with trees and sand traps in the background.",
     "image_name": "63.png"
   },
@@ -421,7 +421,7 @@
   },
   {
     "question_id": 70,
-    "answer": 0.351806640625,
+    "answer": 0.35205078125,
     "prompt": "A keeshond (A furry companion with a thick, silvery-grey coat and distinctive facial markings resembling spectacles.)dog posing for a picture with its fluffy coat gleaming in the sunlight.",
     "image_name": "70.png"
   },
@@ -439,13 +439,13 @@
   },
   {
     "question_id": 73,
-    "answer": 0.33056640625,
+    "answer": 0.330322265625,
     "prompt": "A piece of waffle(A piece of waffles is a golden-brown, grid-patterned breakfast treat with a crispy exterior and soft, fluffy interior.) being freshly drizzled with syrup, showcasing its crispy, golden-brown texture with a grid-like pattern.",
     "image_name": "73.png"
   },
   {
     "question_id": 74,
-    "answer": 0.35693359375,
+    "answer": 0.357177734375,
     "prompt": "Eric Clapton(Eric Patrick Clapton is an English rock and blues guitarist, singer, and songwriter.) playing guitar on a dimly lit stage with a spotlight highlighting his intense performance.",
     "image_name": "74.png"
   },

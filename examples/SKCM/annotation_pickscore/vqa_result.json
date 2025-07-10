@@ -1,0 +1,3680 @@
+[
+  {
+    "question_id": 0,
+    "prompt": "An image of Aberdeen Angus (Black hornless breed from Scotland)",
+    "image_name": "0.png",
+    "answer": 0.20582425594329834
+  },
+  {
+    "question_id": 1,
+    "prompt": "An image of African clawed frog (A tongueless frog native to Africa; established in the United States as result of release of laboratory and aquarium animals)",
+    "image_name": "1.png",
+    "answer": 0.198430597782135
+  },
+  {
+    "question_id": 2,
+    "prompt": "An image of African golden wolf (A canid living in the deserts of Northern Africa related to the goldn jackal and the grey wolf)",
+    "image_name": "2.png",
+    "answer": 0.23300234973430634
+  },
+  {
+    "question_id": 3,
+    "prompt": "An image of African hunting dog (A powerful doglike mammal of southern and eastern Africa that hunts in large packs; now rare in settled area)",
+    "image_name": "3.png",
+    "answer": 0.22739189863204956
+  },
+  {
+    "question_id": 4,
+    "prompt": "An image of Alaskan brown bear (Brown bear of coastal Alaska and British Columbia)",
+    "image_name": "4.png",
+    "answer": 0.22061996161937714
+  },
+  {
+    "question_id": 5,
+    "prompt": "An image of Appaloosa (A hardy breed of saddle horse developed in western North America and characteristically having a spotted rump)(animal)",
+    "image_name": "5.png",
+    "answer": 0.22468356788158417
+  },
+  {
+    "question_id": 6,
+    "prompt": "An image of Arabian horse (A spirited graceful and intelligent riding horse native to Arabia)",
+    "image_name": "6.png",
+    "answer": 0.21539953351020813
+  },
+  {
+    "question_id": 7,
+    "prompt": "An image of Arabian camel (One-humped camel of the hot deserts of northern Africa and southwestern Asia)",
+    "image_name": "7.png",
+    "answer": 0.20911292731761932
+  },
+  {
+    "question_id": 8,
+    "prompt": "An image of Arctic fox (Thickly-furred fox of Arctic regions; brownish in summer and white in winter)",
+    "image_name": "8.png",
+    "answer": 0.2303963303565979
+  },
+  {
+    "question_id": 9,
+    "prompt": "An image of Arctocephalus forsteri (Arctocephalus forsteri is a species of fur seal found mainly around southern Australia and New Zealand.)",
+    "image_name": "9.png",
+    "answer": 0.22079549729824066
+  },
+  {
+    "question_id": 10,
+    "prompt": "An image of Bactrian camel (Two-humped camel of the cold deserts of central Asia)",
+    "image_name": "10.png",
+    "answer": 0.2191336452960968
+  },
+  {
+    "question_id": 11,
+    "prompt": "An image of Camargue horse (The Camargue horse is an ancient breed of horse indigenous to the Camargue area in southern France.)",
+    "image_name": "11.png",
+    "answer": 0.228656604886055
+  },
+  {
+    "question_id": 12,
+    "prompt": "An image of Canada lynx (Of northern North America)",
+    "image_name": "12.png",
+    "answer": 0.22894254326820374
+  },
+  {
+    "question_id": 13,
+    "prompt": "An image of Cape buffalo (Large often savage buffalo of southern Africa having upward-curving horns; mostly in game reserves)",
+    "image_name": "13.png",
+    "answer": 0.21293501555919647
+  },
+  {
+    "question_id": 14,
+    "prompt": "An image of Crocodylus (Type genus of the Crocodylidae)",
+    "image_name": "14.png",
+    "answer": 0.22359001636505127
+  },
+  {
+    "question_id": 15,
+    "prompt": "An image of Damaliscus lunatus (A large South African antelope; considered the swiftest hoofed mammal)",
+    "image_name": "15.png",
+    "answer": 0.2173357605934143
+  },
+  {
+    "question_id": 16,
+    "prompt": "An image of Eurasian lynx (The Eurasian lynx is a medium-sized wild cat widely distributed from Northern, Central and Eastern Europe to Central Asia and Siberia, the Tibetan Plateau and the Himalayas.)",
+    "image_name": "16.png",
+    "answer": 0.2240896075963974
+  },
+  {
+    "question_id": 17,
+    "prompt": "An image of Eurasian otter (Otter found in Europe and Asia)",
+    "image_name": "17.png",
+    "answer": 0.22584661841392517
+  },
+  {
+    "question_id": 18,
+    "prompt": "An image of European rabbit (Common greyish-brown burrowing animal native to southern Europe and northern Africa but introduced elsewhere; widely domesticated and developed in various colors and for various needs; young are born naked and helpless)",
+    "image_name": "18.png",
+    "answer": 0.22274675965309143
+  },
+  {
+    "question_id": 19,
+    "prompt": "An image of European toad (Common toad of Europe)",
+    "image_name": "19.png",
+    "answer": 0.2262842357158661
+  },
+  {
+    "question_id": 20,
+    "prompt": "An image of Lampris (Type genus of the Lampridae)",
+    "image_name": "20.png",
+    "answer": 0.21010887622833252
+  },
+  {
+    "question_id": 21,
+    "prompt": "An image of New World beaver (A variety of beaver found in almost all areas of North America except Florida)",
+    "image_name": "21.png",
+    "answer": 0.212847039103508
+  },
+  {
+    "question_id": 22,
+    "prompt": "An image of Old World beaver (A European variety of beaver)",
+    "image_name": "22.png",
+    "answer": 0.21872912347316742
+  },
+  {
+    "question_id": 23,
+    "prompt": "An image of Old World least weasel (Of Europe)",
+    "image_name": "23.png",
+    "answer": 0.21193084120750427
+  },
+  {
+    "question_id": 24,
+    "prompt": "An image of Oncorhynchus (Pacific salmon including sockeye salmon; chinook salmon; chum salmon; coho salmon)",
+    "image_name": "24.png",
+    "answer": 0.21650993824005127
+  },
+  {
+    "question_id": 25,
+    "prompt": "An image of Oryzomys (Rice rats)",
+    "image_name": "25.png",
+    "answer": 0.22117620706558228
+  },
+  {
+    "question_id": 26,
+    "prompt": "An image of Percheron (One of a breed of grey or black draft horses originally used in France to draw heavy coaches or artillery)",
+    "image_name": "26.png",
+    "answer": 0.22354361414909363
+  },
+  {
+    "question_id": 27,
+    "prompt": "An image of Podilymbus (A genus of Podicipedidae)",
+    "image_name": "27.png",
+    "answer": 0.1996796876192093
+  },
+  {
+    "question_id": 28,
+    "prompt": "An image of Rocky Mountain whitefish (Whitefish of the western United States and Canada)",
+    "image_name": "28.png",
+    "answer": 0.21822938323020935
+  },
+  {
+    "question_id": 29,
+    "prompt": "An image of Spanish Mustang (The Spanish Mustang is an American horse breed descended from horses brought from Spain during the early conquest of the Americas.)",
+    "image_name": "29.png",
+    "answer": 0.22127945721149445
+  },
+  {
+    "question_id": 30,
+    "prompt": "An image of Surnia (Surnia is a genus of owl that contains a single living species, the northern hawk-owl.)",
+    "image_name": "30.png",
+    "answer": 0.21432840824127197
+  },
+  {
+    "question_id": 31,
+    "prompt": "An image of Tasmanian devil (Small ferocious carnivorous marsupial having a mostly black coat and long tail)",
+    "image_name": "31.png",
+    "answer": 0.22003337740898132
+  },
+  {
+    "question_id": 32,
+    "prompt": "An image of Trichosurus (A genus of Phalangeridae)",
+    "image_name": "32.png",
+    "answer": 0.20283734798431396
+  },
+  {
+    "question_id": 33,
+    "prompt": "An image of Virginia deer (Common North American deer; tail has a white underside)",
+    "image_name": "33.png",
+    "answer": 0.2311345636844635
+  },
+  {
+    "question_id": 34,
+    "prompt": "An image of Willow Grouse (The willow ptarmigan is a bird in the grouse subfamily Tetraoninae of the pheasant family Phasianidae.)",
+    "image_name": "34.png",
+    "answer": 0.23321610689163208
+  },
+  {
+    "question_id": 35,
+    "prompt": "An image of aardvark (Nocturnal burrowing mammal of the grasslands of Africa that feeds on termites; sole extant representative of the order Tubulidentata)(animal)",
+    "image_name": "35.png",
+    "answer": 0.20672646164894104
+  },
+  {
+    "question_id": 36,
+    "prompt": "An image of aardwolf (Striped hyena of southeast Africa that feeds chiefly on insects)",
+    "image_name": "36.png",
+    "answer": 0.21580305695533752
+  },
+  {
+    "question_id": 37,
+    "prompt": "An image of addax (Large antelope with lightly spiraled horns of desert regions of northern Africa)",
+    "image_name": "37.png",
+    "answer": 0.2273002564907074
+  },
+  {
+    "question_id": 38,
+    "prompt": "An image of ant bear (Large shaggy-haired toothless anteater with long tongue and powerful claws; of South America)",
+    "image_name": "38.png",
+    "answer": 0.21147768199443817
+  },
+  {
+    "question_id": 39,
+    "prompt": "An image of babirusa (Indonesian wild pig with enormous curved canine teeth)",
+    "image_name": "39.png",
+    "answer": 0.22964034974575043
+  },
+  {
+    "question_id": 40,
+    "prompt": "An image of banteng (Wild ox of the Malay Archipelago)",
+    "image_name": "40.png",
+    "answer": 0.21563595533370972
+  },
+  {
+    "question_id": 41,
+    "prompt": "An image of bearded seal (Medium-sized greyish to yellow seal with bristles each side of muzzle; of the Arctic Ocean)",
+    "image_name": "41.png",
+    "answer": 0.22708703577518463
+  },
+  {
+    "question_id": 42,
+    "prompt": "An image of beluga (Valuable source of caviar and isinglass; found in Black and Caspian seas)(animal)",
+    "image_name": "42.png",
+    "answer": 0.20546428859233856
+  },
+  {
+    "question_id": 43,
+    "prompt": "An image of bighorn (Wild sheep of mountainous regions of western North America having massive curled horns)",
+    "image_name": "43.png",
+    "answer": 0.2259504497051239
+  },
+  {
+    "question_id": 44,
+    "prompt": "An image of black rhinoceros (African rhino; in danger of extinction)",
+    "image_name": "44.png",
+    "answer": 0.20986159145832062
+  },
+  {
+    "question_id": 45,
+    "prompt": "An image of black widow (Venomous New World spider; the female is black with an hourglass-shaped red mark on the underside of the abdomen)(animal)",
+    "image_name": "45.png",
+    "answer": 0.2107377052307129
+  },
+  {
+    "question_id": 46,
+    "prompt": "An image of blackbuck (Common Indian antelope with a dark back and spiral horns)",
+    "image_name": "46.png",
+    "answer": 0.2295612394809723
+  },
+  {
+    "question_id": 47,
+    "prompt": "An image of bongo(animal) (Large forest antelope of central Africa having a reddish-brown coat with white stripes and spiral horns)",
+    "image_name": "47.png",
+    "answer": 0.2193119376897812
+  },
+  {
+    "question_id": 48,
+    "prompt": "An image of bonnet macaque (Indian macaque with a bonnet-like tuft of hair)",
+    "image_name": "48.png",
+    "answer": 0.21380406618118286
+  },
+  {
+    "question_id": 49,
+    "prompt": "An image of bottlenose dolphin (Any of several dolphins with rounded forehead and well-developed beak; chiefly of northern Atlantic and Mediterranean)",
+    "image_name": "49.png",
+    "answer": 0.21201591193675995
+  },
+  {
+    "question_id": 50,
+    "prompt": "An image of brush-tailed phalanger (Bushy-tailed phalanger)",
+    "image_name": "50.png",
+    "answer": 0.20374488830566406
+  },
+  {
+    "question_id": 51,
+    "prompt": "An image of bullfrog (Largest North American frog; highly aquatic with a deep-pitched voice)",
+    "image_name": "51.png",
+    "answer": 0.2188645452260971
+  },
+  {
+    "question_id": 52,
+    "prompt": "An image of carabao (Water buffalo of the Philippines)",
+    "image_name": "52.png",
+    "answer": 0.2060978263616562
+  },
+  {
+    "question_id": 53,
+    "prompt": "An image of carancha (South American caracara)",
+    "image_name": "53.png",
+    "answer": 0.21763381361961365
+  },
+  {
+    "question_id": 54,
+    "prompt": "An image of cascades frog (Mountain frog found near water; of United States Northwest to California)",
+    "image_name": "54.png",
+    "answer": 0.21768397092819214
+  },
+  {
+    "question_id": 55,
+    "prompt": "An image of cassowary (Large black flightless bird of Australia and New Guinea having a horny head crest)",
+    "image_name": "55.png",
+    "answer": 0.21729791164398193
+  },
+  {
+    "question_id": 56,
+    "prompt": "An image of chacma (Greyish baboon of southern and eastern Africa)",
+    "image_name": "56.png",
+    "answer": 0.215458482503891
+  },
+  {
+    "question_id": 57,
+    "prompt": "An image of cheetah (Long-legged spotted cat of Africa and southwestern Asia having nonretractile claws; the swiftest mammal; can be trained to run down game)(animal)",
+    "image_name": "57.png",
+    "answer": 0.21399082243442535
+  },
+  {
+    "question_id": 58,
+    "prompt": "An image of coati (Omnivorous mammal of Central America and South America)",
+    "image_name": "58.png",
+    "answer": 0.2142527848482132
+  },
+  {
+    "question_id": 59,
+    "prompt": "An image of collared peccary (Dark grey peccary with an indistinct white collar; of semi desert areas of Mexico and southwestern United States)",
+    "image_name": "59.png",
+    "answer": 0.21917861700057983
+  },
+  {
+    "question_id": 60,
+    "prompt": "An image of common eland (Dark fawn-colored eland of southern and eastern Africa)",
+    "image_name": "60.png",
+    "answer": 0.21837982535362244
+  },
+  {
+    "question_id": 61,
+    "prompt": "An image of common opossum (Omnivorous opossum of the eastern United States; noted for feigning death when in danger; esteemed as food in some areas; considered same species as the crab-eating opossum of South America)",
+    "image_name": "61.png",
+    "answer": 0.22140057384967804
+  },
+  {
+    "question_id": 62,
+    "prompt": "An image of coypu (Aquatic South American rodent resembling a small beaver; bred for its fur)",
+    "image_name": "62.png",
+    "answer": 0.21228808164596558
+  },
+  {
+    "question_id": 63,
+    "prompt": "An image of dingo (Wolflike yellowish-brown wild dog of Australia)(animal)",
+    "image_name": "63.png",
+    "answer": 0.22147130966186523
+  },
+  {
+    "question_id": 64,
+    "prompt": "An image of domestic turkey (Turkey meat, commonly referred to as just turkey, is the meat from turkeys, typically domesticated turkeys but also wild turkeys.)",
+    "image_name": "64.png",
+    "answer": 0.19900406897068024
+  },
+  {
+    "question_id": 65,
+    "prompt": "An image of dugong (Sirenian tusked mammal found from eastern Africa to Australia; the flat tail is bilobate)",
+    "image_name": "65.png",
+    "answer": 0.22362884879112244
+  },
+  {
+    "question_id": 66,
+    "prompt": "An image of eastern chipmunk (A burrowing ground squirrel of western America and Asia; has cheek pouches and a light and dark stripe running down the body)",
+    "image_name": "66.png",
+    "answer": 0.2211344838142395
+  },
+  {
+    "question_id": 67,
+    "prompt": "An image of eastern grey squirrel (Common medium-large squirrel of eastern North America; now introduced into England)",
+    "image_name": "67.png",
+    "answer": 0.21915218234062195
+  },
+  {
+    "question_id": 68,
+    "prompt": "An image of echidna (A burrowing monotreme mammal covered with spines and having a long snout and claws for hunting ants and termites; native to Australia)(animal)",
+    "image_name": "68.png",
+    "answer": 0.22601154446601868
+  },
+  {
+    "question_id": 69,
+    "prompt": "An image of elephant seal (Either of two large northern Atlantic earless seals having snouts like trunks)",
+    "image_name": "69.png",
+    "answer": 0.22373776137828827
+  },
+  {
+    "question_id": 70,
+    "prompt": "An image of fallow deer (Small Eurasian deer)",
+    "image_name": "70.png",
+    "answer": 0.2234359234571457
+  },
+  {
+    "question_id": 71,
+    "prompt": "An image of flying lemur (Arboreal nocturnal mammal of southeast Asia and the Philippines resembling a lemur and having a fold of skin on each side from neck to tail that is used for long gliding leaps)",
+    "image_name": "71.png",
+    "answer": 0.2124827802181244
+  },
+  {
+    "question_id": 72,
+    "prompt": "An image of gaur (Wild ox of mountainous areas of eastern India)(animal)",
+    "image_name": "72.png",
+    "answer": 0.22225068509578705
+  },
+  {
+    "question_id": 73,
+    "prompt": "An image of gerbil (Small Old World burrowing desert rodent with long soft pale fur and hind legs adapted for leaping)",
+    "image_name": "73.png",
+    "answer": 0.22077372670173645
+  },
+  {
+    "question_id": 74,
+    "prompt": "An image of giant panda (Large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae)",
+    "image_name": "74.png",
+    "answer": 0.21377739310264587
+  },
+  {
+    "question_id": 75,
+    "prompt": "An image of giraffe (Tallest living quadruped; having a spotted coat and small horns and very long neck and legs; of savannahs of tropical Africa)(animal)",
+    "image_name": "75.png",
+    "answer": 0.20724612474441528
+  },
+  {
+    "question_id": 76,
+    "prompt": "An image of wolverine (Musteline mammal of northern Eurasia)",
+    "image_name": "76.png",
+    "answer": 0.2180744707584381
+  },
+  {
+    "question_id": 77,
+    "prompt": "An image of gnu (Large African antelope having a head with horns like an ox and a long tufted tail)(animal)",
+    "image_name": "77.png",
+    "answer": 0.21605928242206573
+  },
+  {
+    "question_id": 78,
+    "prompt": "An image of golden mole (Mole of southern Africa having iridescent guard hairs mixed with the underfur)",
+    "image_name": "78.png",
+    "answer": 0.21331769227981567
+  },
+  {
+    "question_id": 79,
+    "prompt": "An image of gorilla (Largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa)(animal)",
+    "image_name": "79.png",
+    "answer": 0.2103463113307953
+  },
+  {
+    "question_id": 80,
+    "prompt": "An image of grass frog (A common semiterrestrial European frog)",
+    "image_name": "80.png",
+    "answer": 0.22205233573913574
+  },
+  {
+    "question_id": 81,
+    "prompt": "An image of green lizard (A common Eurasian lizard about a foot long)",
+    "image_name": "81.png",
+    "answer": 0.22521062195301056
+  },
+  {
+    "question_id": 82,
+    "prompt": "An image of grey whale (Medium-sized greyish-black whale of the northern Pacific)",
+    "image_name": "82.png",
+    "answer": 0.21761415898799896
+  },
+  {
+    "question_id": 83,
+    "prompt": "An image of grizzly (Powerful brownish-yellow bear of the uplands of western North America)(animal)",
+    "image_name": "83.png",
+    "answer": 0.22788244485855103
+  },
+  {
+    "question_id": 84,
+    "prompt": "An image of groundhog (Reddish brown North American marmot)",
+    "image_name": "84.png",
+    "answer": 0.22499090433120728
+  },
+  {
+    "question_id": 85,
+    "prompt": "An image of guanaco (Wild llama)",
+    "image_name": "85.png",
+    "answer": 0.21640096604824066
+  },
+  {
+    "question_id": 86,
+    "prompt": "An image of harbor seal (Small spotted seal of coastal waters of the northern hemisphere)",
+    "image_name": "86.png",
+    "answer": 0.22869838774204254
+  },
+  {
+    "question_id": 87,
+    "prompt": "An image of hedgehog (Small nocturnal Old World mammal covered with both hair and protective spines)(animal)",
+    "image_name": "87.png",
+    "answer": 0.22762733697891235
+  },
+  {
+    "question_id": 88,
+    "prompt": "An image of honey buzzard (Old World hawk that feeds on bee larvae and small rodents and reptiles)",
+    "image_name": "88.png",
+    "answer": 0.20869189500808716
+  },
+  {
+    "question_id": 89,
+    "prompt": "An image of howler monkey (Monkey of tropical South American forests having a loud howling cry)",
+    "image_name": "89.png",
+    "answer": 0.204714834690094
+  },
+  {
+    "question_id": 90,
+    "prompt": "An image of humpback (Large whalebone whale with long flippers noted for arching or humping its back as it dives)",
+    "image_name": "90.png",
+    "answer": 0.22957448661327362
+  },
+  {
+    "question_id": 91,
+    "prompt": "An image of hyrax (Any of several small ungulate mammals of Africa and Asia with rodent-like incisors and feet with hooflike toes)",
+    "image_name": "91.png",
+    "answer": 0.22337785363197327
+  },
+  {
+    "question_id": 92,
+    "prompt": "An image of jaguar (A large spotted feline of tropical America similar to the leopard; in some classifications considered a member of the genus Felis)(animal)",
+    "image_name": "92.png",
+    "answer": 0.21489618718624115
+  },
+  {
+    "question_id": 93,
+    "prompt": "An image of jaguarundi (Long-bodied long-tailed tropical American wildcat)",
+    "image_name": "93.png",
+    "answer": 0.21813173592090607
+  },
+  {
+    "question_id": 94,
+    "prompt": "An image of kinkajou (Arboreal fruit-eating mammal of tropical America with a long prehensile tail)",
+    "image_name": "94.png",
+    "answer": 0.22311459481716156
+  },
+  {
+    "question_id": 95,
+    "prompt": "An image of kit fox (Small grey fox of the plains of western North America)",
+    "image_name": "95.png",
+    "answer": 0.22631394863128662
+  },
+  {
+    "question_id": 96,
+    "prompt": "An image of kookaburra (Australian kingfisher having a loud cackling cry)(animal)",
+    "image_name": "96.png",
+    "answer": 0.21450969576835632
+  },
+  {
+    "question_id": 97,
+    "prompt": "An image of langur (Slender long-tailed monkey of Asia)",
+    "image_name": "97.png",
+    "answer": 0.19805645942687988
+  },
+  {
+    "question_id": 98,
+    "prompt": "An image of lesser rorqual (Small finback of coastal waters of Atlantic and Pacific)",
+    "image_name": "98.png",
+    "answer": 0.21074439585208893
+  },
+  {
+    "question_id": 99,
+    "prompt": "An image of little chief hare (North American pika)",
+    "image_name": "99.png",
+    "answer": 0.20613354444503784
+  },
+  {
+    "question_id": 100,
+    "prompt": "An image of long-beaked echidna (The long-beaked echidnas make up one of the two extant genera of echidnas: there are three extant species, all living in New Guinea.)",
+    "image_name": "100.png",
+    "answer": 0.2293299287557602
+  },
+  {
+    "question_id": 101,
+    "prompt": "An image of mamba (Arboreal snake of central and southern Africa whose bite is often fatal)(animal)",
+    "image_name": "101.png",
+    "answer": 0.21305376291275024
+  },
+  {
+    "question_id": 102,
+    "prompt": "An image of manatee (Sirenian mammal of tropical coastal waters of America; the flat tail is rounded)",
+    "image_name": "102.png",
+    "answer": 0.22709538042545319
+  },
+  {
+    "question_id": 103,
+    "prompt": "An image of manul (Small wildcat of the mountains of Siberia and Tibet and Mongolia)",
+    "image_name": "103.png",
+    "answer": 0.22507110238075256
+  },
+  {
+    "question_id": 104,
+    "prompt": "An image of margay (Small spotted wildcat found from Texas to Brazil)",
+    "image_name": "104.png",
+    "answer": 0.23672598600387573
+  },
+  {
+    "question_id": 105,
+    "prompt": "An image of marmot (Stocky coarse-furred burrowing rodent with a short bushy tail found throughout the northern hemisphere; hibernates in winter)",
+    "image_name": "105.png",
+    "answer": 0.21832789480686188
+  },
+  {
+    "question_id": 106,
+    "prompt": "An image of mongoose (Agile grizzled Old World viverrine; preys on snakes and rodents)(animal)",
+    "image_name": "106.png",
+    "answer": 0.20621678233146667
+  },
+  {
+    "question_id": 107,
+    "prompt": "An image of moorhen (Black gallinule that inhabits ponds and lakes)",
+    "image_name": "107.png",
+    "answer": 0.20639276504516602
+  },
+  {
+    "question_id": 108,
+    "prompt": "An image of mountain goat (Sure-footed mammal of mountainous northwestern North America)",
+    "image_name": "108.png",
+    "answer": 0.2237493097782135
+  },
+  {
+    "question_id": 109,
+    "prompt": "An image of mountain nyala (Shaggy antelope of mountains of Ethiopia)",
+    "image_name": "109.png",
+    "answer": 0.21849869191646576
+  },
+  {
+    "question_id": 110,
+    "prompt": "An image of mountain zebra (Narrow-striped nearly extinct zebra of southern Africa)",
+    "image_name": "110.png",
+    "answer": 0.22131162881851196
+  },
+  {
+    "question_id": 111,
+    "prompt": "An image of musk ox (Large shaggy-coated bovid mammal of Canada and Greenland; intermediate in size and anatomy between an ox and a sheep)",
+    "image_name": "111.png",
+    "answer": 0.21297228336334229
+  },
+  {
+    "question_id": 112,
+    "prompt": "An image of napu (Chevrotain somewhat larger than the kanchil; found in India and Malaya)",
+    "image_name": "112.png",
+    "answer": 0.22814717888832092
+  },
+  {
+    "question_id": 113,
+    "prompt": "An image of natterjack (Common brownish-yellow short-legged toad of western Europe; runs rather than hops)",
+    "image_name": "113.png",
+    "answer": 0.20992490649223328
+  },
+  {
+    "question_id": 114,
+    "prompt": "An image of nilgai (Large Indian antelope; male is blue-grey with white markings; female is brownish with no horns)",
+    "image_name": "114.png",
+    "answer": 0.22426429390907288
+  },
+  {
+    "question_id": 115,
+    "prompt": "An image of numbat (Small Australian marsupial having long snout and strong claws for feeding on termites; nearly extinct)",
+    "image_name": "115.png",
+    "answer": 0.2231282889842987
+  },
+  {
+    "question_id": 116,
+    "prompt": "An image of nyala (Spiral-horned South African antelope with a fringe of white hairs along back and neck)(animal)",
+    "image_name": "116.png",
+    "answer": 0.22038628160953522
+  },
+  {
+    "question_id": 117,
+    "prompt": "An image of obstetrical toad (European toad whose male carries the fertilized eggs wrapped around its hind legs until they hatch)",
+    "image_name": "117.png",
+    "answer": 0.23463575541973114
+  },
+  {
+    "question_id": 118,
+    "prompt": "An image of ocelot (Nocturnal wildcat of Central America and South America having a dark-spotted buff-brown coat)(animal)",
+    "image_name": "118.png",
+    "answer": 0.2258501797914505
+  },
+  {
+    "question_id": 119,
+    "prompt": "An image of okapi (Similar to the giraffe but smaller with much shorter neck and stripe on the legs)",
+    "image_name": "119.png",
+    "answer": 0.222336083650589
+  },
+  {
+    "question_id": 120,
+    "prompt": "An image of opossum (Nocturnal arboreal marsupial having a naked prehensile tail found from southern North America to northern South America)",
+    "image_name": "120.png",
+    "answer": 0.22701647877693176
+  },
+  {
+    "question_id": 121,
+    "prompt": "An image of orangutan (Large long-armed ape of Borneo and Sumatra having arboreal habits)",
+    "image_name": "121.png",
+    "answer": 0.21734173595905304
+  },
+  {
+    "question_id": 122,
+    "prompt": "An image of otter (Freshwater carnivorous mammal having webbed and clawed feet and dark brown fur)(animal)",
+    "image_name": "122.png",
+    "answer": 0.2166346162557602
+  },
+  {
+    "question_id": 123,
+    "prompt": "An image of otter shrew (Amphibious African insectivorous mammal that resembles an otter)",
+    "image_name": "123.png",
+    "answer": 0.21108949184417725
+  },
+  {
+    "question_id": 124,
+    "prompt": "An image of phalarope (Small sandpiper-like shorebird having lobate toes and being good swimmers; breed in the Arctic and winter in the tropics)",
+    "image_name": "124.png",
+    "answer": 0.23268193006515503
+  },
+  {
+    "question_id": 125,
+    "prompt": "An image of pika (Small short-eared burrowing mammal of rocky uplands of Asia and western North America)",
+    "image_name": "125.png",
+    "answer": 0.21437588334083557
+  },
+  {
+    "question_id": 126,
+    "prompt": "An image of pine marten (Dark brown marten of northern Eurasian coniferous forests)",
+    "image_name": "126.png",
+    "answer": 0.23779034614562988
+  },
+  {
+    "question_id": 127,
+    "prompt": "An image of polar hare (A large hare of northern North America; it is almost completely white in winter)",
+    "image_name": "127.png",
+    "answer": 0.239399254322052
+  },
+  {
+    "question_id": 128,
+    "prompt": "An image of pronghorn (Fleet antelope-like ruminant of western North American plains with small branched horns)",
+    "image_name": "128.png",
+    "answer": 0.22459937632083893
+  },
+  {
+    "question_id": 129,
+    "prompt": "An image of pygmy chimpanzee (Small chimpanzee of swamp forests in Zaire; a threatened species)",
+    "image_name": "129.png",
+    "answer": 0.2182476818561554
+  },
+  {
+    "question_id": 130,
+    "prompt": "An image of quagga (Mammal of South Africa that resembled a zebra; extinct since late 19th century)",
+    "image_name": "130.png",
+    "answer": 0.23624074459075928
+  },
+  {
+    "question_id": 131,
+    "prompt": "An image of quarter horse (A small powerful horse originally bred for sprinting in quarter-mile races in Virginia)",
+    "image_name": "131.png",
+    "answer": 0.2123543918132782
+  },
+  {
+    "question_id": 132,
+    "prompt": "An image of red squirrel (Common reddish-brown squirrel of Europe and parts of Asia)",
+    "image_name": "132.png",
+    "answer": 0.21876627206802368
+  },
+  {
+    "question_id": 133,
+    "prompt": "An image of rhesus (Of southern Asia; used in medical research)",
+    "image_name": "133.png",
+    "answer": 0.21800971031188965
+  },
+  {
+    "question_id": 134,
+    "prompt": "An image of rice rat (Hardy agile rat of grassy marshes of Mexico and the southeastern United States)",
+    "image_name": "134.png",
+    "answer": 0.21352343261241913
+  },
+  {
+    "question_id": 135,
+    "prompt": "An image of right whale (Large Arctic whalebone whale; allegedly the `right' whale to hunt because of its valuable whalebone and oil)",
+    "image_name": "135.png",
+    "answer": 0.22039252519607544
+  },
+  {
+    "question_id": 136,
+    "prompt": "An image of river otter (Sociable aquatic animal widely distributed along streams and lake borders in North America)",
+    "image_name": "136.png",
+    "answer": 0.22949133813381195
+  },
+  {
+    "question_id": 137,
+    "prompt": "An image of rock hyrax (Hyrax that lives in rocky areas)",
+    "image_name": "137.png",
+    "answer": 0.22229765355587006
+  },
+  {
+    "question_id": 138,
+    "prompt": "An image of roe deer (Small graceful deer of Eurasian woodlands having small forked antlers)",
+    "image_name": "138.png",
+    "answer": 0.22134985029697418
+  },
+  {
+    "question_id": 139,
+    "prompt": "An image of saiga (Goat-like antelope of central Eurasia having a stubby nose like a proboscis)",
+    "image_name": "139.png",
+    "answer": 0.22250249981880188
+  },
+  {
+    "question_id": 140,
+    "prompt": "An image of sailfish (Large pelagic game fish having an elongated upper jaw and long dorsal fin that resembles a sail)",
+    "image_name": "140.png",
+    "answer": 0.20961351692676544
+  },
+  {
+    "question_id": 141,
+    "prompt": "An image of sambar (A deer of southern Asia with antlers that have three tines)",
+    "image_name": "141.png",
+    "answer": 0.23102037608623505
+  },
+  {
+    "question_id": 142,
+    "prompt": "An image of serotine (Common brown bat of Europe)",
+    "image_name": "142.png",
+    "answer": 0.2159074991941452
+  },
+  {
+    "question_id": 143,
+    "prompt": "An image of shire (British breed of large heavy draft horse)(animal)",
+    "image_name": "143.png",
+    "answer": 0.21286535263061523
+  },
+  {
+    "question_id": 144,
+    "prompt": "An image of snowshoe hare (Large large-footed North American hare; white in winter)",
+    "image_name": "144.png",
+    "answer": 0.21157658100128174
+  },
+  {
+    "question_id": 145,
+    "prompt": "An image of sperm whale (Large whale with a large cavity in the head containing spermaceti and oil; also a source of ambergris)",
+    "image_name": "145.png",
+    "answer": 0.21636566519737244
+  },
+  {
+    "question_id": 146,
+    "prompt": "An image of spider monkey (Arboreal monkey of tropical America with long slender legs and long prehensile tail)",
+    "image_name": "146.png",
+    "answer": 0.20548322796821594
+  },
+  {
+    "question_id": 147,
+    "prompt": "An image of stoat (The ermine in its brown summer coat with black-tipped tail)",
+    "image_name": "147.png",
+    "answer": 0.22761936485767365
+  },
+  {
+    "question_id": 148,
+    "prompt": "An image of takin (Large heavily built goat antelope of eastern Himalayan area)",
+    "image_name": "148.png",
+    "answer": 0.21161900460720062
+  },
+  {
+    "question_id": 149,
+    "prompt": "An image of tiglon (Offspring of a male tiger and a female lion)",
+    "image_name": "149.png",
+    "answer": 0.20880761742591858
+  },
+  {
+    "question_id": 150,
+    "prompt": "An image of wapiti (Large North American deer with large much-branched antlers in the male)",
+    "image_name": "150.png",
+    "answer": 0.21689151227474213
+  },
+  {
+    "question_id": 151,
+    "prompt": "An image of warthog (African wild swine with warty protuberances on the face and large protruding tusks)(animal)",
+    "image_name": "151.png",
+    "answer": 0.21418319642543793
+  },
+  {
+    "question_id": 152,
+    "prompt": "An image of water buffalo (An Asian buffalo that is often domesticated for use as a draft animal)",
+    "image_name": "152.png",
+    "answer": 0.22743120789527893
+  },
+  {
+    "question_id": 153,
+    "prompt": "An image of waterbuck (Any of several large African antelopes of the genus Kobus having curved ridged horns and frequenting e.g. swamps and rivers)",
+    "image_name": "153.png",
+    "answer": 0.22746309638023376
+  },
+  {
+    "question_id": 154,
+    "prompt": "An image of white rhinoceros (Large light-grey African rhinoceros having two horns; endangered; sometimes placed in genus Diceros)",
+    "image_name": "154.png",
+    "answer": 0.22581669688224792
+  },
+  {
+    "question_id": 155,
+    "prompt": "An image of white whale (Small northern whale that is white when adult)(animal)",
+    "image_name": "155.png",
+    "answer": 0.20883841812610626
+  },
+  {
+    "question_id": 156,
+    "prompt": "An image of white wolf (Wolf of Arctic North America having white fur and a black-tipped tail)(animal)",
+    "image_name": "156.png",
+    "answer": 0.22641605138778687
+  },
+  {
+    "question_id": 157,
+    "prompt": "An image of wisent (European bison having a smaller and higher head than the North American bison)",
+    "image_name": "157.png",
+    "answer": 0.21804334223270416
+  },
+  {
+    "question_id": 158,
+    "prompt": "An image of Reliant Regal (The Reliant Regal is a small three-wheeled car and van that was manufactured from 1952 to 1973 by the Reliant Motor Company in Tamworth, England, replacing the earlier Reliant Regent three-wheeled cyclecar van which had its origins in a design bought by Reliant from the Raleigh Bicycle Company.)",
+    "image_name": "158.png",
+    "answer": 0.20131056010723114
+  },
+  {
+    "question_id": 159,
+    "prompt": "An image of Universal Carrier (The Universal Carrier, also known as the Bren Gun Carrier and sometimes simply the Bren Carrier from the light machine gun armament, is a common name describing a family of light armoured tracked vehicles built by Vickers-Armstrongs and other companies.)",
+    "image_name": "159.png",
+    "answer": 0.1997467279434204
+  },
+  {
+    "question_id": 160,
+    "prompt": "An image of ambulance bus (An ambulance bus is a type of ambulance with the capacity to transport and treat multiple patients.)",
+    "image_name": "160.png",
+    "answer": 0.22827643156051636
+  },
+  {
+    "question_id": 161,
+    "prompt": "An image of antique car (An antique car is an automobile that is an antique.)",
+    "image_name": "161.png",
+    "answer": 0.23103581368923187
+  },
+  {
+    "question_id": 162,
+    "prompt": "An image of campervan (A campervan, also referred to as a camper, caravanette, motorhome or RV in North America, is a self-propelled vehicle that provides both transport and sleeping accommodation.)",
+    "image_name": "162.png",
+    "answer": 0.22597354650497437
+  },
+  {
+    "question_id": 163,
+    "prompt": "An image of jeepney (Jeepneys, sometimes called jeeps, are minibus-like public utility vehicles, serving as the most popular means of public transportation in the Philippines.)",
+    "image_name": "163.png",
+    "answer": 0.21915489435195923
+  },
+  {
+    "question_id": 164,
+    "prompt": "An image of pace car (A high-performance car that leads a parade of competing cars through the pace lap and then pulls off the course)",
+    "image_name": "164.png",
+    "answer": 0.21930541098117828
+  },
+  {
+    "question_id": 165,
+    "prompt": "An image of Andromeda galaxy (A spiral galaxy in the constellation of Andromeda that is visible to the naked eye)(celestial)",
+    "image_name": "165.png",
+    "answer": 0.23167037963867188
+  },
+  {
+    "question_id": 166,
+    "prompt": "An image of Callisto (The second largest of Jupiter's satellites)(celestial)",
+    "image_name": "166.png",
+    "answer": 0.2171349674463272
+  },
+  {
+    "question_id": 167,
+    "prompt": "An image of Earth (The 3rd planet from the sun; the planet we live on)(celestial)",
+    "image_name": "167.png",
+    "answer": 0.20191256701946259
+  },
+  {
+    "question_id": 168,
+    "prompt": "An image of Enceladus (Enceladus is the sixth-largest moon of Saturn.)(celestial)",
+    "image_name": "168.png",
+    "answer": 0.22270727157592773
+  },
+  {
+    "question_id": 169,
+    "prompt": "An image of Europa (The 4th largest of Jupiter's satellites; covered with a smooth shell of frozen water)(celestial)",
+    "image_name": "169.png",
+    "answer": 0.21559734642505646
+  },
+  {
+    "question_id": 170,
+    "prompt": "An image of Ganymede (The largest of Jupiter's satellites)(celestial)",
+    "image_name": "170.png",
+    "answer": 0.20251327753067017
+  },
+  {
+    "question_id": 171,
+    "prompt": "An image of Halley's Comet (Halley's Comet, Comet Halley, or sometimes simply Halley, officially designated 1P/Halley, is a short-period comet visible from Earth every 75\u201379 years.)(celestial)",
+    "image_name": "171.png",
+    "answer": 0.21673956513404846
+  },
+  {
+    "question_id": 172,
+    "prompt": "An image of Horsehead Nebula (The Horsehead Nebula is a small dark nebula in the constellation Orion.)(celestial)",
+    "image_name": "172.png",
+    "answer": 0.2113875299692154
+  },
+  {
+    "question_id": 173,
+    "prompt": "An image of Jupiter ((Roman mythology) supreme god of Romans; counterpart of Greek Zeus)(celestial)",
+    "image_name": "173.png",
+    "answer": 0.21831442415714264
+  },
+  {
+    "question_id": 174,
+    "prompt": "An image of Mars ((Roman mythology) Roman god of war and agriculture; father of Romulus and Remus; counterpart of Greek Ares)(celestial)",
+    "image_name": "174.png",
+    "answer": 0.20307406783103943
+  },
+  {
+    "question_id": 175,
+    "prompt": "An image of Mercury (The smallest planet and the nearest to the sun)(celestial)",
+    "image_name": "175.png",
+    "answer": 0.20034469664096832
+  },
+  {
+    "question_id": 176,
+    "prompt": "An image of Orion's Belt (Orion's Belt or the Belt of Orion, also known as the Three Kings or Three Sisters, is an asterism in the constellation Orion.)(celestial)",
+    "image_name": "176.png",
+    "answer": 0.22221988439559937
+  },
+  {
+    "question_id": 177,
+    "prompt": "An image of Saturn (A giant planet that is surrounded by three planar concentric rings of ice particles; the 6th planet from the sun)(celestial)",
+    "image_name": "177.png",
+    "answer": 0.2056829035282135
+  },
+  {
+    "question_id": 178,
+    "prompt": "An image of Uranus (A giant planet with a ring of ice particles; the 7th planet from the sun has a blue-green color and many satellites)(celestial)",
+    "image_name": "178.png",
+    "answer": 0.20577067136764526
+  },
+  {
+    "question_id": 179,
+    "prompt": "An image of Berg\u00e8re hat (A berg\u00e8re hat is a flat-brimmed straw hat with a shallow crown, usually trimmed with ribbon and flowers.)",
+    "image_name": "179.png",
+    "answer": 0.23316213488578796
+  },
+  {
+    "question_id": 180,
+    "prompt": "An image of balaclava (A cap that is close-fitting and woolen and covers all of the head but the face)(clothes)",
+    "image_name": "180.png",
+    "answer": 0.22777977585792542
+  },
+  {
+    "question_id": 181,
+    "prompt": "An image of ball gown (The most formal gown; worn to a ball)",
+    "image_name": "181.png",
+    "answer": 0.22901366651058197
+  },
+  {
+    "question_id": 182,
+    "prompt": "An image of bootee (A slipper that is soft and wool (for babies))",
+    "image_name": "182.png",
+    "answer": 0.24012580513954163
+  },
+  {
+    "question_id": 183,
+    "prompt": "An image of burnous (A long hooded cloak woven of wool in one piece; worn by Arabs and Moors)",
+    "image_name": "183.png",
+    "answer": 0.22027790546417236
+  },
+  {
+    "question_id": 184,
+    "prompt": "An image of cloche (A woman's close-fitting hat that resembles a helmet)",
+    "image_name": "184.png",
+    "answer": 0.22883841395378113
+  },
+  {
+    "question_id": 185,
+    "prompt": "An image of crop top (A crop top is a top that exposes the waist, navel, or abdomen.)",
+    "image_name": "185.png",
+    "answer": 0.224613755941391
+  },
+  {
+    "question_id": 186,
+    "prompt": "An image of grass skirt (A skirt made of long blades of grass)",
+    "image_name": "186.png",
+    "answer": 0.236367329955101
+  },
+  {
+    "question_id": 187,
+    "prompt": "An image of kurta (A loose collarless shirt worn by many people on the Indian subcontinent (usually with a salwar or churidars or pyjama))",
+    "image_name": "187.png",
+    "answer": 0.21858172118663788
+  },
+  {
+    "question_id": 188,
+    "prompt": "An image of leather jacket (A leather jacket is a jacket-length coat that is usually worn on top of other apparel or item of clothing, and made from the tanned hide of various animal skins.)",
+    "image_name": "188.png",
+    "answer": 0.22593984007835388
+  },
+  {
+    "question_id": 189,
+    "prompt": "An image of lounging jacket (A man's soft jacket usually with a tie belt; worn at home)",
+    "image_name": "189.png",
+    "answer": 0.2202741801738739
+  },
+  {
+    "question_id": 190,
+    "prompt": "An image of overall ((usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps))(clothes)",
+    "image_name": "190.png",
+    "answer": 0.22527363896369934
+  },
+  {
+    "question_id": 191,
+    "prompt": "An image of polo shirt (A shirt with short sleeves designed for comfort and casual wear)",
+    "image_name": "191.png",
+    "answer": 0.21542230248451233
+  },
+  {
+    "question_id": 192,
+    "prompt": "An image of sweater vest (A sweater vest is an item of knitwear that is similar to a sweater, but without sleeves, usually with a low-cut neckline.)",
+    "image_name": "192.png",
+    "answer": 0.24102729558944702
+  },
+  {
+    "question_id": 193,
+    "prompt": "An image of swim briefs (A swim brief or racing brief is any briefs-style male swimsuit such as those worn in competitive swimming, diving and water polo.)",
+    "image_name": "193.png",
+    "answer": 0.213849276304245
+  },
+  {
+    "question_id": 194,
+    "prompt": "An image of ushanka (An ushanka, also called an ushanka-hat, is a Russian fur hat with ear-covering flaps that can be tied up to the crown of the cap, or fastened at the chin to protect the ears, jaw, and lower chin from the cold.)",
+    "image_name": "194.png",
+    "answer": 0.228776216506958
+  },
+  {
+    "question_id": 195,
+    "prompt": "An image of 2004 Tour de France (The 2004 Tour de France was a multiple stage bicycle race held from 3 to 25 July, and the 91st edition of the Tour de France.)",
+    "image_name": "195.png",
+    "answer": 0.2357185184955597
+  },
+  {
+    "question_id": 196,
+    "prompt": "An image of 2018 Armenian revolution (The 2018 Armenian Revolution, most commonly known in Armenia as #MerzhirSerzhin, was a series of anti-government protests in Armenia from April to May 2018 staged by various political and civil groups led by a member of the Armenian parliament \u2014 Nikol Pashinyan.)",
+    "image_name": "196.png",
+    "answer": 0.22223356366157532
+  },
+  {
+    "question_id": 197,
+    "prompt": "An image of Battle of Leyte Gulf (The Battle of Leyte Gulf was the largest naval battle of World War II and by some criteria the largest naval battle in history, with over 200,000 naval personnel involved.)",
+    "image_name": "197.png",
+    "answer": 0.22471991181373596
+  },
+  {
+    "question_id": 198,
+    "prompt": "An image of Battle off Samar (The Battle off Samar was the centermost action of the Battle of Leyte Gulf, one of the largest naval battles in history, which took place in the Philippine Sea off Samar Island, in the Philippines on October 25, 1944.)",
+    "image_name": "198.png",
+    "answer": 0.2151298224925995
+  },
+  {
+    "question_id": 199,
+    "prompt": "An image of COVID-19 pandemic (The COVID-19 pandemic, also known as the coronavirus pandemic, is a global pandemic of coronavirus disease 2019 caused by severe acute respiratory syndrome coronavirus 2.)",
+    "image_name": "199.png",
+    "answer": 0.21345730125904083
+  },
+  {
+    "question_id": 200,
+    "prompt": "An image of Chinese New Year (Chinese New Year is the festival that celebrates the beginning of a new year on the traditional lunisolar Chinese calendar.)",
+    "image_name": "200.png",
+    "answer": 0.21605420112609863
+  },
+  {
+    "question_id": 201,
+    "prompt": "An image of Coachella (festival) (Coachella is an annual music and arts festival held at the Empire Polo Club in Indio, California, in the Coachella Valley in the Colorado Desert.)",
+    "image_name": "201.png",
+    "answer": 0.2137679159641266
+  },
+  {
+    "question_id": 202,
+    "prompt": "An image of Dieppe Raid (Operation Jubilee or the Dieppe Raid was an Allied amphibious attack on the German-occupied port of Dieppe in northern France, during the Second World War.)",
+    "image_name": "202.png",
+    "answer": 0.22768455743789673
+  },
+  {
+    "question_id": 203,
+    "prompt": "An image of Edinburgh International Festival (The Edinburgh International Festival is an annual arts festival in Edinburgh, Scotland, spread over the final three weeks in August.)",
+    "image_name": "203.png",
+    "answer": 0.2177140712738037
+  },
+  {
+    "question_id": 204,
+    "prompt": "An image of ICC Champions Trophy (The ICC Champions Trophy is a One-Day International cricket tournament organised by the International Cricket Council or ICC.)",
+    "image_name": "204.png",
+    "answer": 0.2396555244922638
+  },
+  {
+    "question_id": 205,
+    "prompt": "An image of IndyCar Series (The IndyCar Series, currently known as the NTT IndyCar Series under sponsorship, is the highest class of regional North American open-wheel racing in the United States, which has been conducted under the auspices of various sanctioning bodies since 1920 after two initial attempts in 1905 and 1916.)",
+    "image_name": "205.png",
+    "answer": 0.23444555699825287
+  },
+  {
+    "question_id": 206,
+    "prompt": "An image of March on Washington for Jobs and Freedom (The March on Washington for Jobs and Freedom, also known as simply the March on Washington or The Great March on Washington, was held in Washington, D.C., on August 28, 1963.)",
+    "image_name": "206.png",
+    "answer": 0.21988815069198608
+  },
+  {
+    "question_id": 207,
+    "prompt": "An image of Monster Energy NASCAR Cup Series (The Monster Energy NASCAR Cup Series is the top racing series of the National Association for Stock Car Auto Racing.)",
+    "image_name": "207.png",
+    "answer": 0.21503637731075287
+  },
+  {
+    "question_id": 208,
+    "prompt": "An image of Operation Bodenplatte (Operation Bodenplatte, launched on 1 January 1945, was an attempt by the Luftwaffe to cripple Allied air forces in the Low Countries during the Second World War.)",
+    "image_name": "208.png",
+    "answer": 0.21174320578575134
+  },
+  {
+    "question_id": 209,
+    "prompt": "An image of Operation Halberd (Operation Halberd was a British naval operation that took place on 27 September 1941, during the Second World War.)",
+    "image_name": "209.png",
+    "answer": 0.2136889100074768
+  },
+  {
+    "question_id": 210,
+    "prompt": "An image of Prefontaine Classic (The Prefontaine Classic is a track and field meet held at Hayward Field on the campus of the University of Oregon in Eugene, Oregon, United States.)",
+    "image_name": "210.png",
+    "answer": 0.2195012867450714
+  },
+  {
+    "question_id": 211,
+    "prompt": "An image of Ratha-Yatra (The Ratha Yatra of Puri, also rendered as the Ratha Jatra, is considered the oldest and largest Hindu chariot festival celebrated annually, on the bright half of the lunar month of Ashadh.)",
+    "image_name": "211.png",
+    "answer": 0.23904266953468323
+  },
+  {
+    "question_id": 212,
+    "prompt": "An image of Reichstag fire (The Reichstag fire was an arson attack on the Reichstag building, home of the German parliament in Berlin, on Monday, 27 February 1933, precisely four weeks after Nazi leader Adolf Hitler was sworn in as Chancellor of Germany.)",
+    "image_name": "212.png",
+    "answer": 0.22590652108192444
+  },
+  {
+    "question_id": 213,
+    "prompt": "An image of World Rally Championship (The World Rally Championship is the highest level of global competition in the motorsport discipline of rallying, owned and governed by the FIA.)",
+    "image_name": "213.png",
+    "answer": 0.2368336319923401
+  },
+  {
+    "question_id": 214,
+    "prompt": "An image of Aachener Printen (Aachener Printen are a type of Lebkuchen originating from the city of Aachen in Germany.)",
+    "image_name": "214.png",
+    "answer": 0.21136260032653809
+  },
+  {
+    "question_id": 215,
+    "prompt": "An image of Arbroath smokie (The Arbroath smokie is a type of smoked haddock, and is a speciality of the town of Arbroath in Angus, Scotland.)",
+    "image_name": "215.png",
+    "answer": 0.20650550723075867
+  },
+  {
+    "question_id": 216,
+    "prompt": "An image of Caesar salad (Typically having fried croutons and dressing made with a raw egg)",
+    "image_name": "216.png",
+    "answer": 0.22075998783111572
+  },
+  {
+    "question_id": 217,
+    "prompt": "An image of California roll (California roll or California maki is an uramaki containing imitation crab, avocado, and cucumber.)",
+    "image_name": "217.png",
+    "answer": 0.21980667114257812
+  },
+  {
+    "question_id": 218,
+    "prompt": "An image of Christmas cake (A rich fruitcake (usually covered with icing and marzipan) and eaten at Christmas)",
+    "image_name": "218.png",
+    "answer": 0.23069407045841217
+  },
+  {
+    "question_id": 219,
+    "prompt": "An image of Comt\u00e9 cheese (Comt\u00e9)",
+    "image_name": "219.png",
+    "answer": 0.20107997953891754
+  },
+  {
+    "question_id": 220,
+    "prompt": "An image of Fluffernutter (A fluffernutter is a sandwich made with peanut butter and marshmallow creme usually served on white bread.)",
+    "image_name": "220.png",
+    "answer": 0.2200247347354889
+  },
+  {
+    "question_id": 221,
+    "prompt": "An image of French toast (Bread slice dipped in egg and milk and fried; topped with sugar or fruit or syrup)",
+    "image_name": "221.png",
+    "answer": 0.2339407503604889
+  },
+  {
+    "question_id": 222,
+    "prompt": "An image of Frito pie (Frito pie is a dish popular in the Midwestern, Southeastern, and Southwestern United States, whose basic ingredients are chili, cheese, and corn chips.)",
+    "image_name": "222.png",
+    "answer": 0.21946823596954346
+  },
+  {
+    "question_id": 223,
+    "prompt": "An image of Gouda (Mild cream-colored Dutch cheese shaped in balls)",
+    "image_name": "223.png",
+    "answer": 0.21225900948047638
+  },
+  {
+    "question_id": 224,
+    "prompt": "An image of Greek salad (Greek salad or horiatiki salad is a popular salad in Greek cuisine generally made with pieces of tomatoes, cucumbers, onion, feta cheese, and olives and dressed with salt, Greek oregano, and olive oil.)",
+    "image_name": "224.png",
+    "answer": 0.2344927191734314
+  },
+  {
+    "question_id": 225,
+    "prompt": "An image of Kilishi (Kilishi is a version of jerky that originated in Hausaland which consists of most of Northern Nigeria and parts of Southern Niger.)",
+    "image_name": "225.png",
+    "answer": 0.19913806021213531
+  },
+  {
+    "question_id": 226,
+    "prompt": "An image of Kraft Dinner (Kraft Dinner in Canada, Kraft Mac & Cheese in the United States, Australia and New Zealand, Cheesey Pasta in the United Kingdom and internationally, is a nonperishable, packaged macaroni and cheese product.)",
+    "image_name": "226.png",
+    "answer": 0.21474693715572357
+  },
+  {
+    "question_id": 227,
+    "prompt": "An image of Lancashire hotpot (Lancashire hotpot is a stew originating in Lancashire in the North West of England.)",
+    "image_name": "227.png",
+    "answer": 0.20189473032951355
+  },
+  {
+    "question_id": 228,
+    "prompt": "An image of Me\u0111imurska gibanica (Me\u0111imurska gibanica is a type of gibanica or layer cake originating from Me\u0111imurje County, Croatia.)",
+    "image_name": "228.png",
+    "answer": 0.19917160272598267
+  },
+  {
+    "question_id": 229,
+    "prompt": "An image of Neapolitan pizza (Neapolitan pizza, also known as Naples-style pizza, is a style of pizza made with tomatoes and mozzarella cheese.)",
+    "image_name": "229.png",
+    "answer": 0.2090889811515808
+  },
+  {
+    "question_id": 230,
+    "prompt": "An image of Pecorino Romano (Pecorino Romano is a hard, salty Italian cheese, often used for grating, made with sheep's milk.)",
+    "image_name": "230.png",
+    "answer": 0.21555101871490479
+  },
+  {
+    "question_id": 231,
+    "prompt": "An image of Peking duck (Peking duck is a dish from Beijing that has been prepared since the Imperial era.)",
+    "image_name": "231.png",
+    "answer": 0.21946625411510468
+  },
+  {
+    "question_id": 232,
+    "prompt": "An image of Pumpkin Spice Latte (The Pumpkin Spice Latte is a coffee drink made with a mix of traditional fall spice flavors, steamed milk, espresso, and often sugar, topped with whipped cream and pumpkin pie spice.)",
+    "image_name": "232.png",
+    "answer": 0.22897398471832275
+  },
+  {
+    "question_id": 233,
+    "prompt": "An image of Sanuki udon (Sanuki udon has been the type of udon noodle most popular in the Kagawa prefecture in Japan, but is now easily found throughout the neighboring Kansai region and much of Japan.)",
+    "image_name": "233.png",
+    "answer": 0.22853946685791016
+  },
+  {
+    "question_id": 234,
+    "prompt": "An image of Sara udon (Sara udon, literally \"plate noodles\", is a dish native to Nagasaki prefecture, Japan.)",
+    "image_name": "234.png",
+    "answer": 0.2165338397026062
+  },
+  {
+    "question_id": 235,
+    "prompt": "An image of Shrewsbury cake (A Shrewsbury cake or Shrewsbury biscuit is a classic English dessert, named after Shrewsbury, the county town of Shropshire.)",
+    "image_name": "235.png",
+    "answer": 0.2098207175731659
+  },
+  {
+    "question_id": 236,
+    "prompt": "An image of Shropshire Blue (Shropshire Blue is a cow's milk cheese made in the United Kingdom.)",
+    "image_name": "236.png",
+    "answer": 0.224867582321167
+  },
+  {
+    "question_id": 237,
+    "prompt": "An image of Stilton (English blue cheese)",
+    "image_name": "237.png",
+    "answer": 0.21282552182674408
+  },
+  {
+    "question_id": 238,
+    "prompt": "An image of Strawberry Shortcake (Strawberry Shortcake is a cartoon character used in greeting cards published by American Greetings.)(food)",
+    "image_name": "238.png",
+    "answer": 0.2253076434135437
+  },
+  {
+    "question_id": 239,
+    "prompt": "An image of Wensleydale cheese (Wensleydale is a style of cheese originally produced in Wensleydale, North Yorkshire, England, but now mostly made in large commercial creameries throughout the United Kingdom.)",
+    "image_name": "239.png",
+    "answer": 0.2196033000946045
+  },
+  {
+    "question_id": 240,
+    "prompt": "An image of apple cider (Apple cider is the name used in the United States and Canada for an unfiltered, unsweetened, non-alcoholic beverage made from apples.)",
+    "image_name": "240.png",
+    "answer": 0.22838419675827026
+  },
+  {
+    "question_id": 241,
+    "prompt": "An image of apple pie (Pie (with a top crust) containing sliced apples and sugar)(food)",
+    "image_name": "241.png",
+    "answer": 0.22921137511730194
+  },
+  {
+    "question_id": 242,
+    "prompt": "An image of avocado toast (Avocado toast is a type of open sandwich consisting of toast with mashed avocado, and any of a variety of spices and flavorful ingredients.)",
+    "image_name": "242.png",
+    "answer": 0.22662755846977234
+  },
+  {
+    "question_id": 243,
+    "prompt": "An image of bacon sandwich (A bacon sandwich is a sandwich of cooked bacon between bread that is optionally spread with butter, and may be seasoned with ketchup or brown sauce.)",
+    "image_name": "243.png",
+    "answer": 0.2404390573501587
+  },
+  {
+    "question_id": 244,
+    "prompt": "An image of baked potato (Potato that has been cooked by baking it in an oven)",
+    "image_name": "244.png",
+    "answer": 0.21193762123584747
+  },
+  {
+    "question_id": 245,
+    "prompt": "An image of banana split (A banana split lengthwise and topped with scoops of ice cream and sauces and nuts and whipped cream)",
+    "image_name": "245.png",
+    "answer": 0.23911693692207336
+  },
+  {
+    "question_id": 246,
+    "prompt": "An image of beef Stroganoff (Sauteed strips of beef and mushrooms in sour cream sauce served with noodles)",
+    "image_name": "246.png",
+    "answer": 0.24059933423995972
+  },
+  {
+    "question_id": 247,
+    "prompt": "An image of beef Wellington (Rare-roasted beef tenderloin coated with mushroom paste in puff pastry)",
+    "image_name": "247.png",
+    "answer": 0.23601539433002472
+  },
+  {
+    "question_id": 248,
+    "prompt": "An image of bittersweet chocolate (Chocolate liquor with cocoa butter and small amounts of sugar and vanilla; lecithin is usually added)",
+    "image_name": "248.png",
+    "answer": 0.2189129739999771
+  },
+  {
+    "question_id": 249,
+    "prompt": "An image of blanquette de veau (Blanquette de veau is a French veal stew.)",
+    "image_name": "249.png",
+    "answer": 0.22938117384910583
+  },
+  {
+    "question_id": 250,
+    "prompt": "An image of bolognese pasta sauce (Sauce for pasta; contains mushrooms and ham and chopped vegetables and beef and tomato paste)",
+    "image_name": "250.png",
+    "answer": 0.22588694095611572
+  },
+  {
+    "question_id": 251,
+    "prompt": "An image of brazil nut (Three-sided tropical American nut with white oily meat and hard brown shell)",
+    "image_name": "251.png",
+    "answer": 0.2148699015378952
+  },
+  {
+    "question_id": 252,
+    "prompt": "An image of brown bread (Dark steamed bread made of cornmeal wheat and flour with molasses and soda and milk or water)",
+    "image_name": "252.png",
+    "answer": 0.22217178344726562
+  },
+  {
+    "question_id": 253,
+    "prompt": "An image of brownie (Square or bar of very rich chocolate cake usually with nuts)(food)",
+    "image_name": "253.png",
+    "answer": 0.23163044452667236
+  },
+  {
+    "question_id": 254,
+    "prompt": "An image of buffalo wing (Crisp spicy chicken wings)",
+    "image_name": "254.png",
+    "answer": 0.22490957379341125
+  },
+  {
+    "question_id": 255,
+    "prompt": "An image of butter chicken (Butter chicken, traditionally known as murgh makhani, is an Indian dish originating in Delhi.)",
+    "image_name": "255.png",
+    "answer": 0.23301148414611816
+  },
+  {
+    "question_id": 256,
+    "prompt": "An image of caff\u00e8 mocha (A caff\u00e8 mocha, also called mocaccino, is a chocolate-flavoured warm beverage that is a variant of a caff\u00e8 latte, commonly served in a glass rather than a mug.)",
+    "image_name": "256.png",
+    "answer": 0.21875636279582977
+  },
+  {
+    "question_id": 257,
+    "prompt": "An image of carbonara (Sauce for pasta; contains eggs and bacon or ham and grated cheese)",
+    "image_name": "257.png",
+    "answer": 0.2268155813217163
+  },
+  {
+    "question_id": 258,
+    "prompt": "An image of char kway teow (Char kway teow is a stir-fried rice noodle dish from Maritime Southeast Asia of southern Chinese origin.)",
+    "image_name": "258.png",
+    "answer": 0.20954842865467072
+  },
+  {
+    "question_id": 259,
+    "prompt": "An image of chicken-fried steak (Chicken-fried steak, also known as country-fried steak, is an American breaded cutlet dish consisting of a piece of beefsteak coated with seasoned flour and either deep-fried or pan-fried.)",
+    "image_name": "259.png",
+    "answer": 0.21271300315856934
+  },
+  {
+    "question_id": 260,
+    "prompt": "An image of chicken tikka masala (Chicken tikka masala is a dish consisting of roasted marinated chicken chunks in a spiced sauce.)",
+    "image_name": "260.png",
+    "answer": 0.22706222534179688
+  },
+  {
+    "question_id": 261,
+    "prompt": "An image of chocolate chip cookie (Cookies containing chocolate chips)",
+    "image_name": "261.png",
+    "answer": 0.21977925300598145
+  },
+  {
+    "question_id": 262,
+    "prompt": "An image of chocolate pudding (Sweet chocolate flavored custard-like pudding usually thickened with flour rather than eggs)",
+    "image_name": "262.png",
+    "answer": 0.1995866596698761
+  },
+  {
+    "question_id": 263,
+    "prompt": "An image of hot cocoa (A beverage made from cocoa powder and milk and sugar; usually drunk hot)(food)",
+    "image_name": "263.png",
+    "answer": 0.2248212993144989
+  },
+  {
+    "question_id": 264,
+    "prompt": "An image of coq au vin (Chicken and onions and mushrooms braised in red wine and seasonings)",
+    "image_name": "264.png",
+    "answer": 0.22264604270458221
+  },
+  {
+    "question_id": 265,
+    "prompt": "An image of cottage pie (A dish of minced meat topped with mashed potatoes)",
+    "image_name": "265.png",
+    "answer": 0.21841181814670563
+  },
+  {
+    "question_id": 266,
+    "prompt": "An image of cotton candy (A candy made by spinning sugar that has been boiled to a high temperature)(food)",
+    "image_name": "266.png",
+    "answer": 0.2203446924686432
+  },
+  {
+    "question_id": 267,
+    "prompt": "An image of dark bread (Bread made with whole wheat flour)",
+    "image_name": "267.png",
+    "answer": 0.21554407477378845
+  },
+  {
+    "question_id": 268,
+    "prompt": "An image of doner kebab (Doner kebab, also spelled as d\u00f6ner kebab, is a dish of Turkish origin made of meat cooked on a vertical rotisserie.)",
+    "image_name": "268.png",
+    "answer": 0.22378548979759216
+  },
+  {
+    "question_id": 269,
+    "prompt": "An image of duck confit (Duck confit)",
+    "image_name": "269.png",
+    "answer": 0.21327391266822815
+  },
+  {
+    "question_id": 270,
+    "prompt": "An image of egg roll (Minced vegetables and meat wrapped in a pancake and fried)",
+    "image_name": "270.png",
+    "answer": 0.22880962491035461
+  },
+  {
+    "question_id": 271,
+    "prompt": "An image of eggs Benedict (Toasted English muffin topped with ham and a poached egg (or an oyster) and hollandaise sauce)",
+    "image_name": "271.png",
+    "answer": 0.23771320283412933
+  },
+  {
+    "question_id": 272,
+    "prompt": "An image of fat rascal (A fat rascal, closely related to the historical turf cake, is a type of cake, similar to a scone or rock cake in both taste and ingredients.)",
+    "image_name": "272.png",
+    "answer": 0.21543827652931213
+  },
+  {
+    "question_id": 273,
+    "prompt": "An image of fettuccine Alfredo (Fettuccine in cream sauce with cheese)",
+    "image_name": "273.png",
+    "answer": 0.22691532969474792
+  },
+  {
+    "question_id": 274,
+    "prompt": "An image of fish and chips (Fried fish and french-fried potatoes)",
+    "image_name": "274.png",
+    "answer": 0.2268904149532318
+  },
+  {
+    "question_id": 275,
+    "prompt": "An image of garlic bread (French or Italian bread sliced and spread with garlic butter then crisped in the oven)",
+    "image_name": "275.png",
+    "answer": 0.2238030880689621
+  },
+  {
+    "question_id": 276,
+    "prompt": "An image of gazpacho (A soup made with chopped tomatoes and onions and cucumbers and peppers and herbs; served cold)",
+    "image_name": "276.png",
+    "answer": 0.20575308799743652
+  },
+  {
+    "question_id": 277,
+    "prompt": "An image of gibanica (Gibanica is a traditional pastry dish popular all over the Balkans.)",
+    "image_name": "277.png",
+    "answer": 0.20490172505378723
+  },
+  {
+    "question_id": 278,
+    "prompt": "An image of grilled cheese (The grilled cheese is a hot cheese sandwich typically prepared by heating slices of cheese between slices of bread with a cooking fat such as butter or mayonnaise on a frying pan, griddle, or sandwich toaster, until the bread browns and the cheese melts.)",
+    "image_name": "278.png",
+    "answer": 0.24008072912693024
+  },
+  {
+    "question_id": 279,
+    "prompt": "An image of ham sandwich (A sandwich made with a filling of sliced ham)",
+    "image_name": "279.png",
+    "answer": 0.23105542361736298
+  },
+  {
+    "question_id": 280,
+    "prompt": "An image of hornazo (Hornazo is a Spanish meat pie eaten in the provinces of Salamanca and \u00c1vila.)",
+    "image_name": "280.png",
+    "answer": 0.19477947056293488
+  },
+  {
+    "question_id": 281,
+    "prompt": "An image of kimchi (Kimchi)",
+    "image_name": "281.png",
+    "answer": 0.21544870734214783
+  },
+  {
+    "question_id": 282,
+    "prompt": "An image of lobster sauce (Lobster sauce is a type of sauce used in American-Chinese and Canadian-Chinese cuisine.)",
+    "image_name": "282.png",
+    "answer": 0.2138933539390564
+  },
+  {
+    "question_id": 283,
+    "prompt": "An image of mashed potato (Potato that has been peeled and boiled and then mashed)",
+    "image_name": "283.png",
+    "answer": 0.21478578448295593
+  },
+  {
+    "question_id": 284,
+    "prompt": "An image of matcha (Matcha is finely ground powder of specially grown and processed green tea leaves originating in China traditionally consumed in East Asia.)",
+    "image_name": "284.png",
+    "answer": 0.22075460851192474
+  },
+  {
+    "question_id": 285,
+    "prompt": "An image of miso soup (Miso soup is a traditional Japanese soup consisting of a dashi stock into which softened miso paste is mixed.)",
+    "image_name": "285.png",
+    "answer": 0.21126744151115417
+  },
+  {
+    "question_id": 286,
+    "prompt": "An image of osso buco (Sliced veal knuckle or shin bone cooked with olive oil and wine and tomatoes and served with rice or vegetables)",
+    "image_name": "286.png",
+    "answer": 0.21968279778957367
+  },
+  {
+    "question_id": 287,
+    "prompt": "An image of pad thai (Pad thai, phat thai, or phad thai, is a stir-fried rice noodle dish commonly served as a street food in Thailand as part of the country's cuisine.)",
+    "image_name": "287.png",
+    "answer": 0.21639278531074524
+  },
+  {
+    "question_id": 288,
+    "prompt": "An image of pain au chocolat (Pain au chocolat, also known as chocolatine in the south-west part of France and in Canada, or couque au chocolat in Belgium, is a type of Viennoiserie pastry consisting of a cuboid-shaped piece of yeast-leavened laminated dough, similar in texture to a puff pastry, with one or two pieces of dark chocolate in the center.)",
+    "image_name": "288.png",
+    "answer": 0.2034277468919754
+  },
+  {
+    "question_id": 289,
+    "prompt": "An image of parkin (cake) (Parkin is a gingerbread cake traditionally made with oatmeal and black treacle, which originated in northern England.)",
+    "image_name": "289.png",
+    "answer": 0.2170601785182953
+  },
+  {
+    "question_id": 290,
+    "prompt": "An image of peanut butter and jelly sandwich (A peanut butter and jelly sandwich consists of peanut butter and fruit preserves\u2014jelly\u2014spread on bread.)",
+    "image_name": "290.png",
+    "answer": 0.23585744202136993
+  },
+  {
+    "question_id": 291,
+    "prompt": "An image of petite marmite (Soup made with a variety of vegetables)",
+    "image_name": "291.png",
+    "answer": 0.2130853235721588
+  },
+  {
+    "question_id": 292,
+    "prompt": "An image of pisco sour (A pisco sour is an alcoholic cocktail of Peruvian origin that is traditional to Peruvian cuisine and Chilean cuisine.)",
+    "image_name": "292.png",
+    "answer": 0.21958601474761963
+  },
+  {
+    "question_id": 293,
+    "prompt": "An image of pork pie (Small pie filled with minced seasoned pork)",
+    "image_name": "293.png",
+    "answer": 0.2160581648349762
+  },
+  {
+    "question_id": 294,
+    "prompt": "An image of pumpkin pie (Pie made of mashed pumpkin and milk and eggs and sugar)",
+    "image_name": "294.png",
+    "answer": 0.22234413027763367
+  },
+  {
+    "question_id": 295,
+    "prompt": "An image of red yeast rice (Red yeast rice, red rice koji, red fermented rice, red kojic rice, red koji rice, anka, or angkak, is a bright reddish purple fermented rice, which acquires its color from being cultivated with the mold Monascus purpureus.)",
+    "image_name": "295.png",
+    "answer": 0.20228974521160126
+  },
+  {
+    "question_id": 296,
+    "prompt": "An image of salad nicoise (Typically containing tomatoes and anchovies and garnished with black olives and capers)",
+    "image_name": "296.png",
+    "answer": 0.21506130695343018
+  },
+  {
+    "question_id": 297,
+    "prompt": "An image of scampi (Scampi, also called Norway lobster or \"Sausage of the sea\", Norwegian lobster, langoustine or Dublin Bay prawn, is an edible lobster of the order Decapoda.)",
+    "image_name": "297.png",
+    "answer": 0.21505510807037354
+  },
+  {
+    "question_id": 298,
+    "prompt": "An image of skim milk (Milk from which the cream has been skimmed)",
+    "image_name": "298.png",
+    "answer": 0.22047674655914307
+  },
+  {
+    "question_id": 299,
+    "prompt": "An image of snake wine (Snake wine is an alcoholic beverage produced by infusing whole snakes in rice wine or grain alcohol.)",
+    "image_name": "299.png",
+    "answer": 0.23698033392429352
+  },
+  {
+    "question_id": 300,
+    "prompt": "An image of stargazy pie (Stargazy pie is a Cornish dish made of baked pilchards, along with eggs and potatoes, covered with a pastry crust.)",
+    "image_name": "300.png",
+    "answer": 0.2127114236354828
+  },
+  {
+    "question_id": 301,
+    "prompt": "An image of steak frites (Steak frites, meaning \"steak [and] fries\" in French, is a dish consisting of steak paired with French fries.)",
+    "image_name": "301.png",
+    "answer": 0.23397666215896606
+  },
+  {
+    "question_id": 302,
+    "prompt": "An image of steak tartare (Ground beef mixed with raw egg and e.g. onions and capers and anchovies; eaten raw)",
+    "image_name": "302.png",
+    "answer": 0.2314838320016861
+  },
+  {
+    "question_id": 303,
+    "prompt": "An image of strained yogurt (Strained yogurt, Greek yogurt, yogurt cheese, sack yogurt, or kerned yogurt, or Turkish yogurt is yogurt that has been strained to remove most of its whey, resulting in a thicker consistency than normal unstrained yogurt, while still preserving the distinctive sour taste of yogurt.)",
+    "image_name": "303.png",
+    "answer": 0.21398375928401947
+  },
+  {
+    "question_id": 304,
+    "prompt": "An image of tomato soup (Tomato soup is a soup with tomatoes as the primary ingredient.)",
+    "image_name": "304.png",
+    "answer": 0.22317153215408325
+  },
+  {
+    "question_id": 305,
+    "prompt": "An image of tuna fish sandwich (A tuna fish sandwich, known outside the United States as a tuna salad sandwich or a tuna sandwich, is a sandwich made from canned tuna\u2014usually made into a tuna salad by adding mayonnaise, and sometimes other ingredients such as celery or onion\u2014as well as other common fruits and vegetables used to flavor sandwiches.)",
+    "image_name": "305.png",
+    "answer": 0.23109334707260132
+  },
+  {
+    "question_id": 306,
+    "prompt": "An image of Berg\u00e8re hat (A berg\u00e8re hat is a flat-brimmed straw hat with a shallow crown, usually trimmed with ribbon and flowers.)",
+    "image_name": "306.png",
+    "answer": 0.2203393280506134
+  },
+  {
+    "question_id": 307,
+    "prompt": "An image of Cordovan hat (The Cordovan hat is a traditional hat made in the city of C\u00f3rdoba, Spain and traditionally worn in a large part of Andalusia.)",
+    "image_name": "307.png",
+    "answer": 0.21774667501449585
+  },
+  {
+    "question_id": 308,
+    "prompt": "An image of briefcase (A case with a handle; for carrying papers or files or books)",
+    "image_name": "308.png",
+    "answer": 0.22829745709896088
+  },
+  {
+    "question_id": 309,
+    "prompt": "An image of cowboy hat (A hat with a wide brim and a soft crown; worn by American ranch hands)",
+    "image_name": "309.png",
+    "answer": 0.22317910194396973
+  },
+  {
+    "question_id": 310,
+    "prompt": "An image of dress hat (A man's hat with a tall crown; usually covered with silk or with beaver fur)",
+    "image_name": "310.png",
+    "answer": 0.21319004893302917
+  },
+  {
+    "question_id": 311,
+    "prompt": "An image of hard hat (A lightweight protective helmet (plastic or metal) worn by construction workers)",
+    "image_name": "311.png",
+    "answer": 0.23027253150939941
+  },
+  {
+    "question_id": 312,
+    "prompt": "An image of pith hat (A lightweight hat worn in tropical countries for protection from the sun)",
+    "image_name": "312.png",
+    "answer": 0.22554194927215576
+  },
+  {
+    "question_id": 313,
+    "prompt": "An image of tricorn (Cocked hat with the brim turned up to form three points)",
+    "image_name": "313.png",
+    "answer": 0.2072182446718216
+  },
+  {
+    "question_id": 314,
+    "prompt": "An image of Abusir (Abusir is the name given to an ancient Egyptian archaeological pyramid complex comprising the ruins of 4 kings' pyramids dating to the Old Kingdom period, and is part of the Pyramid Fields of the Memphis and its Necropolis UNESCO World Heritage Site.)",
+    "image_name": "314.png",
+    "answer": 0.217243492603302
+  },
+  {
+    "question_id": 315,
+    "prompt": "An image of Berlin Hauptbahnhof (Berlin Hauptbahnhof is the main railway station in Berlin, Germany.)",
+    "image_name": "315.png",
+    "answer": 0.21249867975711823
+  },
+  {
+    "question_id": 316,
+    "prompt": "An image of Buckingham Palace (The London residence of the British sovereign)",
+    "image_name": "316.png",
+    "answer": 0.22659948468208313
+  },
+  {
+    "question_id": 317,
+    "prompt": "An image of Jay Pritzker Pavilion (Jay Pritzker Pavilion, also known as Pritzker Pavilion or Pritzker Music Pavilion, is a bandshell in Millennium Park in the Loop community area of Chicago in Cook County, Illinois, United States.)",
+    "image_name": "317.png",
+    "answer": 0.21150091290473938
+  },
+  {
+    "question_id": 318,
+    "prompt": "An image of Kino Babylon (The Kino Babylon is a cinema in the Mitte neighbourhood of Berlin and part of a listed building complex at Rosa-Luxemburg-Platz opposite the Volksb\u00fchne theatre.)",
+    "image_name": "318.png",
+    "answer": 0.21254533529281616
+  },
+  {
+    "question_id": 319,
+    "prompt": "An image of La Scala (La Scala is an opera house in Milan, Italy.)",
+    "image_name": "319.png",
+    "answer": 0.21604691445827484
+  },
+  {
+    "question_id": 320,
+    "prompt": "An image of Machu Picchu (Inca fortress city in the Andes in Peru discovered in 1911; it may have been built in the 15th century)",
+    "image_name": "320.png",
+    "answer": 0.22413472831249237
+  },
+  {
+    "question_id": 321,
+    "prompt": "An image of Mausoleum of Augustus (The Mausoleum of Augustus is a large tomb built by the Roman Emperor Augustus in 28 BC on the Campus Martius in Rome, Italy.)",
+    "image_name": "321.png",
+    "answer": 0.21531225740909576
+  },
+  {
+    "question_id": 322,
+    "prompt": "An image of Museum Island (The Museum Island is a museum complex on the northern part of the Spree Island in the historic heart of Berlin, Germany.)",
+    "image_name": "322.png",
+    "answer": 0.21584689617156982
+  },
+  {
+    "question_id": 323,
+    "prompt": "An image of Panama Canal (A ship canal 40 miles long across the Isthmus of Panama built by the United States (1904-1914))",
+    "image_name": "323.png",
+    "answer": 0.22316786646842957
+  },
+  {
+    "question_id": 324,
+    "prompt": "An image of Pergamum (An ancient Greek city located in the western part of what is now modern Turkey; the technique of preparing sheepskins as parchment was developed here)",
+    "image_name": "324.png",
+    "answer": 0.22204193472862244
+  },
+  {
+    "question_id": 325,
+    "prompt": "An image of Pompeii (Ancient city to the southeast of Naples that was buried by a volcanic eruption from Vesuvius)(landmark)",
+    "image_name": "325.png",
+    "answer": 0.22749164700508118
+  },
+  {
+    "question_id": 326,
+    "prompt": "An image of Skopje Aqueduct (The Skopje Aqueduct is an aqueduct and archaeological site located in the neighbourhood of Vizbegovo 2 km northwest of central Skopje, North Macedonia.)",
+    "image_name": "326.png",
+    "answer": 0.2214471399784088
+  },
+  {
+    "question_id": 327,
+    "prompt": "An image of Wembley Arena (Wembley Arena is an indoor arena next to Wembley Stadium in Wembley, London, England.)",
+    "image_name": "327.png",
+    "answer": 0.2208479344844818
+  },
+  {
+    "question_id": 328,
+    "prompt": "An image of Wembley Stadium (Wembley Stadium is a football stadium in Wembley, London.)",
+    "image_name": "328.png",
+    "answer": 0.21731308102607727
+  },
+  {
+    "question_id": 329,
+    "prompt": "An image of Stroh violin (The Stroh violin or Stroviol is a type of stringed musical instrument that is mechanically amplified by a metal resonator and horn attached to its body.)",
+    "image_name": "329.png",
+    "answer": 0.21918199956417084
+  },
+  {
+    "question_id": 330,
+    "prompt": "An image of chocalho (Chocalho is the generic name for \"shaker\" in Portuguese.)",
+    "image_name": "330.png",
+    "answer": 0.20446041226387024
+  },
+  {
+    "question_id": 331,
+    "prompt": "An image of cowbell (instrument) (The cowbell is an idiophone hand percussion instrument used in various styles of music, such as Latin and rock.)",
+    "image_name": "331.png",
+    "answer": 0.22577202320098877
+  },
+  {
+    "question_id": 332,
+    "prompt": "An image of electronic drum (A set of electronic drums which are electrical devices struck by a drummer, played in real time (using either hands, sticks, brushes or other implements) to produce a selection of sounds, instruments and effects, from either samples or modeled sounds contained in a processor or drum module.)",
+    "image_name": "332.png",
+    "answer": 0.22492319345474243
+  },
+  {
+    "question_id": 333,
+    "prompt": "An image of euphonium (A bass horn (brass wind instrument) that is the tenor of the tuba family)",
+    "image_name": "333.png",
+    "answer": 0.23045164346694946
+  },
+  {
+    "question_id": 334,
+    "prompt": "An image of fortepiano (A fortepiano [\u02ccf\u0254rte\u02c8pja\u02d0no], sometimes referred to as a pianoforte, is an early piano.)",
+    "image_name": "334.png",
+    "answer": 0.23441794514656067
+  },
+  {
+    "question_id": 335,
+    "prompt": "An image of heckelphone (An oboe pitched an octave below the ordinary oboe)",
+    "image_name": "335.png",
+    "answer": 0.22104410827159882
+  },
+  {
+    "question_id": 336,
+    "prompt": "An image of kazoo (A toy wind instrument that has a membrane that makes a sound when you hum into the mouthpiece)",
+    "image_name": "336.png",
+    "answer": 0.2030400037765503
+  },
+  {
+    "question_id": 337,
+    "prompt": "An image of maraca (A percussion instrument consisting of a hollow gourd containing pebbles or beans; often played in pairs)",
+    "image_name": "337.png",
+    "answer": 0.21725840866565704
+  },
+  {
+    "question_id": 338,
+    "prompt": "An image of mar\u00edmbula (The mar\u00edmbula is a plucked box musical instrument of the Caribbean.)",
+    "image_name": "338.png",
+    "answer": 0.2125549465417862
+  },
+  {
+    "question_id": 339,
+    "prompt": "An image of pennywhistle (An inexpensive fipple flute)",
+    "image_name": "339.png",
+    "answer": 0.21969962120056152
+  },
+  {
+    "question_id": 340,
+    "prompt": "An image of qanun (instrument) (The qanun, kanun, ganoun or kanoon is an Arabic string instrument played either solo, or more often as part of an ensemble, in much of the Arab East, and Arab Maghreb region aka North Africa, later it reached West Africa, Central Asia due to Arab migration.)",
+    "image_name": "340.png",
+    "answer": 0.2168881893157959
+  },
+  {
+    "question_id": 341,
+    "prompt": "An image of sackbut (A medieval musical instrument resembling a trombone)",
+    "image_name": "341.png",
+    "answer": 0.2121918499469757
+  },
+  {
+    "question_id": 342,
+    "prompt": "An image of steel drum (A concave percussion instrument made from the metal top of an oil drum; has an array of flattened areas that produce different tones when struck (of Caribbean origin))",
+    "image_name": "342.png",
+    "answer": 0.22336554527282715
+  },
+  {
+    "question_id": 343,
+    "prompt": "An image of tabla tarang (The tabla tarang is a melodic percussion instrument consisting of between ten and sixteen tuned dayan drums.)",
+    "image_name": "343.png",
+    "answer": 0.2264314591884613
+  },
+  {
+    "question_id": 344,
+    "prompt": "An image of viola caipira (The viola caipira, often simply viola or brazilian viola, is a Brazilian ten-string guitar with five courses of strings arranged in pairs.)",
+    "image_name": "344.png",
+    "answer": 0.21693390607833862
+  },
+  {
+    "question_id": 345,
+    "prompt": "An image of Baikal (The largest freshwater lake in Asia or Europe and the deepest lake in the world)(natural_landform)",
+    "image_name": "345.png",
+    "answer": 0.21031369268894196
+  },
+  {
+    "question_id": 346,
+    "prompt": "An image of Baltic (A sea in northern Europe; stronghold of the Russian navy)(natural_landform)",
+    "image_name": "346.png",
+    "answer": 0.21334192156791687
+  },
+  {
+    "question_id": 347,
+    "prompt": "An image of Bay of Biscay (An arm of the Atlantic Ocean in western Europe; bordered by the west coast of France and the north coast of Spain)",
+    "image_name": "347.png",
+    "answer": 0.21127718687057495
+  },
+  {
+    "question_id": 348,
+    "prompt": "An image of Bosporus (A strait connecting the Mediterranean and the Black Sea; separates the European and Asian parts of Turkey; an important shipping route)",
+    "image_name": "348.png",
+    "answer": 0.226791650056839
+  },
+  {
+    "question_id": 349,
+    "prompt": "An image of Cape Arkona (Cape Arkona is a 45-metre high cape on the island of R\u00fcgen in Mecklenburg-Vorpommern, Germany.)",
+    "image_name": "349.png",
+    "answer": 0.1930658519268036
+  },
+  {
+    "question_id": 350,
+    "prompt": "An image of Cheddar Gorge (Cheddar Gorge is a limestone gorge in the Mendip Hills, near the village of Cheddar, Somerset, England.)",
+    "image_name": "350.png",
+    "answer": 0.22825105488300323
+  },
+  {
+    "question_id": 351,
+    "prompt": "An image of Euphrates (A river in southwestern Asia; flows into the Persian Gulf; was important in the development of several great civilizations in ancient Mesopotamia)",
+    "image_name": "351.png",
+    "answer": 0.20772795379161835
+  },
+  {
+    "question_id": 352,
+    "prompt": "An image of Firth of Clyde (A firth on the southwestern coast of Scotland emptying into the North Channel)",
+    "image_name": "352.png",
+    "answer": 0.21726885437965393
+  },
+  {
+    "question_id": 353,
+    "prompt": "An image of Golden Horn (The Golden Horn is a major urban waterway and the primary inlet of the Bosphorus in Istanbul, Turkey.)(natural_landform)",
+    "image_name": "353.png",
+    "answer": 0.19958345592021942
+  },
+  {
+    "question_id": 354,
+    "prompt": "An image of Great Zab (The Great Zab or Upper Zab is an approximately 400-kilometre long river flowing through Turkey and Iraq.)",
+    "image_name": "354.png",
+    "answer": 0.21965563297271729
+  },
+  {
+    "question_id": 355,
+    "prompt": "An image of Himalayas (A mountain range extending 1500 miles on the border between India and Tibet; this range contains the world's highest mountain)",
+    "image_name": "355.png",
+    "answer": 0.23187705874443054
+  },
+  {
+    "question_id": 356,
+    "prompt": "An image of Jurassic Coast (The Jurassic Coast is a World Heritage Site on the English Channel coast of southern England.)",
+    "image_name": "356.png",
+    "answer": 0.2334013283252716
+  },
+  {
+    "question_id": 357,
+    "prompt": "An image of Leyte Gulf (Leyte Gulf, also known simply as the Leyte, is a gulf in the Eastern Visayan region in the Philippines.)",
+    "image_name": "357.png",
+    "answer": 0.20411938428878784
+  },
+  {
+    "question_id": 358,
+    "prompt": "An image of Mount Ararat (Pennsylvania) (Mount Ararat is a mountain located in the Pennsylvania villages of Belmont Corners and Orson.)",
+    "image_name": "358.png",
+    "answer": 0.21654310822486877
+  },
+  {
+    "question_id": 359,
+    "prompt": "An image of Mount Hood (Mount Hood is an active stratovolcano in the Cascade Volcanic Arc.)(natural_landform)",
+    "image_name": "359.png",
+    "answer": 0.22106650471687317
+  },
+  {
+    "question_id": 360,
+    "prompt": "An image of Po Valley (The Po Valley, Po Plain, Plain of the Po, or Padan Plain is a major geographical feature of Northern Italy.)",
+    "image_name": "360.png",
+    "answer": 0.21927887201309204
+  },
+  {
+    "question_id": 361,
+    "prompt": "An image of Pyrenees (A chain of mountains between France and Spain)(natural_landform)",
+    "image_name": "361.png",
+    "answer": 0.20907652378082275
+  },
+  {
+    "question_id": 362,
+    "prompt": "An image of Sakurajima (Sakurajima is an active stratovolcano, formerly an island and now a peninsula, in Kagoshima Prefecture in Kyushu, Japan.)",
+    "image_name": "362.png",
+    "answer": 0.20572805404663086
+  },
+  {
+    "question_id": 363,
+    "prompt": "An image of Shenandoah Valley (A large valley between the Allegheny Mountains and the Blue Ridge Mountains in northern Virginia; site of numerous battles during the American Civil War)",
+    "image_name": "363.png",
+    "answer": 0.20885257422924042
+  },
+  {
+    "question_id": 364,
+    "prompt": "An image of Tigris (An Asian river; a tributary of the Euphrates River)(natural_landform)",
+    "image_name": "364.png",
+    "answer": 0.2167404592037201
+  },
+  {
+    "question_id": 365,
+    "prompt": "An image of Trans-Mexican Volcanic Belt (The Trans-Mexican Volcanic Belt, also known as the Transvolcanic Belt and locally as the Sierra Nevada, is an active volcanic belt that covers central-southern Mexico.)",
+    "image_name": "365.png",
+    "answer": 0.2103446125984192
+  },
+  {
+    "question_id": 366,
+    "prompt": "An image of Urals (A mountain range in western Russia extending from the Arctic to the Caspian Sea; forms part of the traditional boundary between Europe and Asia)",
+    "image_name": "366.png",
+    "answer": 0.20801962912082672
+  },
+  {
+    "question_id": 367,
+    "prompt": "An image of 9K720 Iskander (The 9K720 Iskander is a mobile short-range ballistic missile system produced and deployed by the Russian military.)",
+    "image_name": "367.png",
+    "answer": 0.2218044102191925
+  },
+  {
+    "question_id": 368,
+    "prompt": "An image of DNA sequencer (A DNA sequencer is a scientific instrument used to automate the DNA sequencing process.)",
+    "image_name": "368.png",
+    "answer": 0.2070634663105011
+  },
+  {
+    "question_id": 369,
+    "prompt": "An image of Lorry, Frederiksberg (Lorry is a former entertainment venue in the Frederiksberg district of Copenhagen, Denmark.)",
+    "image_name": "369.png",
+    "answer": 0.22159844636917114
+  },
+  {
+    "question_id": 370,
+    "prompt": "An image of Spring (building) (Spring is a 43-story, 132 m tall condominium in Austin, Texas.)",
+    "image_name": "370.png",
+    "answer": 0.21468959748744965
+  },
+  {
+    "question_id": 371,
+    "prompt": "An image of backsaw (A handsaw that is stiffened by metal reinforcement along the upper edge)",
+    "image_name": "371.png",
+    "answer": 0.2262435257434845
+  },
+  {
+    "question_id": 372,
+    "prompt": "An image of disco ball (A disco ball is a roughly spherical object that reflects light directed at it in many directions, producing a complex display.)",
+    "image_name": "372.png",
+    "answer": 0.2218519002199173
+  },
+  {
+    "question_id": 373,
+    "prompt": "An image of lifting hook (A lifting hook is a device for grabbing and lifting loads by means of a device such as a hoist or crane.)",
+    "image_name": "373.png",
+    "answer": 0.23741382360458374
+  },
+  {
+    "question_id": 374,
+    "prompt": "An image of obstetrical forceps (Obstetrical forceps are a medical instrument used in childbirth.)",
+    "image_name": "374.png",
+    "answer": 0.23243358731269836
+  },
+  {
+    "question_id": 375,
+    "prompt": "An image of safety razor (A razor with a guard to prevent deep cuts in the skin)",
+    "image_name": "375.png",
+    "answer": 0.23417824506759644
+  },
+  {
+    "question_id": 376,
+    "prompt": "An image of sanitary napkin (A disposable absorbent pad (trade name Kotex); worn to absorb menstrual flow)",
+    "image_name": "376.png",
+    "answer": 0.21692313253879547
+  },
+  {
+    "question_id": 377,
+    "prompt": "An image of slotted spoon (A slotted spoon is a spoon implement used in food preparation.)",
+    "image_name": "377.png",
+    "answer": 0.23907765746116638
+  },
+  {
+    "question_id": 378,
+    "prompt": "An image of tachometer (Measuring instrument for indicating speed of rotation)",
+    "image_name": "378.png",
+    "answer": 0.21323800086975098
+  },
+  {
+    "question_id": 379,
+    "prompt": "An image of theremin (An electronic musical instrument; melodies can be played by moving the right hand between two rods that serve as antennas to control pitch; the left hand controls phrasing)",
+    "image_name": "379.png",
+    "answer": 0.22164568305015564
+  },
+  {
+    "question_id": 380,
+    "prompt": "An image of trencher (machine) (A trencher is a piece of construction equipment used to dig trenches, especially for laying pipes or electrical cables, for installing drainage, or in preparation for trench warfare.)",
+    "image_name": "380.png",
+    "answer": 0.23293228447437286
+  },
+  {
+    "question_id": 381,
+    "prompt": "An image of woodchipper (A tree chipper or woodchipper is a machine used for reducing wood into smaller woodchips.)",
+    "image_name": "381.png",
+    "answer": 0.23604805767536163
+  },
+  {
+    "question_id": 382,
+    "prompt": "An image of Abbas Kiarostami (Abbas Kiarostami was an Iranian film director, screenwriter, poet, photographer, and film producer.)(person)",
+    "image_name": "382.png",
+    "answer": 0.20662635564804077
+  },
+  {
+    "question_id": 383,
+    "prompt": "An image of Al Pacino (Alfredo James Pacino is an American actor.)(person)",
+    "image_name": "383.png",
+    "answer": 0.21212580800056458
+  },
+  {
+    "question_id": 384,
+    "prompt": "An image of Angela Merkel (Angela Dorothea Merkel is a German former politician and scientist who served as chancellor of Germany from 2005 to 2021.)(person)",
+    "image_name": "384.png",
+    "answer": 0.22566772997379303
+  },
+  {
+    "question_id": 385,
+    "prompt": "An image of Aretha Franklin (Aretha Louise Franklin was an American singer, songwriter and pianist.)(person)",
+    "image_name": "385.png",
+    "answer": 0.2219458967447281
+  },
+  {
+    "question_id": 386,
+    "prompt": "An image of Arnold Schwarzenegger (Arnold Alois Schwarzenegger is an Austrian and American actor, businessman, filmmaker, former politician, and former professional bodybuilder best known for his roles in high-profile action movies.)(person)",
+    "image_name": "386.png",
+    "answer": 0.21850717067718506
+  },
+  {
+    "question_id": 387,
+    "prompt": "An image of Audrey Hepburn (Audrey Kathleen Hepburn was a British actress.)(person)",
+    "image_name": "387.png",
+    "answer": 0.23099136352539062
+  },
+  {
+    "question_id": 388,
+    "prompt": "An image of Benazir Bhutto (Benazir Bhutto was a Pakistani politician and stateswoman who served as the 11th and 13th prime minister of Pakistan from 1988 to 1990 and again from 1993 to 1996.)(person)",
+    "image_name": "388.png",
+    "answer": 0.2263432741165161
+  },
+  {
+    "question_id": 389,
+    "prompt": "An image of Leonard Bernstein (United States conductor and composer (1918-1990))(person)",
+    "image_name": "389.png",
+    "answer": 0.20508867502212524
+  },
+  {
+    "question_id": 390,
+    "prompt": "An image of Bohr (Danish physicist who studied atomic structure and radiations; the Bohr theory of the atom accounted for the spectrum of hydrogen (1885-1962))(person)",
+    "image_name": "390.png",
+    "answer": 0.21474123001098633
+  },
+  {
+    "question_id": 391,
+    "prompt": "An image of Brad Pitt (William Bradley Pitt is an American actor and film producer.)(person)",
+    "image_name": "391.png",
+    "answer": 0.2223002016544342
+  },
+  {
+    "question_id": 392,
+    "prompt": "An image of Brezhnev (Soviet statesman who became president of the Soviet Union (1906-1982))(person)",
+    "image_name": "392.png",
+    "answer": 0.219635009765625
+  },
+  {
+    "question_id": 393,
+    "prompt": "An image of Brian Eno (Brian Peter George St John le Baptiste de la Salle Eno, also known by the mononym Eno, is an English musician, composer, record producer and visual artist.)(person)",
+    "image_name": "393.png",
+    "answer": 0.20924240350723267
+  },
+  {
+    "question_id": 394,
+    "prompt": "An image of Bryan Singer (Bryan Jay Singer is an American filmmaker.)(person)",
+    "image_name": "394.png",
+    "answer": 0.19649501144886017
+  },
+  {
+    "question_id": 395,
+    "prompt": "An image of Carole Lombard (Carole Lombard was an American actress.)(person)",
+    "image_name": "395.png",
+    "answer": 0.22613251209259033
+  },
+  {
+    "question_id": 396,
+    "prompt": "An image of Jimmy Carter (39th President of the United States (1924-))(person)",
+    "image_name": "396.png",
+    "answer": 0.2128552496433258
+  },
+  {
+    "question_id": 397,
+    "prompt": "An image of Clemens (United States writer and humorist best known for his novels about Tom Sawyer and Huckleberry Finn (1835-1910))(person)",
+    "image_name": "397.png",
+    "answer": 0.2058894783258438
+  },
+  {
+    "question_id": 398,
+    "prompt": "An image of Clint Eastwood (Clinton Eastwood Jr. is an American actor, film director, composer, and producer.)(person)",
+    "image_name": "398.png",
+    "answer": 0.2134382575750351
+  },
+  {
+    "question_id": 399,
+    "prompt": "An image of Hilary Clinton (Wife of President Clinton and later a woman member of the United States Senate (1947-))(person)",
+    "image_name": "399.png",
+    "answer": 0.222227543592453
+  },
+  {
+    "question_id": 400,
+    "prompt": "An image of Cocteau (French writer and film maker who worked in many artistic media (1889-1963))(person)",
+    "image_name": "400.png",
+    "answer": 0.201093852519989
+  },
+  {
+    "question_id": 401,
+    "prompt": "An image of Cristiano Ronaldo (Cristiano Ronaldo dos Santos Aveiro is a Portuguese professional footballer who plays as a forward for and captains both Saudi Pro League club Al Nassr and the Portugal national team.)(person)",
+    "image_name": "401.png",
+    "answer": 0.22546076774597168
+  },
+  {
+    "question_id": 402,
+    "prompt": "An image of Darwin (English natural scientist who formulated a theory of evolution by natural selection (1809-1882))(person)",
+    "image_name": "402.png",
+    "answer": 0.21891187131404877
+  },
+  {
+    "question_id": 403,
+    "prompt": "An image of Deke Slayton (Donald Kent \"Deke\" Slayton was a United States Air Force pilot, aeronautical engineer, and test pilot who was selected as one of the original NASA Mercury Seven astronauts.)(person)",
+    "image_name": "403.png",
+    "answer": 0.20007576048374176
+  },
+  {
+    "question_id": 404,
+    "prompt": "An image of Diane Keaton (Diane Keaton is an American actress.)(person)",
+    "image_name": "404.png",
+    "answer": 0.2224908173084259
+  },
+  {
+    "question_id": 405,
+    "prompt": "An image of Don Rosa (Keno Don Hugo Rosa, known as Don Rosa, is an American comic book writer and illustrator known for his Disney comics stories about Scrooge McDuck, Donald Duck, and other characters which Carl Barks created for Disney-licensed comic books, first published in America by Dell Comics.)(person)",
+    "image_name": "405.png",
+    "answer": 0.20563861727714539
+  },
+  {
+    "question_id": 406,
+    "prompt": "An image of Donald Trump (Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.)(person)",
+    "image_name": "406.png",
+    "answer": 0.22867512702941895
+  },
+  {
+    "question_id": 407,
+    "prompt": "An image of Duchamp (French artist who immigrated to the United States; a leader in the dada movement in New York City; was first to exhibit commonplace objects as art (1887-1968))(person)",
+    "image_name": "407.png",
+    "answer": 0.19987699389457703
+  },
+  {
+    "question_id": 408,
+    "prompt": "An image of Earhart (First woman aviator to fly solo nonstop across the Atlantic (1928); while attempting to fly around the world she disappeared over the Pacific (1898-1937))(person)",
+    "image_name": "408.png",
+    "answer": 0.19208037853240967
+  },
+  {
+    "question_id": 409,
+    "prompt": "An image of Edison (United States inventor; inventions included the phonograph and incandescent electric light and the microphone and the Kinetoscope (1847-1931))(person)",
+    "image_name": "409.png",
+    "answer": 0.21480008959770203
+  },
+  {
+    "question_id": 410,
+    "prompt": "An image of Einstein (Physicist born in Germany who formulated the special theory of relativity and the general theory of relativity; Einstein also proposed that light consists of discrete quantized bundles of energy (later called photons) (1879-1955))(person)",
+    "image_name": "410.png",
+    "answer": 0.2033696472644806
+  },
+  {
+    "question_id": 411,
+    "prompt": "An image of Elizabeth (Daughter of George VI who became the Queen of England and Northern Ireland in 1952 on the death of her father (1926-))(person)",
+    "image_name": "411.png",
+    "answer": 0.2091854065656662
+  },
+  {
+    "question_id": 412,
+    "prompt": "An image of Ellington (United States jazz composer and piano player and bandleader (1899-1974))(person)",
+    "image_name": "412.png",
+    "answer": 0.22175976634025574
+  },
+  {
+    "question_id": 413,
+    "prompt": "An image of Elton John (Sir Elton Hercules John is a British singer, pianist and composer.)(person)",
+    "image_name": "413.png",
+    "answer": 0.22151288390159607
+  },
+  {
+    "question_id": 414,
+    "prompt": "An image of Elvis Costello (Declan Patrick MacManus, better known by his stage name Elvis Costello, is an English songwriter, singer, record producer, author, and television presenter.)(person)",
+    "image_name": "414.png",
+    "answer": 0.21098780632019043
+  },
+  {
+    "question_id": 415,
+    "prompt": "An image of Eric Clapton (Eric Patrick Clapton is an English rock and blues guitarist, singer, and songwriter.)(person)",
+    "image_name": "415.png",
+    "answer": 0.22444869577884674
+  },
+  {
+    "question_id": 416,
+    "prompt": "An image of Erika Mann (Erika Julia Hedwig Mann was a German actress and writer, daughter of the novelist Thomas Mann.)(person)",
+    "image_name": "416.png",
+    "answer": 0.20667977631092072
+  },
+  {
+    "question_id": 417,
+    "prompt": "An image of Fermi (Italian nuclear physicist (in the United States after 1939) who worked on artificial radioactivity caused by neutron bombardment and who headed the group that in 1942 produced the first controlled nuclear reaction (1901-1954))(person)",
+    "image_name": "417.png",
+    "answer": 0.18667647242546082
+  },
+  {
+    "question_id": 418,
+    "prompt": "An image of Fitzgerald (United States author whose novels characterized the Jazz Age in the United States (1896-1940))(person)",
+    "image_name": "418.png",
+    "answer": 0.21065670251846313
+  },
+  {
+    "question_id": 419,
+    "prompt": "An image of Sigmund Freud (Austrian neurologist who originated psychoanalysis (1856-1939))(person)",
+    "image_name": "419.png",
+    "answer": 0.22263701260089874
+  },
+  {
+    "question_id": 420,
+    "prompt": "An image of Gandhi (Political and spiritual leader during India's struggle with Great Britain for home rule; an advocate of passive resistance (1869-1948))(person)",
+    "image_name": "420.png",
+    "answer": 0.20859390497207642
+  },
+  {
+    "question_id": 421,
+    "prompt": "An image of Gene Siskel (Eugene Kal \"Gene\" Siskel was an American film critic and journalist for the Chicago Tribune.)(person)",
+    "image_name": "421.png",
+    "answer": 0.21750174462795258
+  },
+  {
+    "question_id": 422,
+    "prompt": "An image of Gorbachev (Soviet statesman whose foreign policy brought an end to the Cold War and whose domestic policy introduced major reforms (born in 1931))(person)",
+    "image_name": "422.png",
+    "answer": 0.21582582592964172
+  },
+  {
+    "question_id": 423,
+    "prompt": "An image of Gretzky (High-scoring Canadian ice-hockey player (born in 1961))(person)",
+    "image_name": "423.png",
+    "answer": 0.20530356466770172
+  },
+  {
+    "question_id": 424,
+    "prompt": "An image of Harrison Ford (Harrison Ford is an American actor.)(person)",
+    "image_name": "424.png",
+    "answer": 0.22801892459392548
+  },
+  {
+    "question_id": 425,
+    "prompt": "An image of Hawking (English theoretical physicist (born in 1942))(person)",
+    "image_name": "425.png",
+    "answer": 0.21636731922626495
+  },
+  {
+    "question_id": 426,
+    "prompt": "An image of Hayao Miyazaki (Hayao Miyazaki is a Japanese animator, filmmaker, and manga artist.)(person)",
+    "image_name": "426.png",
+    "answer": 0.22261808812618256
+  },
+  {
+    "question_id": 427,
+    "prompt": "An image of Himmler (German Nazi who was chief of the SS and the Gestapo and who oversaw the genocide of six million Jews (1900-1945))(person)",
+    "image_name": "427.png",
+    "answer": 0.2105315625667572
+  },
+  {
+    "question_id": 428,
+    "prompt": "An image of Hirohito (Emperor of Japan who renounced his divinity and became a constitutional monarch after Japan surrendered at the end of World War II (1901-1989))(person)",
+    "image_name": "428.png",
+    "answer": 0.21237653493881226
+  },
+  {
+    "question_id": 429,
+    "prompt": "An image of Hitchcock (English film director noted for his skill in creating suspense (1899-1980))(person)",
+    "image_name": "429.png",
+    "answer": 0.21275658905506134
+  },
+  {
+    "question_id": 430,
+    "prompt": "An image of Hoffman (Versatile United States film actor (born in 1937))(person)",
+    "image_name": "430.png",
+    "answer": 0.20172274112701416
+  },
+  {
+    "question_id": 431,
+    "prompt": "An image of Hugo (French poet and novelist and dramatist; leader of the romantic movement in France (1802-1885))(person)",
+    "image_name": "431.png",
+    "answer": 0.20392431318759918
+  },
+  {
+    "question_id": 432,
+    "prompt": "An image of Jacques Brel (Jacques Romain Georges Brel was a Belgian singer and actor who composed and performed theatrical songs.)(person)",
+    "image_name": "432.png",
+    "answer": 0.21371705830097198
+  },
+  {
+    "question_id": 433,
+    "prompt": "An image of Mick Jagger (English rock star (born in 1943))(person)",
+    "image_name": "433.png",
+    "answer": 0.21631860733032227
+  },
+  {
+    "question_id": 434,
+    "prompt": "An image of John Eliot Gardiner (Sir John Eliot Gardiner is an English conductor, particularly known for his performances of the works of Johann Sebastian Bach, especially the Bach Cantata Pilgrimage of 2000, performing Bach's church cantatas in liturgical order in churches all over Europe, and New York City, with the Monteverdi Choir, and recording them at the locations.)(person)",
+    "image_name": "434.png",
+    "answer": 0.21926727890968323
+  },
+  {
+    "question_id": 435,
+    "prompt": "An image of John Magruder (John L. Magruder was a Brigadier general in the U.S. Army.)(person)",
+    "image_name": "435.png",
+    "answer": 0.21186518669128418
+  },
+  {
+    "question_id": 436,
+    "prompt": "An image of John Malkovich (John Malkovich is an American actor.)(person)",
+    "image_name": "436.png",
+    "answer": 0.23209142684936523
+  },
+  {
+    "question_id": 437,
+    "prompt": "An image of Johnny Depp (John Christopher Depp II is an American actor and musician.)(person)",
+    "image_name": "437.png",
+    "answer": 0.22153902053833008
+  },
+  {
+    "question_id": 438,
+    "prompt": "An image of Kafka (Czech novelist who wrote in German about a nightmarish world of isolated and troubled individuals (1883-1924))(person)",
+    "image_name": "438.png",
+    "answer": 0.19893208146095276
+  },
+  {
+    "question_id": 439,
+    "prompt": "An image of Karl Liebknecht (Karl Paul August Friedrich Liebknecht was a German socialist and anti-militarist.)(person)",
+    "image_name": "439.png",
+    "answer": 0.1857302337884903
+  },
+  {
+    "question_id": 440,
+    "prompt": "An image of Kennedy (35th President of the United States; established the Peace Corps; assassinated in Dallas (1917-1963))(person)",
+    "image_name": "440.png",
+    "answer": 0.20293907821178436
+  },
+  {
+    "question_id": 441,
+    "prompt": "An image of Khrushchev (Soviet statesman and premier who denounced Stalin (1894-1971))(person)",
+    "image_name": "441.png",
+    "answer": 0.2112419605255127
+  },
+  {
+    "question_id": 442,
+    "prompt": "An image of Lance Henriksen (Lance James Henriksen is an American actor.)(person)",
+    "image_name": "442.png",
+    "answer": 0.21314020454883575
+  },
+  {
+    "question_id": 443,
+    "prompt": "An image of Vladimir Lenin (Russian founder of the Bolsheviks and leader of the Russian Revolution and first head of the USSR (1870-1924))(person)",
+    "image_name": "443.png",
+    "answer": 0.2199173867702484
+  },
+  {
+    "question_id": 444,
+    "prompt": "An image of Leonardo DiCaprio (Leonardo Wilhelm DiCaprio is an American actor and film producer.)(person)",
+    "image_name": "444.png",
+    "answer": 0.2199222296476364
+  },
+  {
+    "question_id": 445,
+    "prompt": "An image of Lionel Messi (Lionel Andr\u00e9s Messi, also known as Leo Messi, is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team.)(person)",
+    "image_name": "445.png",
+    "answer": 0.2217186838388443
+  },
+  {
+    "question_id": 446,
+    "prompt": "An image of Franz Liszt (Hungarian composer and piano virtuoso (1811-1886))(person)",
+    "image_name": "446.png",
+    "answer": 0.21223986148834229
+  },
+  {
+    "question_id": 447,
+    "prompt": "An image of George Lucas (United States screenwriter and filmmaker (born in 1944))(person)",
+    "image_name": "447.png",
+    "answer": 0.225943461060524
+  },
+  {
+    "question_id": 448,
+    "prompt": "An image of MacArthur (United States general who served as chief of staff and commanded Allied forces in the South Pacific during World War II; he accepted the surrender of Japan (1880-1964))(person)",
+    "image_name": "448.png",
+    "answer": 0.20681636035442352
+  },
+  {
+    "question_id": 449,
+    "prompt": "An image of Mandela (South African statesman who was released from prison to become the nation's first democratically elected president in 1994 (born in 1918))(person)",
+    "image_name": "449.png",
+    "answer": 0.21227802336215973
+  },
+  {
+    "question_id": 450,
+    "prompt": "An image of Thomas Mann (German writer concerned about the role of the artist in bourgeois society (1875-1955))(person)",
+    "image_name": "450.png",
+    "answer": 0.21206216514110565
+  },
+  {
+    "question_id": 451,
+    "prompt": "An image of Mariah Carey (Mariah Carey is an American singer, songwriter, record producer, and actress.)(person)",
+    "image_name": "451.png",
+    "answer": 0.2226976901292801
+  },
+  {
+    "question_id": 452,
+    "prompt": "An image of Marlon Brando (Marlon Brando Jr. was an American actor and activist.)(person)",
+    "image_name": "452.png",
+    "answer": 0.21389427781105042
+  },
+  {
+    "question_id": 453,
+    "prompt": "An image of Mary Lou Williams (Mary Lou Williams was an American jazz pianist, arranger, and composer.)(person)",
+    "image_name": "453.png",
+    "answer": 0.23683208227157593
+  },
+  {
+    "question_id": 454,
+    "prompt": "An image of Matt Damon (Matthew Paige Damon is an American actor, film producer, and screenwriter.)(person)",
+    "image_name": "454.png",
+    "answer": 0.21605071425437927
+  },
+  {
+    "question_id": 455,
+    "prompt": "An image of Max Weinberg (Max Weinberg is an American drummer and television personality, most widely known as the longtime drummer for Bruce Springsteen's E Street Band and as the bandleader for Conan O'Brien on Late Night with Conan O'Brien and The Tonight Show with Conan O'Brien.)(person)",
+    "image_name": "455.png",
+    "answer": 0.21344780921936035
+  },
+  {
+    "question_id": 456,
+    "prompt": "An image of Melvin Gibbs (Melvin Gibbs is an American bass guitarist who has appeared on close to 200 albums in diverse genres of music.)(person)",
+    "image_name": "456.png",
+    "answer": 0.21638061106204987
+  },
+  {
+    "question_id": 457,
+    "prompt": "An image of Michael Biehn (Michael Connell Biehn is an American actor, primarily known for his roles in science fiction films directed by James Cameron; as Sgt.)(person)",
+    "image_name": "457.png",
+    "answer": 0.20220711827278137
+  },
+  {
+    "question_id": 458,
+    "prompt": "An image of Mickie James (Mickie Laree James is an American professional wrestler and country singer.)(person)",
+    "image_name": "458.png",
+    "answer": 0.2164079248905182
+  },
+  {
+    "question_id": 459,
+    "prompt": "An image of Miley Cyrus (Miley Ray Cyrus is an American singer, songwriter, and actress.)(person)",
+    "image_name": "459.png",
+    "answer": 0.22781214118003845
+  },
+  {
+    "question_id": 460,
+    "prompt": "An image of Morgan Freeman (Morgan Freeman is an American actor and producer.)(person)",
+    "image_name": "460.png",
+    "answer": 0.23653644323349
+  },
+  {
+    "question_id": 461,
+    "prompt": "An image of Neil Gaiman (Neil Richard MacKinnon Gaiman is an English author of short fiction, novels, comic books, graphic novels, audio theatre, and a screenwriter.)(person)",
+    "image_name": "461.png",
+    "answer": 0.21098901331424713
+  },
+  {
+    "question_id": 462,
+    "prompt": "An image of Nicole Kidman (Nicole Mary Kidman is an American and Australian actress and producer.)(person)",
+    "image_name": "462.png",
+    "answer": 0.2277655303478241
+  },
+  {
+    "question_id": 463,
+    "prompt": "An image of Nile Rodgers (Nile Gregory Rodgers Jr. is an American guitarist, singer, songwriter, record producer, and arranger.)(person)",
+    "image_name": "463.png",
+    "answer": 0.22248798608779907
+  },
+  {
+    "question_id": 464,
+    "prompt": "An image of George Orwell (Imaginative British writer concerned with social justice (1903-1950))(person)",
+    "image_name": "464.png",
+    "answer": 0.21111871302127838
+  },
+  {
+    "question_id": 465,
+    "prompt": "An image of Perry Como (Pierino Ronald \"Perry\" Como was an American singer, actor, and television personality.)(person)",
+    "image_name": "465.png",
+    "answer": 0.2096567153930664
+  },
+  {
+    "question_id": 466,
+    "prompt": "An image of Picasso (Prolific and influential Spanish artist who lived in France (1881-1973))(person)",
+    "image_name": "466.png",
+    "answer": 0.2015489637851715
+  },
+  {
+    "question_id": 467,
+    "prompt": "An image of Pierre de Coubertin (Charles Pierre de Fr\u00e9dy, Baron de Coubertin, also known as Pierre de Coubertin and Baron de Coubertin, was a French educator and historian, co-founder of the International Olympic Committee, and its second president.)(person)",
+    "image_name": "467.png",
+    "answer": 0.20692022144794464
+  },
+  {
+    "question_id": 468,
+    "prompt": "An image of Pope Benedict XVI (Pope Benedict XVI)(person)",
+    "image_name": "468.png",
+    "answer": 0.23608216643333435
+  },
+  {
+    "question_id": 469,
+    "prompt": "An image of Pope Francis (Pope Francis is the head of the Catholic Church, the bishop of Rome and sovereign of the Vatican City State.)(person)",
+    "image_name": "469.png",
+    "answer": 0.22481149435043335
+  },
+  {
+    "question_id": 470,
+    "prompt": "An image of Elvis Presley (United States rock singer whose many hit records and flamboyant style greatly influenced American popular music (1935-1977))(person)",
+    "image_name": "470.png",
+    "answer": 0.2138894498348236
+  },
+  {
+    "question_id": 471,
+    "prompt": "An image of Ray Charles (Ray Charles Robinson Sr. was an American singer, songwriter, and pianist.)(person)",
+    "image_name": "471.png",
+    "answer": 0.21555551886558533
+  },
+  {
+    "question_id": 472,
+    "prompt": "An image of Ronald Reagan (40th President of the United States (1911-2004))(person)",
+    "image_name": "472.png",
+    "answer": 0.22683560848236084
+  },
+  {
+    "question_id": 473,
+    "prompt": "An image of Red Skelton (Richard Red Skelton was an American entertainer best known for his national radio and television shows between 1937 and 1971, especially as host of the television program The Red Skelton Show.)(person)",
+    "image_name": "473.png",
+    "answer": 0.2246873676776886
+  },
+  {
+    "question_id": 474,
+    "prompt": "An image of Reinhard Heydrich (Reinhard Tristan Eugen Heydrich was a high-ranking German SS and police official during the Nazi era and a principal architect of the Holocaust.)(person)",
+    "image_name": "474.png",
+    "answer": 0.20553535223007202
+  },
+  {
+    "question_id": 475,
+    "prompt": "An image of Richard Wagner (judge) (Richard Wagner is a Canadian jurist serving as the 18th and current Chief Justice of Canada since 2017.)(person)",
+    "image_name": "475.png",
+    "answer": 0.21991853415966034
+  },
+  {
+    "question_id": 476,
+    "prompt": "An image of Rob Sheffield (Robert James Sheffield is an American music journalist and author.)(person)",
+    "image_name": "476.png",
+    "answer": 0.215615376830101
+  },
+  {
+    "question_id": 477,
+    "prompt": "An image of Robert Ridgway (Robert Ridgway was an American ornithologist specializing in systematics.)(person)",
+    "image_name": "477.png",
+    "answer": 0.2103724479675293
+  },
+  {
+    "question_id": 478,
+    "prompt": "An image of Rod Stewart (Sir Roderick David Stewart is a British rock and pop singer and songwriter.)(person)",
+    "image_name": "478.png",
+    "answer": 0.2212701141834259
+  },
+  {
+    "question_id": 479,
+    "prompt": "An image of Shigeru Miyamoto (Shigeru Miyamoto is a Japanese video game designer, producer and game director at Nintendo, where he serves as one of its representative directors as an executive since 2002.)(person)",
+    "image_name": "479.png",
+    "answer": 0.211767315864563
+  },
+  {
+    "question_id": 480,
+    "prompt": "An image of Joseph Stalin (Russian leader who succeeded Lenin as head of the Communist Party and created a totalitarian state by purging all opposition (1879-1953))(person)",
+    "image_name": "480.png",
+    "answer": 0.21615839004516602
+  },
+  {
+    "question_id": 481,
+    "prompt": "An image of Leopold Stokowski (United States conductor (born in Britain) (1882-1977))(person)",
+    "image_name": "481.png",
+    "answer": 0.2001679688692093
+  },
+  {
+    "question_id": 482,
+    "prompt": "An image of Richard Strauss (German composer of many operas; collaborated with librettist Hugo von Hoffmannsthal to produce several operas (1864-1949))(person)",
+    "image_name": "482.png",
+    "answer": 0.2005334049463272
+  },
+  {
+    "question_id": 483,
+    "prompt": "An image of Igor Stravinsky (Composer who was born in Russia but lived in the United States after 1939 (1882-1971))(person)",
+    "image_name": "483.png",
+    "answer": 0.2043401598930359
+  },
+  {
+    "question_id": 484,
+    "prompt": "An image of Mother Teresa (Indian nun and missionary in the Roman Catholic Church (born of Albanian parents in what is now Macedonia); dedicated to helping the poor in India (1910-1997))(person)",
+    "image_name": "484.png",
+    "answer": 0.2227008193731308
+  },
+  {
+    "question_id": 485,
+    "prompt": "An image of Thatcher (British stateswoman; first woman to serve as Prime Minister (born in 1925))(person)",
+    "image_name": "485.png",
+    "answer": 0.20292267203330994
+  },
+  {
+    "question_id": 486,
+    "prompt": "An image of Thomas Beecham (Sir Thomas Beecham, 2nd Baronet, CH was an English conductor and impresario best known for his association with the London Philharmonic and the Royal Philharmonic orchestras.)(person)",
+    "image_name": "486.png",
+    "answer": 0.21085529029369354
+  },
+  {
+    "question_id": 487,
+    "prompt": "An image of Usain Bolt (Usain St. Leo Bolt, is a retired Jamaican sprinter, widely considered to be the greatest sprinter of all time.)(person)",
+    "image_name": "487.png",
+    "answer": 0.21563076972961426
+  },
+  {
+    "question_id": 488,
+    "prompt": "An image of Adele (Adele Laurie Blue Adkins, known mononymously as Adele, is an English singer-songwriter.)(person)",
+    "image_name": "488.png",
+    "answer": 0.2253817319869995
+  },
+  {
+    "question_id": 489,
+    "prompt": "An image of Amartya Sen (Amartya Kumar Sen is an Indian economist and philosopher, who since 1972 has taught and worked in the United Kingdom and the United States.)(person)",
+    "image_name": "489.png",
+    "answer": 0.22328506410121918
+  },
+  {
+    "question_id": 490,
+    "prompt": "An image of Amelia Earhart (First woman aviator to fly solo nonstop across the Atlantic (1928); while attempting to fly around the world she disappeared over the Pacific (1898-1937))(person)",
+    "image_name": "490.png",
+    "answer": 0.21044692397117615
+  },
+  {
+    "question_id": 491,
+    "prompt": "An image of Angela Merkel (Angela Dorothea Merkel is a German former politician and scientist who served as chancellor of Germany from 2005 to 2021.)(person)",
+    "image_name": "491.png",
+    "answer": 0.2279607653617859
+  },
+  {
+    "question_id": 492,
+    "prompt": "An image of Angelina Jolie (Angelina Jolie is an American actress, filmmaker and humanitarian.)(person)",
+    "image_name": "492.png",
+    "answer": 0.21993476152420044
+  },
+  {
+    "question_id": 493,
+    "prompt": "An image of Barack Obama (President Barack Obama is an oil-on-canvas portrait of Barack Obama, the 44th president of the United States, completed by the artist Kehinde Wiley in 2018 for the National Portrait Gallery.)(person)",
+    "image_name": "493.png",
+    "answer": 0.21079707145690918
+  },
+  {
+    "question_id": 494,
+    "prompt": "An image of Bill Clinton (42nd President of the United States (1946-))(person)",
+    "image_name": "494.png",
+    "answer": 0.22563162446022034
+  },
+  {
+    "question_id": 495,
+    "prompt": "An image of Bill Gates (United States computer entrepreneur whose software company made him the youngest multi-billionaire in the history of the United States (born in 1955))(person)",
+    "image_name": "495.png",
+    "answer": 0.2295815646648407
+  },
+  {
+    "question_id": 496,
+    "prompt": "An image of David Beckham (David Robert Joseph Beckham is an English former professional footballer, the current president and co-owner of Inter Miami and co-owner of Salford City.)(person)",
+    "image_name": "496.png",
+    "answer": 0.22728461027145386
+  },
+  {
+    "question_id": 497,
+    "prompt": "An image of Elton John (Sir Elton Hercules John is a British singer, pianist and composer.)(person)",
+    "image_name": "497.png",
+    "answer": 0.2288222759962082
+  },
+  {
+    "question_id": 498,
+    "prompt": "An image of Francis Fukuyama (Francis Yoshihiro Fukuyama is an American political scientist, political economist, international relations scholar and writer.)(person)",
+    "image_name": "498.png",
+    "answer": 0.21753379702568054
+  },
+  {
+    "question_id": 499,
+    "prompt": "An image of Grace Hopper (Grace Brewster Hopper was an American computer scientist, mathematician, and United States Navy rear admiral.)(person)",
+    "image_name": "499.png",
+    "answer": 0.21322833001613617
+  },
+  {
+    "question_id": 500,
+    "prompt": "An image of Helmut Kohl (Helmut Josef Michael Kohl was a German politician who served as Chancellor of Germany from 1982 to 1998 and Leader of the Christian Democratic Union from 1973 to 1998.)(person)",
+    "image_name": "500.png",
+    "answer": 0.21423780918121338
+  },
+  {
+    "question_id": 501,
+    "prompt": "An image of Henry Kissinger (United States diplomat who served under President Nixon and President Ford (born in 1923))(person)",
+    "image_name": "501.png",
+    "answer": 0.2036965936422348
+  },
+  {
+    "question_id": 502,
+    "prompt": "An image of Justin Bieber (Justin Drew Bieber is a Canadian singer.)(person)",
+    "image_name": "502.png",
+    "answer": 0.2346688210964203
+  },
+  {
+    "question_id": 503,
+    "prompt": "An image of Lee Kuan Yew (Lee Kuan Yew, often referred to by his initials LKY, was a Singaporean statesman and lawyer who served as the first Prime Minister of Singapore from 1959 to 1990, and Secretary-General of the People's Action Party from 1954 to 1992.)(person)",
+    "image_name": "503.png",
+    "answer": 0.20495599508285522
+  },
+  {
+    "question_id": 504,
+    "prompt": "An image of Malala Yousafzai (Malala Yousafzai is a Pakistani female education activist and the 2014 Nobel Peace Prize laureate at the age of 17.)(person)",
+    "image_name": "504.png",
+    "answer": 0.22350722551345825
+  },
+  {
+    "question_id": 505,
+    "prompt": "An image of Mariah Carey (Mariah Carey is an American singer, songwriter, record producer, and actress.)(person)",
+    "image_name": "505.png",
+    "answer": 0.23555001616477966
+  },
+  {
+    "question_id": 506,
+    "prompt": "An image of Mark Zuckerberg (Mark Elliot Zuckerberg is an American business magnate, computer programmer, internet entrepreneur, and philanthropist.)(person)",
+    "image_name": "506.png",
+    "answer": 0.2335893213748932
+  },
+  {
+    "question_id": 507,
+    "prompt": "An image of Meghan, Duchess of Sussex (Meghan, Duchess of Sussex is an American member of the British royal family and former actress married to Prince Harry, Duke of Sussex, the younger son of King Charles III.)(person)",
+    "image_name": "507.png",
+    "answer": 0.23830647766590118
+  },
+  {
+    "question_id": 508,
+    "prompt": "An image of Michelle Obama (Michelle LaVaughn Robinson Obama is an American attorney and author who served as the first lady of the United States from 2009 to 2017, being married to former president Barack Obama.)(person)",
+    "image_name": "508.png",
+    "answer": 0.2228165864944458
+  },
+  {
+    "question_id": 509,
+    "prompt": "An image of Osama bin Laden (Arab terrorist who established al-Qaeda (born in 1957))(person)",
+    "image_name": "509.png",
+    "answer": 0.21899893879890442
+  },
+  {
+    "question_id": 510,
+    "prompt": "An image of Taylor Swift (Taylor Alison Swift is an American singer-songwriter.)(person)",
+    "image_name": "510.png",
+    "answer": 0.23322278261184692
+  },
+  {
+    "question_id": 511,
+    "prompt": "An image of Tim Cook (Timothy Donald Cook is an American business executive who became the chief executive officer of Apple Inc.)(person)",
+    "image_name": "511.png",
+    "answer": 0.23180723190307617
+  },
+  {
+    "question_id": 512,
+    "prompt": "An image of Vladimir Putin (Russian statesman chosen as president of the Russian Federation in 2000; formerly director of the Federal Security Bureau (born in 1952))(person)",
+    "image_name": "512.png",
+    "answer": 0.2099539339542389
+  },
+  {
+    "question_id": 513,
+    "prompt": "An image of Yoko Ono (United States musician (born in Japan) who married John Lennon and collaborated with him on recordings (born in 1933))(person)",
+    "image_name": "513.png",
+    "answer": 0.21134035289287567
+  },
+  {
+    "question_id": 514,
+    "prompt": "An image of Acacia excelsa (Acacia excelsa, also known as ironwood, rosewood, bunkerman and doodlallie is a tree of the genus Acacia and the subgenus Plurinerves that is endemic to inland parts of north-eastern Australia.)",
+    "image_name": "514.png",
+    "answer": 0.21939384937286377
+  },
+  {
+    "question_id": 515,
+    "prompt": "An image of Acacia mellifera (Senegalia mellifera is a common thorn tree in Africa.)",
+    "image_name": "515.png",
+    "answer": 0.2146872580051422
+  },
+  {
+    "question_id": 516,
+    "prompt": "An image of American oil palm (Palm of Central and South America)",
+    "image_name": "516.png",
+    "answer": 0.21684136986732483
+  },
+  {
+    "question_id": 517,
+    "prompt": "An image of American white birch (Small American birch with peeling white bark often worked into e.g. baskets or toy canoes)",
+    "image_name": "517.png",
+    "answer": 0.23238152265548706
+  },
+  {
+    "question_id": 518,
+    "prompt": "An image of American white oak (Large slow-growing deciduous tree of the eastern United States having stout spreading branches and leaves with usually 7 rounded lobes; yields strong and durable hard wood)",
+    "image_name": "518.png",
+    "answer": 0.22062891721725464
+  },
+  {
+    "question_id": 519,
+    "prompt": "An image of American white pine (Tall-growing pine of eastern North America; bark is brown with longitudinal fissures when mature; valued as a timber tree)",
+    "image_name": "519.png",
+    "answer": 0.22880657017230988
+  },
+  {
+    "question_id": 520,
+    "prompt": "An image of Arenaria(plant) (Sandworts)",
+    "image_name": "520.png",
+    "answer": 0.2040766179561615
+  },
+  {
+    "question_id": 521,
+    "prompt": "An image of Asclepias (Genus of chiefly North American perennial herbs: silkweed; milkweed)",
+    "image_name": "521.png",
+    "answer": 0.21126827597618103
+  },
+  {
+    "question_id": 522,
+    "prompt": "An image of Atlas cedar (Tall Algerian evergreen of Atlas mountains with blue-green leaves; widely planted as an ornamental)",
+    "image_name": "522.png",
+    "answer": 0.22295846045017242
+  },
+  {
+    "question_id": 523,
+    "prompt": "An image of Atriplex (Orach; saltbush)",
+    "image_name": "523.png",
+    "answer": 0.22468021512031555
+  },
+  {
+    "question_id": 524,
+    "prompt": "An image of Baccharis (Shrubs of western hemisphere often having honey-scented flowers followed by silky thistlelike heads of tiny fruits; often used for erosion control)",
+    "image_name": "524.png",
+    "answer": 0.2353413850069046
+  },
+  {
+    "question_id": 525,
+    "prompt": "An image of Bermuda grass (Trailing grass native to Europe now cosmopolitan in warm regions; used for lawns and pastures especially in southern United States and India)",
+    "image_name": "525.png",
+    "answer": 0.22184690833091736
+  },
+  {
+    "question_id": 526,
+    "prompt": "An image of Betula nana (Betula nana, the dwarf birch, is a species of birch in the family Betulaceae, found mainly in the tundra of the Arctic region.)",
+    "image_name": "526.png",
+    "answer": 0.22332912683486938
+  },
+  {
+    "question_id": 527,
+    "prompt": "An image of Calluna (One species)",
+    "image_name": "527.png",
+    "answer": 0.22975122928619385
+  },
+  {
+    "question_id": 528,
+    "prompt": "An image of Carduus (Genus of annual or perennial Old World prickly thistles)",
+    "image_name": "528.png",
+    "answer": 0.22263719141483307
+  },
+  {
+    "question_id": 529,
+    "prompt": "An image of Colorado spruce (Tall spruce with blue-green needles and dense conic crown; older trees become columnar with lower branches sweeping downward)",
+    "image_name": "529.png",
+    "answer": 0.22200679779052734
+  },
+  {
+    "question_id": 530,
+    "prompt": "An image of Descurainia sophia (Descurainia sophia is a member of the family Brassicaceae.)",
+    "image_name": "530.png",
+    "answer": 0.20646512508392334
+  },
+  {
+    "question_id": 531,
+    "prompt": "An image of Dianthus (Carnations and pinks)",
+    "image_name": "531.png",
+    "answer": 0.22150544822216034
+  },
+  {
+    "question_id": 532,
+    "prompt": "An image of Engelmann spruce (Tall spruce of Rocky Mountains and British Columbia with blue-green needles and acutely conic crown; wood used for rough lumber and boxes)",
+    "image_name": "532.png",
+    "answer": 0.23053283989429474
+  },
+  {
+    "question_id": 533,
+    "prompt": "An image of English plantain (An Old World plantain with long narrow ribbed leaves widely established in temperate regions)",
+    "image_name": "533.png",
+    "answer": 0.20740018784999847
+  },
+  {
+    "question_id": 534,
+    "prompt": "An image of Festuca rubra (Festuca rubra is a species of grass known by the common name red fescue, creeping red fescue or the rush-leaf fescue.)",
+    "image_name": "534.png",
+    "answer": 0.2186354249715805
+  },
+  {
+    "question_id": 535,
+    "prompt": "An image of Gossypium (Herbs and shrubs and small trees: cotton)",
+    "image_name": "535.png",
+    "answer": 0.21391913294792175
+  },
+  {
+    "question_id": 536,
+    "prompt": "An image of Heliamphora (Genus of pitcher plants of the Guiana Highlands in South America)",
+    "image_name": "536.png",
+    "answer": 0.22168992459774017
+  },
+  {
+    "question_id": 537,
+    "prompt": "An image of Indigofera (Genus of tropical herbs and shrubs having odd-pinnate leaves and spurred flowers in long racemes or spikes)",
+    "image_name": "537.png",
+    "answer": 0.21675685048103333
+  },
+  {
+    "question_id": 538,
+    "prompt": "An image of Japanese maple (Leaves deeply incised and bright red in autumn; Japan)",
+    "image_name": "538.png",
+    "answer": 0.19608236849308014
+  },
+  {
+    "question_id": 539,
+    "prompt": "An image of Jasminocereus thouarsii (Jasminocereus thouarsii is a species of plant in the Cactaceae family.)",
+    "image_name": "539.png",
+    "answer": 0.21889956295490265
+  },
+  {
+    "question_id": 540,
+    "prompt": "An image of Lilium bulbiferum (Lilium bulbiferum, common names orange lily, fire lily, Jimmy's Bane and tiger lily, is a herbaceous European lily with underground bulbs, belonging to the Liliaceae.)",
+    "image_name": "540.png",
+    "answer": 0.2182752937078476
+  },
+  {
+    "question_id": 541,
+    "prompt": "An image of Lupinus (Herbs or shrubs: lupin)",
+    "image_name": "541.png",
+    "answer": 0.21507184207439423
+  },
+  {
+    "question_id": 542,
+    "prompt": "An image of Malus (Apple trees; found throughout temperate zones of the northern hemisphere)(plant)",
+    "image_name": "542.png",
+    "answer": 0.21622592210769653
+  },
+  {
+    "question_id": 543,
+    "prompt": "An image of Morus (Type genus of the Moraceae: mulberries)",
+    "image_name": "543.png",
+    "answer": 0.2309032529592514
+  },
+  {
+    "question_id": 544,
+    "prompt": "An image of Nepenthes (Pitcher plants)",
+    "image_name": "544.png",
+    "answer": 0.2313634604215622
+  },
+  {
+    "question_id": 545,
+    "prompt": "An image of Norway maple (A large Eurasian maple tree naturalized in North America; five-lobed leaves yellow in autumn; cultivated in many varieties)",
+    "image_name": "545.png",
+    "answer": 0.21490207314491272
+  },
+  {
+    "question_id": 546,
+    "prompt": "An image of Norway spruce (Tall pyramidal spruce native to northern Europe having dark green foliage on spreading branches with pendulous branchlets and long pendulous cones)",
+    "image_name": "546.png",
+    "answer": 0.22167828679084778
+  },
+  {
+    "question_id": 547,
+    "prompt": "An image of Opuntia (Large genus of cactuses native to America: prickly pears)",
+    "image_name": "547.png",
+    "answer": 0.21340787410736084
+  },
+  {
+    "question_id": 548,
+    "prompt": "An image of Opuntia ficus-indica (Opuntia ficus-indica, the Indian fig opuntia, fig opuntia, or prickly pear, is a species of cactus that has long been a domesticated crop plant grown in agricultural economies throughout arid and semiarid parts of the world.)",
+    "image_name": "548.png",
+    "answer": 0.21351677179336548
+  },
+  {
+    "question_id": 549,
+    "prompt": "An image of Oregon ash (Timber tree of western North America yielding hard light wood; closely related to the red ash)",
+    "image_name": "549.png",
+    "answer": 0.21132880449295044
+  },
+  {
+    "question_id": 550,
+    "prompt": "An image of Oregon maple (Maple of western North America having large 5-lobed leaves orange in autumn)",
+    "image_name": "550.png",
+    "answer": 0.19974815845489502
+  },
+  {
+    "question_id": 551,
+    "prompt": "An image of Our Lord's candle (Yucca of southwestern United States and Mexico with a tall spike of creamy white flowers)",
+    "image_name": "551.png",
+    "answer": 0.22361454367637634
+  },
+  {
+    "question_id": 552,
+    "prompt": "An image of Pacific yew (Small or medium irregularly branched tree of the Pacific coast of North America; yields fine hard close-grained wood)",
+    "image_name": "552.png",
+    "answer": 0.2106044590473175
+  },
+  {
+    "question_id": 553,
+    "prompt": "An image of Papaver (Type genus of the Papaveraceae; chiefly bristly hairy herbs with usually showy flowers)",
+    "image_name": "553.png",
+    "answer": 0.22220903635025024
+  },
+  {
+    "question_id": 554,
+    "prompt": "An image of Phragmites (Reeds of marshes and riversides in tropical or temperate regions)",
+    "image_name": "554.png",
+    "answer": 0.22388961911201477
+  },
+  {
+    "question_id": 555,
+    "prompt": "An image of Pinguicula (Butterworts: a large genus of almost stemless carnivorous bog plants; Europe and America to Antarctica)",
+    "image_name": "555.png",
+    "answer": 0.21736273169517517
+  },
+  {
+    "question_id": 556,
+    "prompt": "An image of Podocarpus (Evergreen trees or shrubs; sometimes classified as member of the family Taxaceae)",
+    "image_name": "556.png",
+    "answer": 0.2166672945022583
+  },
+  {
+    "question_id": 557,
+    "prompt": "An image of Potentilla erecta (Potentilla erecta is a herbaceous perennial plant belonging to the rose family.)",
+    "image_name": "557.png",
+    "answer": 0.22488774359226227
+  },
+  {
+    "question_id": 558,
+    "prompt": "An image of Rubia (Type genus of the Rubiaceae; Old World herbs and subshrubs grown for their medicinal properties and for dye substances extracted from their roots)",
+    "image_name": "558.png",
+    "answer": 0.2072158008813858
+  },
+  {
+    "question_id": 559,
+    "prompt": "An image of Rubus armeniacus (Rubus armeniacus, the Himalayan blackberry or Armenian blackberry, is a species of Rubus in the blackberry group Rubus subgenus Rubus series Discolores )",
+    "image_name": "559.png",
+    "answer": 0.23092545568943024
+  },
+  {
+    "question_id": 560,
+    "prompt": "An image of Sambucus (Elder; elderberry)",
+    "image_name": "560.png",
+    "answer": 0.22940245270729065
+  },
+  {
+    "question_id": 561,
+    "prompt": "An image of Sarracenia (Pitcher plants)",
+    "image_name": "561.png",
+    "answer": 0.23288841545581818
+  },
+  {
+    "question_id": 562,
+    "prompt": "An image of Scotch pine (Medium large two-needled pine of northern Europe and Asia having flaking red-brown bark)",
+    "image_name": "562.png",
+    "answer": 0.20456449687480927
+  },
+  {
+    "question_id": 563,
+    "prompt": "An image of Sequoioideae (Sequoioideae, commonly referred to as redwoods, is a subfamily of coniferous trees within the family Cupressaceae.)",
+    "image_name": "563.png",
+    "answer": 0.23023924231529236
+  },
+  {
+    "question_id": 564,
+    "prompt": "An image of Shumard oak (Large deciduous red oak of southern and eastern United States having large seven-lobed to nine-lobed elliptical leaves, large acorns and medium hard coarse-grained wood)",
+    "image_name": "564.png",
+    "answer": 0.2231501191854477
+  },
+  {
+    "question_id": 565,
+    "prompt": "An image of Solidago (Goldenrod)",
+    "image_name": "565.png",
+    "answer": 0.22848814725875854
+  },
+  {
+    "question_id": 566,
+    "prompt": "An image of Syzygium (A tropical evergreen tree of the myrtle family native to the East Indies but cultivated elsewhere)",
+    "image_name": "566.png",
+    "answer": 0.22291840612888336
+  },
+  {
+    "question_id": 567,
+    "prompt": "An image of Typha (Reed maces; cattails)",
+    "image_name": "567.png",
+    "answer": 0.2190840244293213
+  },
+  {
+    "question_id": 568,
+    "prompt": "An image of Venus's flytrap (Carnivorous plant of coastal plains of the Carolinas having sensitive hinged marginally bristled leaf blades that close and entrap insects)",
+    "image_name": "568.png",
+    "answer": 0.21922209858894348
+  },
+  {
+    "question_id": 569,
+    "prompt": "An image of Wisteria sinensis (Wisteria sinensis, commonly known as the Chinese wisteria, is a species of flowering plant in the pea family, native to China, in the provinces of Guangxi, Guizhou, Hebei, Henan, Hubei, Shaanxi, and Yunnan.)",
+    "image_name": "569.png",
+    "answer": 0.21316489577293396
+  },
+  {
+    "question_id": 570,
+    "prompt": "An image of amabilis fir (Medium to tall fir of western North America having a conic crown and branches in tiers; leaves smell of orange when crushed)",
+    "image_name": "570.png",
+    "answer": 0.22524598240852356
+  },
+  {
+    "question_id": 571,
+    "prompt": "An image of asparagus (Plant whose succulent young shoots are cooked and eaten as a vegetable)(plant)",
+    "image_name": "571.png",
+    "answer": 0.2105003148317337
+  },
+  {
+    "question_id": 572,
+    "prompt": "An image of auricula (Yellow-flowered primrose native to Alps; commonly cultivated)",
+    "image_name": "572.png",
+    "answer": 0.21415838599205017
+  },
+  {
+    "question_id": 573,
+    "prompt": "An image of azalea (Any of numerous ornamental shrubs grown for their showy flowers of various colors)(plant)",
+    "image_name": "573.png",
+    "answer": 0.2156623899936676
+  },
+  {
+    "question_id": 574,
+    "prompt": "An image of balsam fir (Medium-sized fir of northeastern North America; leaves smell of balsam when crushed; much used for pulpwood and Christmas trees)",
+    "image_name": "574.png",
+    "answer": 0.2118438482284546
+  },
+  {
+    "question_id": 575,
+    "prompt": "An image of Adansonia digitata (African tree having an exceedingly thick trunk and fruit that resembles a gourd and has an edible pulp called monkey bread)",
+    "image_name": "575.png",
+    "answer": 0.23386499285697937
+  },
+  {
+    "question_id": 576,
+    "prompt": "An image of basil thyme (Fragrant European mint having clusters of small violet-and-white flowers; naturalized especially in eastern North America)",
+    "image_name": "576.png",
+    "answer": 0.22652560472488403
+  },
+  {
+    "question_id": 577,
+    "prompt": "An image of bird cherry (Any of several small-fruited cherry trees frequented or fed on by birds)",
+    "image_name": "577.png",
+    "answer": 0.21368038654327393
+  },
+  {
+    "question_id": 578,
+    "prompt": "An image of black locust (Large thorny tree of eastern and central United States having pinnately compound leaves and drooping racemes of white flowers; widely naturalized in many varieties in temperate regions)",
+    "image_name": "578.png",
+    "answer": 0.21354903280735016
+  },
+  {
+    "question_id": 579,
+    "prompt": "An image of black nightshade (Eurasian herb naturalized in America having white flowers and poisonous hairy foliage and bearing black berries that are sometimes poisonous but sometimes edible)",
+    "image_name": "579.png",
+    "answer": 0.21703572571277618
+  },
+  {
+    "question_id": 580,
+    "prompt": "An image of black spruce (Small spruce of boggy areas of northeastern North America having spreading branches with dense foliage; inferior wood)",
+    "image_name": "580.png",
+    "answer": 0.21756547689437866
+  },
+  {
+    "question_id": 581,
+    "prompt": "An image of blue grama (A pasture grass of western North America)",
+    "image_name": "581.png",
+    "answer": 0.2164015769958496
+  },
+  {
+    "question_id": 582,
+    "prompt": "An image of brookweed (American water pimpernel)",
+    "image_name": "582.png",
+    "answer": 0.19461196660995483
+  },
+  {
+    "question_id": 583,
+    "prompt": "An image of broomcorn millet (Extensively cultivated in Europe and Asia for its grain and in United States sometimes for forage)",
+    "image_name": "583.png",
+    "answer": 0.22949278354644775
+  },
+  {
+    "question_id": 584,
+    "prompt": "An image of buffalo grass (Short grass growing on dry plains of central United States (where buffalo roam))",
+    "image_name": "584.png",
+    "answer": 0.2201303243637085
+  },
+  {
+    "question_id": 585,
+    "prompt": "An image of burn plant (Very short-stemmed plant with thick leaves with soothing mucilaginous juice; leaves develop spiny margins with maturity; native to Mediterranean region; grown widely in tropics and as houseplants)",
+    "image_name": "585.png",
+    "answer": 0.21724382042884827
+  },
+  {
+    "question_id": 586,
+    "prompt": "An image of butterfly bush (Tropical shrub having clusters of white or violet or yellow flowers)",
+    "image_name": "586.png",
+    "answer": 0.22120064496994019
+  },
+  {
+    "question_id": 587,
+    "prompt": "An image of carnation (Eurasian plant with pink to purple-red spice-scented usually double flowers; widely cultivated in many varieties and many colors)(plant)",
+    "image_name": "587.png",
+    "answer": 0.21773014962673187
+  },
+  {
+    "question_id": 588,
+    "prompt": "An image of cayenne (Plant bearing very hot and finely tapering long peppers; usually red)(plant)",
+    "image_name": "588.png",
+    "answer": 0.22391243278980255
+  },
+  {
+    "question_id": 589,
+    "prompt": "An image of cherry blossom (A cherry blossom, also known as a Japanese cherry or sakura, is a flower of trees in the genus Prunus or the Prunus subgenus Cerasus.)(plant)",
+    "image_name": "589.png",
+    "answer": 0.21809053421020508
+  },
+  {
+    "question_id": 590,
+    "prompt": "An image of chicory (Perennial Old World herb having rayed flower heads with blue florets cultivated for its root and its heads of crisp edible leaves used in salads)",
+    "image_name": "590.png",
+    "answer": 0.22586314380168915
+  },
+  {
+    "question_id": 591,
+    "prompt": "An image of chinaberry (Tree of northern India and China having purple blossoms and small inedible yellow fruits; naturalized in the southern United States as a shade tree)",
+    "image_name": "591.png",
+    "answer": 0.22635841369628906
+  },
+  {
+    "question_id": 592,
+    "prompt": "An image of clusia (An aromatic tree of the genus Clusia having large white or yellow or pink flowers)",
+    "image_name": "592.png",
+    "answer": 0.21355871856212616
+  },
+  {
+    "question_id": 593,
+    "prompt": "An image of cobnut (Small nut-bearing tree much grown in Europe)",
+    "image_name": "593.png",
+    "answer": 0.23334407806396484
+  },
+  {
+    "question_id": 594,
+    "prompt": "An image of coconut (Tall palm tree bearing coconuts as fruits; widely planted throughout the tropics)(plant)",
+    "image_name": "594.png",
+    "answer": 0.21141670644283295
+  },
+  {
+    "question_id": 595,
+    "prompt": "An image of Prunus armeniaca (Temperate zone tree bearing downy yellow to rosy fruits)",
+    "image_name": "595.png",
+    "answer": 0.20951035618782043
+  },
+  {
+    "question_id": 596,
+    "prompt": "An image of Fagus sylvatica (Large European beech with minutely-toothed leaves; widely planted as an ornamental in North America)",
+    "image_name": "596.png",
+    "answer": 0.21265675127506256
+  },
+  {
+    "question_id": 597,
+    "prompt": "An image of Eriophorum angustifolium (Having densely tufted white cottony or downlike glumes)",
+    "image_name": "597.png",
+    "answer": 0.23485815525054932
+  },
+  {
+    "question_id": 598,
+    "prompt": "An image of common matrimony vine (Deciduous erect or spreading shrub with spiny branches and violet-purple flowers followed by orange-red berries; southeastern Europe to China)",
+    "image_name": "598.png",
+    "answer": 0.21315142512321472
+  },
+  {
+    "question_id": 599,
+    "prompt": "An image of common oak (Medium to large deciduous European oak having smooth leaves with rounded lobes; yields hard strong light-colored wood)",
+    "image_name": "599.png",
+    "answer": 0.22633850574493408
+  },
+  {
+    "question_id": 600,
+    "prompt": "An image of common purslane (Weedy trailing mat-forming herb with bright yellow flowers cultivated for its edible mildly acid leaves eaten raw or cooked especially in Indian and Greek and Middle Eastern cuisine; cosmopolitan)",
+    "image_name": "600.png",
+    "answer": 0.22008273005485535
+  },
+  {
+    "question_id": 601,
+    "prompt": "An image of common spotted orchid (European orchid having lanceolate leaves spotted purple and pink to white or mauve flowers spotted or lined deep red or purple)",
+    "image_name": "601.png",
+    "answer": 0.22631999850273132
+  },
+  {
+    "question_id": 602,
+    "prompt": "An image of common sunflower (Annual sunflower grown for silage and for its seeds which are a source of oil; common throughout United States and much of North America)",
+    "image_name": "602.png",
+    "answer": 0.21687757968902588
+  },
+  {
+    "question_id": 603,
+    "prompt": "An image of common tobacco (Tall erect South American herb with large ovate leaves and terminal clusters of tubular white or pink flowers; cultivated for its leaves)",
+    "image_name": "603.png",
+    "answer": 0.2265358716249466
+  },
+  {
+    "question_id": 604,
+    "prompt": "An image of common wheat (Widely cultivated in temperate regions in many varieties for its commercially important grain)",
+    "image_name": "604.png",
+    "answer": 0.2407742440700531
+  },
+  {
+    "question_id": 605,
+    "prompt": "An image of common wormwood (Aromatic herb of temperate Eurasia and North Africa having a bitter taste used in making the liqueur absinthe)",
+    "image_name": "605.png",
+    "answer": 0.2281566858291626
+  },
+  {
+    "question_id": 606,
+    "prompt": "An image of coral bush (Australian shrub having simple obovate leaves and brilliant scarlet flowers)",
+    "image_name": "606.png",
+    "answer": 0.22199499607086182
+  },
+  {
+    "question_id": 607,
+    "prompt": "An image of cork oak (Medium-sized evergreen oak of southern Europe and northern Africa having thick corky bark that is periodically stripped to yield commercial cork)",
+    "image_name": "607.png",
+    "answer": 0.21291384100914001
+  },
+  {
+    "question_id": 608,
+    "prompt": "An image of cornflower (An annual Eurasian plant cultivated in North America having showy heads of blue or purple or pink or white flowers)",
+    "image_name": "608.png",
+    "answer": 0.23672154545783997
+  },
+  {
+    "question_id": 609,
+    "prompt": "An image of cowberry (Low evergreen shrub of high north temperate regions of Europe and Asia and America bearing red edible berries)",
+    "image_name": "609.png",
+    "answer": 0.21648573875427246
+  },
+  {
+    "question_id": 610,
+    "prompt": "An image of crocus (Any of numerous low-growing plants of the genus Crocus having slender grasslike leaves and white or yellow or purple flowers; native chiefly to the Mediterranean region but widely cultivated)(plant)",
+    "image_name": "610.png",
+    "answer": 0.22088122367858887
+  },
+  {
+    "question_id": 611,
+    "prompt": "An image of cucumber (A melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit)(plant)",
+    "image_name": "611.png",
+    "answer": 0.21835169196128845
+  },
+  {
+    "question_id": 612,
+    "prompt": "An image of daffodil (Any of numerous varieties of Narcissus plants having showy often yellow flowers with a trumpet-shaped central crown)",
+    "image_name": "612.png",
+    "answer": 0.2180214822292328
+  }
+]
