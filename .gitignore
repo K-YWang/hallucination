@@ -1,3 +1,4 @@
 *.png
 *.parquet
 *.zip
+*.whl
